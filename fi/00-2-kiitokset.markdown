@@ -25,10 +25,6 @@ Kiitos kaikille, joilta olemme saaneet asiantuntevaa apua oppaan kirjoittamisess
 
 Tämä selvitys on kiteymä käynnissä olevasta keskustelusta. Julkaisu on jo ennen valmistumistaan ollut avoimesti kiinnostuneiden kommentoitavissa verkossa Google Docs -alustalla ja kommentointimahdollisuutta jatketaan. Toivotamme lukijat tervetulleeksi esittämään ajatuksia, kysyymyksiä, vastalauseita ja parannusehdotuksia osoitteesta [http://bit.ly/mydata_selvitys](http://bit.ly/mydata_selvitys) löytyvään selvityksen elävään versioon.
 
-**Sisällysluettelo**
-
-[[TOC]]
-
 [image-cc-logo]: images/image-cc-logo.png
 [image-okf-logo]: images/image-okf-logo.png
 [image-0-1]: images/image-0-1.png
