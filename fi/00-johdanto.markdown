@@ -112,7 +112,8 @@ Luvussa 5 tarkastellaan eri toimijoiden (yksilöt, yritykset, tutkimus, julkisha
 
 <table>
   <tr>
-    <td>My Data ja avoin data
+    <td>**My Data ja avoin data**<br/>
+    
 Viime vuosina erityisesti julkishallinnon keräämiä tietovarantoja on avattu niiden hyötykäytön lisäämiseksi. Myös ihmisten henkilötiedon alueella selkeillä datan hallinnan periaatteilla, paremmalla yhteentoimivuudella ja datan siirrettävyydellä voidaan saavuttaa mittavia hyötyjä. Tällä hetkellä henkilötieto on rajusti alikäytetty 'raaka-aine' uusille palveluille.
 
 Avoimella datalla ja My Datalla on ilmeisiä liittymäkohtia. Molemmissa tarvitaan yhteisistä periaatteista sopimista, viisasta sääntelyä sekä koneluettavia rajapintoja, standardeja ja palveluita tiedon hallittuun siirtämiseen, varastointiin, käsittelyyn ja analysointiin.

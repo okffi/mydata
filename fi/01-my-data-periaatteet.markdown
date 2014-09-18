@@ -36,7 +36,7 @@ My Data -ajattelu korostaa oikeuksien ohella myös käytännön mahdollisuuksia.
 
 <table>
   <tr>
-    <td><b>Ei puhuta datan omistajuudesta</b>
+    <td>**Ei puhuta datan omistajuudesta**<br/>
 
 Arkijärjellä ymmärrettynä My Dataan liittyy ajatus omistajuudesta. Ihmisillä pitäisi olla oikeus omistaa omat tietonsa. Datan omistajuuden käsite on kuitenkin varsin hankala.
 
@@ -118,7 +118,7 @@ Henkilötiedon arvoketjun pilkkominen on strategisesti merkittävä muutos, joka
 
 <table>
   <tr>
-    <td><b>Organisaation My Data -johtosääntö (policy)</b>
+    <td>**Organisaation My Data -johtosääntö (policy)**<br/>
 
 My Data -johtosääntöä voidaan nähdä tietoturvaohjeistusten, rekisteriselosteiden ja käyttöehtojen laatimista ohjaavana yleisenä linjauksena toimia My Data -periaatteiden mukaisesti. Johtosäännön ohjaamista rekisteriselosteista ja käyttöehdoista ilmenee, mitä tietoja asiakkaan on mahdollista saada itselleen ja missä muodossa. Vastaavasti johtosäännön ohjaamana laadittu tietoturvaohje toimii yrityksen sisällä selkeänä ohjeistuksena siitä, miten organisaatiossa käytännössä huolehditaan sen hallussa olevan My Data -aineiston tietoturvasta.
 
