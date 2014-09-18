@@ -36,19 +36,19 @@ My Data -ajattelu korostaa oikeuksien ohella myös käytännön mahdollisuuksia.
 
 <table>
   <tr>
-    <td>**Ei puhuta datan omistajuudesta**<br/>
+    <td></b>Ei puhuta datan omistajuudesta</b><br/>
 
-Arkijärjellä ymmärrettynä My Dataan liittyy ajatus omistajuudesta. Ihmisillä pitäisi olla oikeus omistaa omat tietonsa. Datan omistajuuden käsite on kuitenkin varsin hankala.
+Arkijärjellä ymmärrettynä My Dataan liittyy ajatus omistajuudesta. Ihmisillä pitäisi olla oikeus omistaa omat tietonsa. Datan omistajuuden käsite on kuitenkin varsin hankala.<br/>
 
-Omistaminen on helposti ymmärrettävissä irtaimiston tai kiinteän omaisuuden kohdalla, joiden omistaja voi määrätä niistä muut poissulkevasti. Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen metsästä kaataa puita ilman lupaa.
+Omistaminen on helposti ymmärrettävissä irtaimiston tai kiinteän omaisuuden kohdalla, joiden omistaja voi määrätä niistä muut poissulkevasti. Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen metsästä kaataa puita ilman lupaa.<br/>
 
-Tiedon suhteen omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat tietää samoja asioita, emmekä voi estää ketään tietämästä jotain. Taloustieteellisin termein: tieto on kilpailematon hyödyke. Se että yksi ihminen tietää jotain ja käyttää sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja hyödyntämästä samaa tietoa. Vastaavasti kun dataa kopioidaan ei yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain harvoilla on mahdollisuus sitä hyödyntää. 
+Tiedon suhteen omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat tietää samoja asioita, emmekä voi estää ketään tietämästä jotain. Taloustieteellisin termein: tieto on kilpailematon hyödyke. Se että yksi ihminen tietää jotain ja käyttää sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja hyödyntämästä samaa tietoa. Vastaavasti kun dataa kopioidaan ei yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain harvoilla on mahdollisuus sitä hyödyntää.<br/>
 
-Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua esimerkiksi tekijänoikeuksien, liikesalaisuuden tai yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle mahdollisuuden kieltää muita hyödyntämästä tietoa.
+Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua esimerkiksi tekijänoikeuksien, liikesalaisuuden tai yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle mahdollisuuden kieltää muita hyödyntämästä tietoa.<br/>
 
-Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi. Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai poistaa data asiakassuhteen päättyessä.
+Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi. Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai poistaa data asiakassuhteen päättyessä.<br/>
 
-My Datalla tavoitellaan sitä, että ihmisillä on oikeus ja todellinen käytännöllinen mahdollisuus hallita omia tietojaan. Omistajuuden käsitteen sijaan olemme päätyneet siis puhumaan hallinnasta (control).
+My Datalla tavoitellaan sitä, että ihmisillä on oikeus ja todellinen käytännöllinen mahdollisuus hallita omia tietojaan. Omistajuuden käsitteen sijaan olemme päätyneet siis puhumaan hallinnasta (control).<br/>
 
 (Pitkänen 2014)</td>
   </tr>
