@@ -36,19 +36,19 @@ My Data -ajattelu korostaa oikeuksien ohella myös käytännön mahdollisuuksia.
 
 <table>
   <tr>
-    <td></b>Ei puhuta datan omistajuudesta</b><br/>
+    <td><b>Ei puhuta datan omistajuudesta</b><br/>
 
-Arkijärjellä ymmärrettynä My Dataan liittyy ajatus omistajuudesta. Ihmisillä pitäisi olla oikeus omistaa omat tietonsa. Datan omistajuuden käsite on kuitenkin varsin hankala.<br/>
+<p>Arkijärjellä ymmärrettynä My Dataan liittyy ajatus omistajuudesta. Ihmisillä pitäisi olla oikeus omistaa omat tietonsa. Datan omistajuuden käsite on kuitenkin varsin hankala.</p>
 
-Omistaminen on helposti ymmärrettävissä irtaimiston tai kiinteän omaisuuden kohdalla, joiden omistaja voi määrätä niistä muut poissulkevasti. Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen metsästä kaataa puita ilman lupaa.<br/>
+<p>Omistaminen on helposti ymmärrettävissä irtaimiston tai kiinteän omaisuuden kohdalla, joiden omistaja voi määrätä niistä muut poissulkevasti. Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen metsästä kaataa puita ilman lupaa.</p>
 
-Tiedon suhteen omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat tietää samoja asioita, emmekä voi estää ketään tietämästä jotain. Taloustieteellisin termein: tieto on kilpailematon hyödyke. Se että yksi ihminen tietää jotain ja käyttää sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja hyödyntämästä samaa tietoa. Vastaavasti kun dataa kopioidaan ei yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain harvoilla on mahdollisuus sitä hyödyntää.<br/>
+<p>Tiedon suhteen omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat tietää samoja asioita, emmekä voi estää ketään tietämästä jotain. Taloustieteellisin termein: tieto on kilpailematon hyödyke. Se että yksi ihminen tietää jotain ja käyttää sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja hyödyntämästä samaa tietoa. Vastaavasti kun dataa kopioidaan ei yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain harvoilla on mahdollisuus sitä hyödyntää.</p>
 
-Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua esimerkiksi tekijänoikeuksien, liikesalaisuuden tai yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle mahdollisuuden kieltää muita hyödyntämästä tietoa.<br/>
+<p>Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua esimerkiksi tekijänoikeuksien, liikesalaisuuden tai yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle mahdollisuuden kieltää muita hyödyntämästä tietoa.</p>
 
-Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi. Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai poistaa data asiakassuhteen päättyessä.<br/>
+<p>Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi. Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai poistaa data asiakassuhteen päättyessä.</p>
 
-My Datalla tavoitellaan sitä, että ihmisillä on oikeus ja todellinen käytännöllinen mahdollisuus hallita omia tietojaan. Omistajuuden käsitteen sijaan olemme päätyneet siis puhumaan hallinnasta (control).<br/>
+<p>My Datalla tavoitellaan sitä, että ihmisillä on oikeus ja todellinen käytännöllinen mahdollisuus hallita omia tietojaan. Omistajuuden käsitteen sijaan olemme päätyneet siis puhumaan hallinnasta (control).</p>
 
 (Pitkänen 2014)</td>
   </tr>
@@ -118,15 +118,15 @@ Henkilötiedon arvoketjun pilkkominen on strategisesti merkittävä muutos, joka
 
 <table>
   <tr>
-    <td>**Organisaation My Data -johtosääntö (policy)**<br/>
+    <td><b>Organisaation My Data -johtosääntö (policy)</b><br/>
 
-My Data -johtosääntöä voidaan nähdä tietoturvaohjeistusten, rekisteriselosteiden ja käyttöehtojen laatimista ohjaavana yleisenä linjauksena toimia My Data -periaatteiden mukaisesti. Johtosäännön ohjaamista rekisteriselosteista ja käyttöehdoista ilmenee, mitä tietoja asiakkaan on mahdollista saada itselleen ja missä muodossa. Vastaavasti johtosäännön ohjaamana laadittu tietoturvaohje toimii yrityksen sisällä selkeänä ohjeistuksena siitä, miten organisaatiossa käytännössä huolehditaan sen hallussa olevan My Data -aineiston tietoturvasta.
+<p>My Data -johtosääntöä voidaan nähdä tietoturvaohjeistusten, rekisteriselosteiden ja käyttöehtojen laatimista ohjaavana yleisenä linjauksena toimia My Data -periaatteiden mukaisesti. Johtosäännön ohjaamista rekisteriselosteista ja käyttöehdoista ilmenee, mitä tietoja asiakkaan on mahdollista saada itselleen ja missä muodossa. Vastaavasti johtosäännön ohjaamana laadittu tietoturvaohje toimii yrityksen sisällä selkeänä ohjeistuksena siitä, miten organisaatiossa käytännössä huolehditaan sen hallussa olevan My Data -aineiston tietoturvasta.</p>
 
-Yrityksen tai palveluntarjoajan My Data -johtosääntö voi riippua esimerkiksi toimialasta, koska yrityksiä on monenlaisia ja dataa kerätään eri käyttötarkoituksiin. Esimerkiksi terveysalan yrityksen My Data -johtosääntö saattaa olla yksityiskohtaisempi ja tiukempi kuin ohjelmointiyrityksen, joka tekee sovelluksia ornitologeille 'The Birds I've Seen Lately' -tietokantojen pohjalta.
+<p>Yrityksen tai palveluntarjoajan My Data -johtosääntö voi riippua esimerkiksi toimialasta, koska yrityksiä on monenlaisia ja dataa kerätään eri käyttötarkoituksiin. Esimerkiksi terveysalan yrityksen My Data -johtosääntö saattaa olla yksityiskohtaisempi ja tiukempi kuin ohjelmointiyrityksen, joka tekee sovelluksia ornitologeille 'The Birds I've Seen Lately' -tietokantojen pohjalta.</p>
 
-Osa yrityksistä on myös valmiita jakamaan dataa avoimesti asiakkaalleen. Harvoja esim. terveystietoon liittyviä poikkeuksia lukuunottamatta lainsäädäntö ei estä asiakkaan datan antamista asiakkaalle itselleen. Tulevaisuudessa asiakkaan kannalta hyvästä My Data -johtosäännöstä voi tulla merkittävä kilpailutekijä. Johtosäännön pitää tukea henkilötiedon käsittelyä yrityksessä ja kertoa ulospäin, miten dataa kerätään, käsitellään, jaetaan jne.
+<p>Osa yrityksistä on myös valmiita jakamaan dataa avoimesti asiakkaalleen. Harvoja esim. terveystietoon liittyviä poikkeuksia lukuunottamatta lainsäädäntö ei estä asiakkaan datan antamista asiakkaalle itselleen. Tulevaisuudessa asiakkaan kannalta hyvästä My Data -johtosäännöstä voi tulla merkittävä kilpailutekijä. Johtosäännön pitää tukea henkilötiedon käsittelyä yrityksessä ja kertoa ulospäin, miten dataa kerätään, käsitellään, jaetaan jne.</p>
 
-Henkilötietolainsäädäntö edellyttää jo nyt henkilörekisteriselosteiden ylläpitämistä. Palveluilla on käyttöehdot, joihin käyttäjät sitoutuvat, usein niitä lukematta. Yritysten tietoturvaohjeistuksista tai niiden liitteenä olevista tiedon luokitteluohjeista yleensä käy ilmi, käsitelläänkö teletunnistetietoa, henkilötietoa tai asiakkaiden luottamuksellista tietoa, saako henkilötunnuksia käsitellä, saako salaisia tietoja käsitellä yrityksen järjestelmissä jne. My Data -periaatteiden mukaiset käytännöt olisivat tarkennuksia tällaisiin asiakkaan tietojen käsittelyohjeisiin.</td>
+<p>Henkilötietolainsäädäntö edellyttää jo nyt henkilörekisteriselosteiden ylläpitämistä. Palveluilla on käyttöehdot, joihin käyttäjät sitoutuvat, usein niitä lukematta. Yritysten tietoturvaohjeistuksista tai niiden liitteenä olevista tiedon luokitteluohjeista yleensä käy ilmi, käsitelläänkö teletunnistetietoa, henkilötietoa tai asiakkaiden luottamuksellista tietoa, saako henkilötunnuksia käsitellä, saako salaisia tietoja käsitellä yrityksen järjestelmissä jne. My Data -periaatteiden mukaiset käytännöt olisivat tarkennuksia tällaisiin asiakkaan tietojen käsittelyohjeisiin.</p></td>
   </tr>
 </table>
 
