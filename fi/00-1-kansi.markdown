@@ -1,16 +1,6 @@
-<hr/>
-Liikenne- ja viestintäministeriön (LVM) julkaiseman **My Data -johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen (Poikola, Kuikkaniemi, Kuittinen 2014)** -selvityksen raakateksti koneluettavassa Markdown -muodossa.
-
-Alkuperäinen julkaisu on ladattavissa PDF-muodossa LVM:ön sivuilta osoitteesta [http://www.lvm.fi/julkaisu/4420389/my-data-johdatus-ihmiskeskeiseen-henkilotiedon-hyodyntamiseen](http://www.lvm.fi/julkaisu/4420389/my-data-johdatus-ihmiskeskeiseen-henkilotiedon-hyodyntamiseen)
-
-<hr/>
-
-
 ![My Data -johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen][image-cover]
 
-<hr/>
-
-#Avoimesti lisensoitu opas
+**Avoimesti lisensoitu opas**
 <table>
   <tr>
     <td>![Creative Commons 4.0 by][image-cc-logo] </td>
@@ -30,14 +20,13 @@ ISBN 978-952-243-417-3 (painotuote)
 
 ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muut_julkaisut](http://www.lvm.fi/asiakirjat_ja_muut_julkaisut) )
 
-<hr/>
 #Sisältö
 
-[Kiitokset](fi/00-2-kiitokset.markdown)
+[Kiitokset](00-2-kiitokset.markdown)
 
-[Esipuhe](fi/00-3-esipuhe.markdown)
+[Esipuhe](00-3-esipuhe.markdown)
 
-[Johdanto](fi/00-johdanto.markdown)
+[Johdanto](00-johdanto.markdown)
 
 - My Data -ajattelun lähtökohdat
 - My Data käsitteenä
@@ -47,7 +36,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- Yhteiskunnalle laajemmin
 - Selvityksen sisältö
 
-[1. My Data -periaatteet](fi/01-my-data-periaatteet.markdown)
+[1. My Data -periaatteet](01-my-data-periaatteet.markdown)
 
 - 1.1. Periaatteet
 	- 1.1.1 Oikeus ja mahdollisuus hallita omaa dataa
@@ -55,7 +44,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- 1.1.3 Hallinnan hajauttaminen ja yhteentoimivuus
 - 1.2 Henkilötiedon arvoketjun pilkkoutuminen ihmiskeskeisesti
 
-[2. My Datan lähteet](fi/02-my-datan-lahteet.markdown)
+[2. My Datan lähteet](02-my-datan-lahteet.markdown)
 
 - 2.1 Miten henkilötietoa syntyy?
 - 2.2 Miten henkilötieto muuttuu My Dataksi?
@@ -64,7 +53,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- 2.3.2 Yksityisyysasetusten hallinta rajapintojen kautta
 - 2.4 Rajapintoihin liittyvät standardit ja formaatit
 
-[3. My Data -palveluinfrastruktuuri](fi/03-my-data-palveluinfrastruktuuri.markdown)
+[3. My Data -palveluinfrastruktuuri](03-my-data-palveluinfrastruktuuri.markdown)
 
 - 3.1 Henkilötiedon organisointitapoja
 	- 3.1.1 Infrastruktuuriton API-ekosysteemi
@@ -77,7 +66,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- 3.2.4 Anonymisointipalvelut
 - 3.3 My Data -operaattori
 
-[4. My Datan hyödyntäminen](fi/04-my-datan-hyodyntaminen.markdown)
+[4. My Datan hyödyntäminen](04-my-datan-hyodyntaminen.markdown)
 
 - 4.1 Itsestään ja ympäristöstään oppiminen
 	- 4.1.1 Itsensä mittaaminen
@@ -90,7 +79,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- 4.3.1 Palvelumuotoilu ja itse tekeminen
 	- 4.3.2 My Datan sosiaaliset näkökulmat
 
-[5. Toimintaympäristö ja askelmerkit](fi/05-toimintaymparisto-ja-askelmerkit.markdown)
+[5. Toimintaympäristö ja askelmerkit](05-toimintaymparisto-ja-askelmerkit.markdown)
 
 - 5.1 Lainsäädäntö ja sääntely
 	- 5.1.1 Henkilötietolaki
@@ -98,7 +87,7 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 - 5.2 Toimijakenttä
 	- 5.2.1 Yksilöiden rooli
 	- 5.2.2 Julkisten organisaatioiden rooli
-	- 5.2.3 Yritysten rooli
+	- 5.2.3 Yritysten rooli'
 	- 5.2.4 Tutkimuslaitosten rooli
 	- 5.2.5 Muiden yhteisöjen rooli
 - 5.3 Esteitä My Datan edessä
@@ -107,14 +96,39 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 	- 5.3.3 Meidän datasta ei ole muille iloa
 	- 5.3.4 Suojellaan tietoa ihmiseltä itseltään
 
-[6. My Data Suomessa](fi/06-my-data-suomessa.markdown)
+[6. My Data Suomessa](06-my-data-suomessa.markdown)
 
 - 6.1. My Dataan liittyviä kansallisia kehityskulkuja
 - 6.2. Suomalaistoimijoita
 
-[Lähteet](fi/XX-1-lahdeluettelo.markdown)
+[Lähteet](XX-1-lahdeluettelo.markdown)
 
 
-[image-cc-logo]: fi/images/image-cc-logo.png
-[image-okf-logo]: fi/images/image-okf-logo.jpg
-[image-cover]: fi/images/image-cover.jpg
+[image-cc-logo]: images/image-cc-logo.png
+[image-okf-logo]: images/image-okf-logo.jpg
+[image-0-1]: images/image-0-1.png
+[image-0-2]: images/image-0-2.png
+[image-0-3]: images/image-0-3.png
+[image-0-4]: images/image-0-4.png
+[image-1-1]: images/image-1-1.png
+[image-1-1a]: images/image-1-1a.png
+[image-1-1b]: images/image-1-1b.png
+[image-1-1c]: images/image-1-1c.png
+[image-2-1]: images/image-2-1.png
+[image-2-info]: images/image-2-info.png
+[image-2-2]: images/image-2-2.png
+[image-2-3]: images/image-2-3.png
+[image-2-4]: images/image-2-4.png
+[image-2-5]: images/image-2-5.png
+[image-3-1]: images/image-3-1.png
+[image-4-1]: images/image-4-1.png
+[image-4-3]: images/image-4-3.png
+[image-chapter-0]: images/image-chapter-0.jpg
+[image-chapter-1]: images/image-chapter-1.jpg
+[image-chapter-2]: images/image-chapter-2.jpg
+[image-chapter-3]: images/image-chapter-3.jpg
+[image-chapter-4]: images/image-chapter-4.jpg
+[image-chapter-5]: images/image-chapter-5.jpg
+[image-chapter-6]: images/image-chapter-6.jpg
+[image-cover]: images/image-cover.jpg
+[image-back-cover]: images/image-back-cover.jpg
