@@ -2,7 +2,7 @@
 
 # 1. My Data -periaatteet
 
-My Datan -ajattelun kolmea lähtökohtaa: ihmiskeskeisyyttä, tiedon hyödynnettävyyttä, ja liiketoimintamallien avautumista voidaan konkretisoida periaatteilla *1. yksilöiden oikeus ja mahdollisuus hallita omaa dataansa, 2. henkilötiedon kattava ja käytännöllinen saatavuus *sekä* 3. henkilötiedon hallinnan hajauttaminen ja yhteentoimivuus*. Nämä periaatteet ohjaavat My Data -rajapintojen ja standardien, välittämiseen ja hallintaan liittyvän palveluinfrastruktuurin sekä My Dataa hyödyntävien sovellusten ja palvelujen kehitystä. Periaatteiden toteutuminen johtaa henkilötiedon arvoketjun pilkkoutumiseen siten, että eri vaiheisiin (keruu – välittäminen – hyödyntäminen) voi syntyä erikoistuneita toimijoita. Tässä kappaleessa kuvataan ensin tarkemmin nämä periaatteet, jonka jälkeen analysoidaan periaatteiden vaikutuksia henkilötiedon arvoketjuun.
+My Datan -ajattelun kolmea lähtökohtaa: ihmiskeskeisyyttä, tiedon hyödynnettävyyttä, ja liiketoimintamallien avautumista voidaan konkretisoida periaatteilla *1. yksilöiden oikeus ja mahdollisuus hallita omaa dataansa, 2. henkilötiedon kattava ja käytännöllinen saatavuus* sekä *3. henkilötiedon hallinnan hajauttaminen ja yhteentoimivuus*. Nämä periaatteet ohjaavat My Data -rajapintojen ja standardien, välittämiseen ja hallintaan liittyvän palveluinfrastruktuurin sekä My Dataa hyödyntävien sovellusten ja palvelujen kehitystä. Periaatteiden toteutuminen johtaa henkilötiedon arvoketjun pilkkoutumiseen siten, että eri vaiheisiin (keruu – välittäminen – hyödyntäminen) voi syntyä erikoistuneita toimijoita. Tässä kappaleessa kuvataan ensin tarkemmin nämä periaatteet, jonka jälkeen analysoidaan periaatteiden vaikutuksia henkilötiedon arvoketjuun.
 
 ## 1.1. Periaatteet
 
