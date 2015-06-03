@@ -1,4 +1,4 @@
-Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2015. “MyData – A Nordic Model for human-centered personal data management and processing.” Available at (PDF): [http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centered-personal-data-management-and-processing](http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centered-personal-data-management-and-processing)
+Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2015. “MyData – A Nordic Model for human-centered personal data management and processing.” Ministry of Transport and Communications. Available at (PDF): [http://urn.fi/URN:ISBN:978-952-243-455-5](http://urn.fi/URN:ISBN:978-952-243-455-5).
 
 </br></br>
 

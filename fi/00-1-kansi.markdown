@@ -1,12 +1,11 @@
+Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus Ihmiskeskeiseen Henkilötiedon Hyödyntämiseen.” Ministry of Transport and Communications. Available at (PDF):[http://urn.fi/URN:ISBN:978-952-243-418-0](http://urn.fi/URN:ISBN:978-952-243-418-0).
+
+</br></br>
+
 ![My Data -johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen][image-cover]
 
 **Avoimesti lisensoitu opas**
-<table>
-  <tr>
-    <td>![Creative Commons 4.0 by][image-cc-logo] </td>
-    <td>![Open Knowledge Finland][image-okf-logo]</td>
-  </tr>
-</table>
+![Creative Commons 4.0 by][image-cc-logo]   ![Open Knowledge Finland][image-okf-logo]
 
 Selvitys on julkaistu kansainvälisellä vapaan hyödyntämisen sallivalla[ Creative Commons Nimeä 4.0 lisenssillä](http://creativecommons.org/licenses/by/4.0/deed.en_US). Uudelleenkäytön yhteydessä alkuperäisteoksen tekijöinä on mainittava sekä kirjoittajat Antti Poikola, Kai Kuikkaniemi ja Ossi Kuittinen (Open Knowledge Finland) että rahoittaja (Liikenne- ja viestintäministeriö). Nähdäksesi lisenssin vieraile [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) sivulla.
 
@@ -104,31 +103,6 @@ ISBN ISBN 978-952-243-418-0 (verkkojulkaisu [http://www.lvm.fi/asiakirjat_ja_muu
 [Lähteet](XX-1-lahdeluettelo.markdown)
 
 
-[image-cc-logo]: images/image-cc-logo.png
+[image-cc-logo]: images/image-cc-icon.jpg
 [image-okf-logo]: images/image-okf-logo.jpg
-[image-0-1]: images/image-0-1.png
-[image-0-2]: images/image-0-2.png
-[image-0-3]: images/image-0-3.png
-[image-0-4]: images/image-0-4.png
-[image-1-1]: images/image-1-1.png
-[image-1-1a]: images/image-1-1a.png
-[image-1-1b]: images/image-1-1b.png
-[image-1-1c]: images/image-1-1c.png
-[image-2-1]: images/image-2-1.png
-[image-2-info]: images/image-2-info.png
-[image-2-2]: images/image-2-2.png
-[image-2-3]: images/image-2-3.png
-[image-2-4]: images/image-2-4.png
-[image-2-5]: images/image-2-5.png
-[image-3-1]: images/image-3-1.png
-[image-4-1]: images/image-4-1.png
-[image-4-3]: images/image-4-3.png
-[image-chapter-0]: images/image-chapter-0.jpg
-[image-chapter-1]: images/image-chapter-1.jpg
-[image-chapter-2]: images/image-chapter-2.jpg
-[image-chapter-3]: images/image-chapter-3.jpg
-[image-chapter-4]: images/image-chapter-4.jpg
-[image-chapter-5]: images/image-chapter-5.jpg
-[image-chapter-6]: images/image-chapter-6.jpg
 [image-cover]: images/image-cover.jpg
-[image-back-cover]: images/image-back-cover.jpg
