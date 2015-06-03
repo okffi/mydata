@@ -1,9 +1,6 @@
----
-title: "MyData"
-subtitle: "A Nordic model for human-centered personal data management and processing"
-author: "Antti Poikola, Kai Kuikkaniemi, Harri Honko"
-output: html_document
----
+Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2015. “MyData – A Nordic Model for human-centered personal data management and processing.” Available at (PDF): [http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centered-personal-data-management-and-processing](http://www.lvm.fi/julkaisu/4440204/mydata-a-nordic-model-for-human-centered-personal-data-management-and-processing)
+
+</br></br>
 
 ![image alt text](images/cover_small.png)
 
@@ -53,7 +50,7 @@ Figure 1.1: Personal data is everywhere. Businesses in all sectors as well as go
 
 Currently, individuals have little or no control over how data about them and their activities is created or used by businesses, governments, or data brokers. By giving individuals the power to determine how their data can be used, the MyData approach enables the collection and use of personal data in ways that maximize the benefits gained while minimizing the privacy lost.
 
-Personal data is presently an underused 'raw material' for new services due to the lack of interoperability and portability between datasets across services and sectors. We need a new **infrastructure level **approach on how to manage personal data.
+Personal data is presently an underused 'raw material' for new services due to the lack of interoperability and portability between datasets across services and sectors. We need a new **infrastructure level** approach on how to manage personal data.
 
 The growth of Big Data analytics has brought privacy issues to the forefront. Regarding the ethical use and analysis of personal information, MyData and Big Data are complementary rather than mutually exclusive concepts.The concept of Big Data emphasizes the potential of combining and analyzing large datasets from the organization's perspective while MyData focuses on the individual’s ability to control and benefit from the value of his or her personal data. The MyData approach provides organizations with the practical means for implementing data protection and privacy in the course of big data analytics and brings individuals transparency as to how their data are being collected and processed. Without addressing the human perspective, many of the potential innovative uses of big data might become impossible if individuals perceive them as invasive, shadowy, and unacceptable. 
 
@@ -151,7 +148,7 @@ Adopting the MyData approach could ultimately lead to a systemic simplification 
 
 Figure 3.1: In the current structureless API economy, if the number of services grow, then the number of connections between them grow at a faster rate (top). Aggregating data control would make life easier for organizations and individuals, but different aggregators do not have a built-in incentive to develop interoperability between them (middle). Compared to the aggregation model, MyData is resilient system because it is not dependent on a single organization or technical infrastructure (bottom).
 
-**We need i****nfrastructure as it:**
+**We need infrastructure as it:**
 
 * anticipates wide adoption of APIs and overall increased demand for personal data logistics
 
@@ -203,7 +200,7 @@ MyData consent management structures can be developed by using the open consent 
 
 Not all personal data usage requires the consent of data subjects. There has been critique that MyData could complicate the automation of services by focusing on detailed consent management, especially in cases where there is a legal base for personal data processing without consent. For example, public authorities are allowed to exchange data between each other without the consent of the data subject in certain circumstances. In such cases, the MyData infrastructure would not be used to enforce consent based data management, but it would act instead as a transparency tool to notify end-users of the use of their data. It benefits everyone if public authorities are able to exchange personal data in a transparent way. The MyData infrastructure may also act as a channel for ordinary citizens to opt out of services that involve the use and exchange of their personal data by public authorities and in more granular contexts than they deem to be acceptable.
 
-**MyData ****is focused on consents because:**
+**MyData is focused on consents because:**
 
 * consents are the primary (but not the only) legislative framework that defines information processing from the human-centric perspective
 
@@ -235,7 +232,7 @@ Figure 6.2:  The MyData operator stack shows the required and optional functiona
 
 For the overall viability of the MyData approach, it is also important to set organizational and business level standards, especially for the MyData operators. Such standards are currently developed in an open operator alliance. The alliance can also facilitate the standardization of technical functionalities that enable account interoperability.
 
-**For Companies ****MyData will:**
+**For Companies MyData will:**
 
 * help to integrate third party complementary services into their core services
 
@@ -325,7 +322,7 @@ Loyalty card data can reveal the individual’s consumption history, which can b
 The development of computational sciences has produced flexible tools that can be used to combine and analyze multiple data sources. Integrating data from multiple sources may increase risks of privacy invasion. According to recent research, over 60% of individuals have expressed their willingness to donate their personal data for research purposes. The MyData infrastructure can provide a common framework for different kinds of research data banks to easily acquire consumers' consent to collect their data. Research data banks could then provide access to their data without violating individual privacy rights, but still maintain the capability to cross-reference data.
 
 
-</br></hr></br></hr><a name="lins"></a>
+</br></hr><a name="lins"></a>
 
 # Links and references
 
@@ -334,6 +331,7 @@ The development of computational sciences has produced flexible tools that can b
 * The original MyData white paper in Finnish (Ministry of Transport and Communications) [http://www.lvm.fi/julkaisu/4420389/my-data-johdatus-ihmiskeskeiseen-henkilotiedon-hyodyntamiseen](http://www.lvm.fi/julkaisu/4420389/my-data-johdatus-ihmiskeskeiseen-henkilotiedon-hyodyntamiseen)
 
 * World Economic Forum report: [http://www.weforum.org/projects/rethinking-personal-data](http://www.weforum.org/projects/rethinking-personal-data)
+
 
 **Technical specifications and related communities**
 
