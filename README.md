@@ -8,7 +8,7 @@ Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus
 
 </br></br>
 
-![image alt text](en/images/cover_small.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/cover_small.png)
 
 This white paper presents a framework, principles, and a model for a human-centric approach to the managing and processing of personal information. The approach – defined as MyData – is based on the right of individuals to access the data collected about them. The core idea is that individuals should be in control of their own data. The MyData approach aims at strengthening digital human rights while opening new opportunities for businesses to develop innovative personal data based services built on mutual trust.
 
@@ -28,7 +28,7 @@ This white paper presents a framework, principles, and a model for a human-centr
 
 # MyData Principles
 
-![image alt text](en/images/inner_cover.jpg)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/inner_cover.jpg)
 
 1. **Human centric control and privacy:** Individuals are empowered actors, not passive targets, in the management of their personal lives both online and offline – they have the right and practical means to manage their data and privacy.
 
@@ -50,7 +50,7 @@ The aim is to provide individuals with the practical means to access, obtain, an
 
 Personal data has increasingly significant social, economic, and practical value. According to The World Economic Forum, *"Personal data is becoming a new economic asset class, a valuable resource for the 21st century that will touch all aspects of society"*. The wider application and use of personal data, however, is often conflated with negative predictions of a future devoid of individual privacy.
 
-![image alt text](en/images/figure1-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure1-1.png)
 
 Figure 1.1: Personal data is everywhere. Businesses in all sectors as well as governmental organizations collect increasing amounts of data about us.
 
@@ -62,7 +62,7 @@ The growth of Big Data analytics has brought privacy issues to the forefront. Re
 
 The MyData approach incorporates the ‘Open Data’ movement philosophy that providing access to information in a free and transparent format increases its usefulness and value. By definition, Open Data is technically and legally free for anyone to use, reuse, and distribute. Similarly, data collected about a person will meet the criterion of MyData if it is technically and legally available for the individual to use, reuse, and distribute as s/he wishes.
 
-![image alt text](en/images/figure1-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure1-2.png)
 
 Figure 1.2: Rights and the level of control that individuals have over their personal information can vary. The minimum requirement for MyData is that individuals have the right to access and use their personal data.
 
@@ -80,7 +80,7 @@ Figure 1.2: Rights and the level of control that individuals have over their per
 
 We think the individuals should have legal right and technical tools to manage personal data collected on them. This is a means of digital identity management and an extension to the freedom of thought and expression we all have as citizens. At the same time, organizations should have practical methods for getting individuals’ consent to use their personal data when they discover innovative new uses or applications.
 
-![image alt text](en/images/figure2-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure2-1.png)
 
 Figure 2.1: Individual may obtain personal data from all areas of life and across all sectors and share selected parts of this rich MyData profile with service providers and applications.
 
@@ -94,7 +94,7 @@ MyData is a progressive approach to personal data management that combines digit
 
 **For civil society** – MyData creates the necessary structures, processes, and policies for protecting the rights of individuals and fostering the use of personal data in the development of innovative services.
 
-![image alt text](en/images/figure2-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure2-2.png)
 
 For individuals:
 
@@ -150,7 +150,7 @@ The key concept in the proposed MyData infrastructure is the MyData account. For
 
 Adopting the MyData approach could ultimately lead to a systemic simplification of the personal data ecosystem. Nonetheless, MyData is not an all-or-nothing approach. Rather, it can be developed and deployed in stages concurrently alongside the evolving API economy and the existing data aggregator model.
 
-![image alt text](en/images/figure3-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure3-1.png)
 
 Figure 3.1: In the current structureless API economy, if the number of services grow, then the number of connections between them grow at a faster rate (top). Aggregating data control would make life easier for organizations and individuals, but different aggregators do not have a built-in incentive to develop interoperability between them (middle). Compared to the aggregation model, MyData is resilient system because it is not dependent on a single organization or technical infrastructure (bottom).
 
@@ -170,7 +170,7 @@ The MyData architecture is based on interoperable and standardized MyData accoun
 
 In the MyData architecture, data flows from a data source to a service or application that uses the data. It is important to understand that within the MyData infrastructure, the flow of consents or permissions is separate from the actual flow of data (see Figure 4.1). The MyData account should not be confused with personal data storage (PDS) solutions, that enable storing data in a secure place under the direct control of an individual custodian. The primary function of a MyData account is to enable consent management – the data itself is not necessarily streamed through the servers where the MyData account is hosted.
 
-![image alt text](en/images/figure4-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure4-1.png)
 
 Figure 4.1: Four defined roles within the MyData architecture include 1) individual, 2) MyData operators, 3) data sources, and 4) the services using data. The flow of consents or permissions to use the data is separate from the actual flow of data.
 
@@ -178,7 +178,7 @@ Application Programming Interfaces (APIs) enable interaction between data source
 
 Standardized MyData architecture makes the accounts interoperable and allows individuals to easily switch operators. This is major element contributing MyData’s trustworthiness. Interoperability is the core advantage provided by MyData, but it is also the core challenge. Interoperability within the data management system can be understood as functioning similarly to interoperability in mobile telephone networks. Both systems require a common network that connects distributed nodes. Global interoperability and transferability of MyData accounts (and thus individual’s consents) between operators requires further standardization and design on e.g. trust networks, data formats, and semantics.
 
-![image alt text](en/images/figure4-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure4-2.png)
 
 Figure 4.2: Individuals can change their MyData operator without losing their MyData account content. This mechanisms increases trustworthiness of MyData approach and encourages people to create data flows.
 
@@ -198,7 +198,7 @@ MyData intends to build trust in personal data services through a combination of
 
 In the MyData model, consents are dynamic, easy for people to comprehend, machine-readable, standardized, and managed in a coordinated way. A common format will make it possible for every individual to delegate data processing to third parties or to repurpose the use of data in new ways (see Figure 5.1). 
 
-![image alt text](en/images/figure5-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure5-1.png)
 
 Figure 5.1: Examples how MyData approach can support different kinds of data flow use cases such as delegation, repurposing, notification and data flow through the personal data storage (PDS)
 
@@ -222,7 +222,7 @@ Companies can improve their business operations with MyData. Optimizing resource
 
 The primary incentive for companies to create a MyData API that gives their customers and authorized third parties access to certain datasets is that it would expand their overall value proposition to customers (see Figure 6.1). Third-party vendors can collaborate more effectively with companies that hold the original data sources if they have authorized access to datasets that contain personal data.
 
-![image alt text](en/images/figure6-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure6-1.png)
 
 Figure 6.1:  Conventional service versus service extended with MyData-based complementary service integration
 
@@ -232,7 +232,7 @@ Currently data is sold implicitly so that the individual gets a "free" service, 
 
 For the MyData ecosystem to flourish, it is crucial that there are viable business models for MyData operators. MyData operators could charge account and transaction fees. MyData operators could also generate profits by charging a marginal rate on data sales. Value-added services operators may offer, for example, secure storage, local applications, and a marketplace for data-centric applications (see Figure 6.2).
 
-![image alt text](en/images/figure6-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure6-2.png)
 
 Figure 6.2:  The MyData operator stack shows the required and optional functionalities of the MyData operator. Consent management is the baseline service for an operator, but there are multiple complementary value added services an operator can provide in MyData infrastructure for the individual
 
@@ -258,11 +258,11 @@ MyData addresses the concept of data control rather than data ownership. It is t
 
 The common "I have read and agree to the terms" -acceptance mechanism is not adequate, because the terms of service and privacy policies are too long and too complicated to understand. One critique of the easy consent management approach proposed by MyData is that companies would take advantage of it by increasingly demanding access to an even a greater variety of personal data in exchange for improved services. It is important to mitigate this risk by carefully designing the consents so that they are understandable to individuals. Consents given to various data controllers are currently heterogeneous. However, the consents often contain similar elements that could be formatted among standard guidelines. When standardized, the consents can be made machine-readable and easy to compare, bundle, visualize, and process automatically. The Creative Commons licensing framework provides an example of how the equally heterogeneous sphere of author rights was harmonized according to a common set of standard licences (see Figure 7.1).
 
-![image alt text](en/images/figure7-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure7-1.png)
 
 Figure 7.1: Creative commons is an example of established licensing framework that has made the management of rights practical and comprehensive. A consent commons approach aims to harmonize consents in a manner that is as comprehensive as the creative commons suite is for copyright licensing.
 
-![image alt text](en/images/figure7-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure7-2.png)
 
 Figure 7.2: Another example of standardization but more related to MyData and personal data is the Mozilla privacy icons project by Mozilla Foundation and Aza Raskin, which is focused on creating common visual language for privacy settings in websites.
 
@@ -284,7 +284,7 @@ The core technical components of MyData already exist, but they require maturati
 
 Many online service companies have developed APIs and successfully integrated data flows across organizations. However, there are not many examples of more traditional companies that have opened up their data APIs. In Finland, MyData has raised interest among companies, ministries, media, and researchers. There are currently several research and innovation projects addressing challenges related to principles and the implementation of MyData, and initial pilots are in preparatory stages. Industry and research organizations have ongoing innovation projects focusing on developing the MyData operator model (see links at the back) and work on interoperability and operator alliance issues. The current operator model is being built based on the UMA standard and the Minimum Viable  Consent Receipt project. Test sandbox instances of a MyData operator are expected to be released for open tests in early 2016.
 
-![image alt text](en/images/figure8-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure8-1.png)
 
 Figure 8.1: Core parts of the MyData authentication mechanism and the MyData APIs can be realized using the User-Managed Access (UMA) standard created by the Kantara Initiative (version 1.0 was released on early 2015). UMA specification and its open-source implementations let individuals to control authorizations to share their data and to manage how their data is shared between online services. UMA is a profile of OAuth 2.0 (control access to web API's) and it shares features with OpenID Connect (federated single-sign-on) It brings together two essential elements to the authorization workflow: asynchronous consent and centralized consent management. (Figure modified after Eve Maler @xmlgrrl)
 
@@ -309,19 +309,19 @@ MyData is a high-level approach for organizing personal data in human centric wa
 
 In this last chapter we describe three use case scenarios for MyData in more detail. The schematic illustrations show how the personal data, authorizations / consents, and money flow between different actors.
 
-![image alt text](en/images/figure9-1.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure9-1.png)
 
 **Example 1: MyData and Occupational health**
 
 Modern health care requires data. Clinical data usually consist of various test results and diagnosis. Occupational health care providers change when individuals change jobs. There is no convenient way to organize data logistics between different occupation health care providers. Furthermore, getting more data about individuals would significantly help personalize and optimize health and wellbeing services and provide alternative means for diagnosis. For example, an individual’s profile data, consumption data, and activity tracking data could be used for healthcare services. The MyData infrastructure can provide standardized methods for managing data logistics between different professional and public health organizations and sources of behavioral data in robust ways across organizations.
 
-![image alt text](en/images/figure9-2.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure9-2.png)
 
 **Example 2: MyData and Loyalty card data**
 
 Loyalty card data can reveal the individual’s consumption history, which can be used to provide health recommendations, to recommend changes in shopping behavior, and to optimize personal spending. Providing individuals with access comprehensive consumption feedback through their loyalty card data may have beneficial society-wide effects. Smarter consumers have the power to influence change production patterns. Fragmented datasets from a single loyalty cards provide limited insights into consumption behaviors, but the MyData infrastructure creates the mechanism to integrate data from multiple sources for more meaningful results.
 
-![image alt text](en/images/figure9-3.png)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/figure9-3.png)
 
 **Example 3: MyData and research data banks**
 
@@ -390,7 +390,7 @@ Email: kai.kuikkaniemi@iki.fi</br>
 Phone: +358 50 543 9283</br>
 Twitter: @kaikuikkaniemi
 
-![image alt text](en/images/cc_icon.jpg)      ![image alt text](en/images/image-okf-logo.jpg)
+![image alt text](https://github.com/okffi/mydata/blob/master/en/images/cc_icon.jpg)      ![image alt text](https://github.com/okffi/mydata/blob/master/en/images/image-okf-logo.jpg)
 
 This is publication is licensed with the Creative Common SA 4.0 licence.
 
