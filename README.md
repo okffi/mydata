@@ -12,17 +12,17 @@ Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus
 
 This white paper presents a framework, principles, and a model for a human-centric approach to the managing and processing of personal information. The approach – defined as MyData – is based on the right of individuals to access the data collected about them. The core idea is that individuals should be in control of their own data. The MyData approach aims at strengthening digital human rights while opening new opportunities for businesses to develop innovative personal data based services built on mutual trust.
 
-[MyData Principles](#principles)</br>
-[1 - What is MyData?](#01)</br>
-[2 - What are the benefits of MyData?](#02)</br>
-[3 - Why is MyData an infrastructure level approach?](#03)</br>
-[4 - How does MyData approach work in practice?](#04)</br>
-[5 - Why is MyData is focused on consent?](#05)</br>
-[6 - Why should companies be interested in MyData?](#06)</br>
-[7 - How does MyData help me manage my privacy?](#07)</br>
-[8 - What are the next steps?](#08)</br>
-[9 - Give me some examples!](#09)</br>
-[Links and references](#links)
+* [MyData Principles](#principles)</br>
+* [1 - What is MyData?](#01)</br>
+* [2 - What are the benefits of MyData?](#02)</br>
+* [3 - Why is MyData an infrastructure level approach?](#03)</br>
+* [4 - How does MyData approach work in practice?](#04)</br>
+* [5 - Why is MyData is focused on consent?](#05)</br>
+* [6 - Why should companies be interested in MyData?](#06)</br>
+* [7 - How does MyData help me manage my privacy?](#07)</br>
+* [8 - What are the next steps?](#08)</br>
+* [9 - Give me some examples!](#09)</br>
+* [Links and references](#links)
 
 </br></hr><a name="principles"></a>
 
