@@ -392,9 +392,9 @@ Twitter: @kaikuikkaniemi
 
 ![image alt text](https://raw.githubusercontent.com/okffi/mydata/gh-pages/en/images/cc_icon.jpg)      ![image alt text](https://raw.githubusercontent.com/okffi/mydata/gh-pages/en/images/image-okf-logo.jpg)
 
-This is publication is licensed with the Creative Common SA 4.0 licence.
+This is publication is licensed with the Creative Common BY 4.0 licence.
 
-[https://creativecommons.org/licenses/sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+[https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)
 
 When redistributed or copied the authors must be acknowledged (Poikola, Kuikkaniemi, Honko).
 
