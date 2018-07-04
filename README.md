@@ -3,8 +3,8 @@ Poikola, Antti, Kai Kuikkaniemi, and Harri Honko. 2015. “MyData – A Nordic M
 
 </br>
 
-**Original version in Finnish (80 pages)**</br>
-Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus Ihmiskeskeiseen Henkilötiedon Hyödyntämiseen.” Ministry of Transport and Communications. Available at (PDF):[http://urn.fi/URN:ISBN:978-952-243-418-0](http://urn.fi/URN:ISBN:978-952-243-418-0).
+**Finnish version 2nd edition (86 pages)**</br>
+Poikola, Antti, Kai Kuikkaniemi, Ossi Kuittinen, Harri Honko and Aleksi Knuutila. 2018. “My Data - Johdatus Ihmiskeskeiseen Henkilötiedon Hyödyntämiseen.” Ministry of Transport and Communications. Available at (PDF):[http://urn.fi/URN:ISBN:978-952-243-554-5](http://urn.fi/URN:ISBN:978-952-243-554-5).
 
 </br></br>
 
