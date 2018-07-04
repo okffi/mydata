@@ -12,7 +12,25 @@
 <p><a></a></p>
 <h1 id="tiivistelmä">Tiivistelmä</h1>
 <p>Tiivistelmään on koottu selvityksen kaikki kuvat pienoiskoossa ja kerrottu lyhyesti kunkin kuvan ydinviesti. Kuvamateriaali on julkaistu myös uudelleenkäytön sallivalla Creative Commons -lisenssillä osoitteessa <a href="https://www.google.com/url?q=http://okf.fi/mydata-selvitys-2018&amp;sa=D&amp;ust=1530645623460000">okf.fi/mydata-selvitys-2018</a></p>
-<p><a></a></p>
+
+<table>
+<thead>
+<tr>
+<th align="left"><strong>Kuva</strong></th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong><a href="#kuva01">Johdanto / Kuva 0.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva01.png" width="400px"></td>
+<td align="left">Termillä MyData viitataan ensinnäkin ilmiöön ja ajattelutavan muutokseen, jossa henkilötiedon hallintaa ja käsittelyä pyritään viemään nykyisestä organisaaatiokeskeisestä mallista ihmiskeskeiseksi. Toisaalta MyDatalla viitataan henkilötietoon resurssina, jota ihmiset voivat itse hyödyntää. Mikäli ihmisellä ei ole mahdollisuutta hyödyntää itse jonkun muun hänestä keräämää henkilötietoa, niin sitä ei voida kutsua MyDataksi.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva02">Johdanto / Kuva 0.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva02.png" width="400px"></td>
+<td align="left">MyData-ajattelu tuo datan hyödyntämisnäkökulman tasavertaisena yksityisyydensuojan rinnalle niin, että hyödyt maksimoidaan ja yksityisyydensuojan heikkeneminen minimoidaan. Tähän pyritään tarjoamalla ihmisille mahdollisuuksia hyödyntää itse omaa dataansa sekä keinoja hallita, kuinka dataa kerätään, jalostetaan, hyödynnetään ja jaetaan edelleen.</td>
+</tr>
+</tbody>
+</table><p><a></a></p>
 <h1 id="esipuhe">Esipuhe</h1>
 <p>Liikenne- ja viestintäministeriön vuonna 2014 julkaisema MyData-selvitys oli keskustelunavaus, jolla kannustettiin yrityksiä, hallintoa ja kansalaisia pohtimaan uudenlaisen henkilötietomallin mahdollisuuksia ja vaikutuksia. Neljässä vuodessa on tapahtunut paljon ja MyData on kehittynyt eteenpäin. Henkilötiedon hallintamallit ovat murroksessa muun muassa toukokuussa 2018 täysimääräisenä voimaan tulleen EU:n tietosuoja-asetuksen myötä. Suomessa MyData-periaatteisiin on tartuttu yhteistyössä yritysten, tutkijoiden ja julkishallinnon kesken.</p>
 <p>Nykyisessä hallitusohjelmassa linjataan, että kansalaisten oikeutta valvoa ja päättää itseään koskevien tietojen käytöstä vahvistetaan. MyData-lähestymistapa on huomioitu hallituksen kärkihankkeissa"Digitaalisen liiketoiminnan kasvuympäristön rakentaminen" ja “Yhteisen tiedon hallinta”. Väestörekisterikeskus on käynnistänyt MyData-pilotin osana kansallista palveluväylää, jossa Suomi.fi-palvelut muodostavat jatkossa alustan digitaalisen yhteiskunnan palveluille.</p>
@@ -114,7 +132,8 @@
 <h2 id="onko-tämä-mydataa">Onko tämä MyDataa?</h2>
 <p>Alun perin Britanniasta lähtenyt MyData ei ole käsitteenä vielä kansainvälisesti täysin vakiintunut. MyData-termin käyttö on kuitenkin yleistynyt huomattavasti tämän selvityksen ensimmäisen version <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/uOrO&amp;sa=D&amp;ust=1530651025526000">(Poikola, Kuikkaniemi, &amp; Kuittinen, 2014)</a> julkaisemisen jälkeen. Kotimaisten kielten keskus on ehdottanut suomennokseksi termiä omadata. Tässä selvityksessä käytetään englanninkielistä termiä, koska ilmiö on kansainvälinen ja pyrkimyksenä on, että kehitys Suomessa ja maailmalla yhdistyvät toisiinsa.</p>
 <p>Termillä MyData viitataan ensinnäkin ilmiöön ja ajattelutavan muutokseen, jossa henkilötiedon hallintaa ja käsittelyä pyritään viemään nykyisestä organisaaatiokeskeisestä mallista ihmiskeskeiseksi. Toisaalta MyDatalla viitataan henkilötietoon resurssina, jota ihmiset voivat itse hyödyntää. Mikäli ihmisellä ei ole mahdollisuutta hyödyntää itse jonkun muun hänestä keräämää henkilötietoa, niin sitä ei voida kutsua MyDataksi.</p>
-<p><img src="https://lh3.googleusercontent.com/CWbKujfGaY76GWIl1nHrBnJkZtCyZ-cyR4__NpmelRUoq8bi-3tLxT0AiWfR-m7twMbimb3xqCSVZ0S9r8bzzuFQU8bzP6wUi1rrWU2NjeB-h32JHMiG68qkbfFuj3njQV-1z2N9" alt=""></p>
+<p><a></a><br>
+<img src="https://lh3.googleusercontent.com/CWbKujfGaY76GWIl1nHrBnJkZtCyZ-cyR4__NpmelRUoq8bi-3tLxT0AiWfR-m7twMbimb3xqCSVZ0S9r8bzzuFQU8bzP6wUi1rrWU2NjeB-h32JHMiG68qkbfFuj3njQV-1z2N9" alt=""></p>
 <p>Kuva 0.1: Ihmisen elämän eri alueilla syntyy paljon henkilötietoa. MyData-periaatteet edesauttavat erityisesti toimialarajat ylittävää tiedonsiirtoa. MyDatan kannalta keskeisiä ja paljon henkilötietoa tuottavia aloja ovat muiden muassa liikkuminen, terveys- ja hyvinvointiala sekä pankki- ja vakuutustoiminta.</p>
 <p>Henkilötieto ei tarkoita vain kaikkein yksilöivimpiä tietoja, kuten nimeä ja osoitetta, vaan laajasti kaikkia tunnistettuun tai tunnistettavissa olevaan luonnolliseen henkilöön liittyviä tietoja <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/yIhi&amp;sa=D&amp;ust=1530651025527000">(EU, 2016)</a>. Esimerkiksi kauppaketjuilla on ostostietoa, verkkopalvelut keräävät käyttäjädataa, teleoperaattorille jää tietoa puheluista ja puhelimen liikkeistä. Myös julkishallinnolla on paljon henkilötietoa aina kirjastojen lainaustiedoista ja terveystiedoista rikosrekistereihin. MyData on henkilötiedon osajoukko. Kaikki MyData on henkilötietoa, mutta kaikki henkilötieto ei ole MyDataa.</p>
 <p><a></a></p>
@@ -122,46 +141,17 @@
 <p>Sääntelyn haasteena on tasapainottaa tietosuojaan ja henkilötiedon hyödyntämiseen liittyvät toimet. Kaikki henkilötiedon kerääminen ja käyttö saattaa heikentää yksityisyydensuojaa. Eurooppalaisen vahvan tietosuojalainsäädännön yksi lähtökohta on tietojen keräämisen minimoinnin (data minimization) periaate, jonka mukaan tallennetaan vain sellaisia henkilötietoja, jotka ovat organisaation ennalta määrittämän käyttötarkoituksen mukaan tarpeellisia - “mitä vähemmän henkilötietoa kerätään ja jaetaan, sen pienempi riski”. Tämä jättää kuitenkin huomiotta datasta ihmisille itselleen kertyvän arvon ja on vastakkainen henkilötiedon määrän ja käytön lisääntymisen megatrendille.</p>
 <p>Yhdysvalloissa vallitseva lainsäädäntö ja käytännöt sallivat organisaatioille varsin vapaan henkilötiedon hyödyntämisen, jos käyttäjä on vain rastittanut lukeneensa ja hyväksyvänsä käyttöehdot. Tämä korostaa henkilötiedon laajaa uudelleenkäyttöä, mutta se tapahtuu yksityisyydensuojan kustannuksella ja yksinomaan yritysten asettamista lähtökohdista. Myös hyödyt tulevat ensisijaisesti yrityksille. Yhdysvaltain kuluttajasuojaviranomaisen mukaan kuluttajatietoa keräävillä ja myyvillä yrityksillä on hallussaan lähes jokaisen yhdysvaltalaisen kattavat tarkat tietovarannot, jotka on kerätty kuluttajien tietämättä <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/XV2H&amp;sa=D&amp;ust=1530651025528000">(FTC, 2014)</a>.</p>
 <p>MyData-ajattelu tuo datan hyödyntämisnäkökulman tasavertaisena yksityisyydensuojan rinnalle. Tähän pyritään tarjoamalla ihmisille mahdollisuuksia hyödyntää itse omaa dataansa sekä keinoja hallita, kuinka dataa kerätään, jalostetaan, hyödynnetään ja jaetaan edelleen. Olisi toivottavaa, että yrityksiä ja organisaatioita kannustetaan ja ohjataan avaamaan henkilötietorajapintoja.</p>
-<p><img src="https://lh5.googleusercontent.com/YJkf-WXiWH6CFLfsVqOrKwjMEA7kNLcHwNRFxYkc4CULDV9sJAKXbCTCUCCxVPcDF4Lsly6kr5GjMgBs5OWY7Ssjwr-W2rU-6lx7drCe5DDC-8SI5boEJgRtj5X_XwwZqr82gz1e" alt=""></p>
+<p><a></a><br>
+<img src="https://lh5.googleusercontent.com/YJkf-WXiWH6CFLfsVqOrKwjMEA7kNLcHwNRFxYkc4CULDV9sJAKXbCTCUCCxVPcDF4Lsly6kr5GjMgBs5OWY7Ssjwr-W2rU-6lx7drCe5DDC-8SI5boEJgRtj5X_XwwZqr82gz1e" alt=""></p>
 <p>Kuva 0.2: MyData mahdollistaisi henkilötiedon jouhevan käytön niin, että hyödyt maksimoidaan ja yksityisyydensuojan heikkeneminen minimoidaan.</p>
 <hr>
 <p><a></a></p>
-<blockquote>
 <h4 id="infobox-voiko-dataa-omistaa">INFOBOX: Voiko dataa omistaa?</h4>
-<p>MyDataan liitetään usein mielikuva tiedon omistajuudesta.<br>
-Arkikielisesti on luontevaa sanoa, että “ihmisillä pitäisi olla oikeus<br>
-omistaa omat tietonsa”. Datan omistajuuden käsite on kuitenkin hankala<br>
-ja sen sijaan puhumme oikeuksista henkilötietoon. MyDatalla<br>
-tavoitellaan sitä, että ihmisillä on oikeus ja käytännöllinen<br>
-mahdollisuus hyödyntää omia tietojaan ja hallita sitä, kuka niitä<br>
-käyttää. Tämä ei kuitenkaan tarkoita, etteikö myös tietoa tuottavilla<br>
-organisaatioilla voisi olla oikeuksia samaan tietoon.</p>
-<p>Omistaminen on helppo ymmärtää irtaimiston tai kiinteän omaisuuden<br>
-kohdalla. Omistaja voi määrätä omistuksesta muut poissulkevasti.<br>
-Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä<br>
-väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen<br>
-metsästä kaataa puita ilman lupaa.</p>
-<p>Tiedon omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat<br>
-tietää samoja asioita. Taloustieteellisin termein: tieto on<br>
-kilpailematon hyödyke. Se, että yksi ihminen tietää jotain ja käyttää<br>
-sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja<br>
-hyödyntämästä samaa tietoa. Vastaavasti, kun dataa kopioidaan, ei<br>
-yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta<br>
-ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain<br>
-harvoilla on mahdollisuus sitä hyödyntää.</p>
-<p>Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan<br>
-ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua<br>
-esimerkiksi tekijänoikeuksien, liikesalaisuuden tai<br>
-yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat<br>
-oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle<br>
-mahdollisuuden kieltää muita hyödyntämästä tietoa.</p>
-<p>Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi.<br>
-Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää<br>
-keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin<br>
-tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai<br>
-poistaa data asiakassuhteen päättyessä. <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/lpB6&amp;sa=D&amp;ust=1530651025530000">(Pitkänen,<br>
-2014)</a></p>
-</blockquote>
+<p>MyDataan liitetään usein mielikuva tiedon omistajuudesta. Arkikielisesti on luontevaa sanoa, että “ihmisillä pitäisi olla oikeus omistaa omat tietonsa”. Datan omistajuuden käsite on kuitenkin hankala ja sen sijaan puhumme oikeuksista henkilötietoon. MyDatalla tavoitellaan sitä, että ihmisillä on oikeus ja käytännöllinen mahdollisuus hyödyntää omia tietojaan ja hallita sitä, kuka niitä käyttää. Tämä ei kuitenkaan tarkoita, etteikö myös tietoa tuottavilla organisaatioilla voisi olla oikeuksia samaan tietoon.</p>
+<p>Omistaminen on helppo ymmärtää irtaimiston tai kiinteän omaisuuden kohdalla. Omistaja voi määrätä omistuksesta muut poissulkevasti. Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen metsästä kaataa puita ilman lupaa.</p>
+<p>Tiedon omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat tietää samoja asioita. Taloustieteellisin termein: tieto on kilpailematon hyödyke. Se, että yksi ihminen tietää jotain ja käyttää sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja hyödyntämästä samaa tietoa. Vastaavasti, kun dataa kopioidaan, ei yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain harvoilla on mahdollisuus sitä hyödyntää.</p>
+<p>Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua esimerkiksi tekijänoikeuksien, liikesalaisuuden tai yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle mahdollisuuden kieltää muita hyödyntämästä tietoa.</p>
+<p>Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi. Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai poistaa data asiakassuhteen päättyessä. <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/lpB6&amp;sa=D&amp;ust=1530651025530000">(Pitkänen, 2014)</a></p>
 <hr>
 <hr>
 <p><a></a></p>
