@@ -1,0 +1,1180 @@
+---
+
+
+---
+
+<p><img src="https://lh3.googleusercontent.com/UqNFd8U7l7DgTCLeKnPqicCFfaftSv4UwA-3FfeJCFa7InaDA0TZyZGRJjQVaItN3PnfYIgR6Jmg6IPCmWmaumPwNWVdMhnILOQXoMqTCASrP0NXDCRPYrvMR427UxPLDzG_Iqx4" alt=""></p>
+<p><img src="https://lh5.googleusercontent.com/ROiRaldzRg-lLCvbMB75G1HezofmxBUx8LF8IZAlAZoU2CfUSiFhMefZMDpmYV7x1pCf6564gBtWPMCXX8nzkjdBUo_0VgeZIjMk-sJwtKXu1QEoAQcxxG3ZYLgxszuyXGyoP3zY" alt=""></p>
+<p>MyDatalla (myös omadata) tarkoitetaan yhtäältä ihmiskeskeisiä henkilötiedon hallinta- ja hyödyntämismalleja, joissa ihmisille annetaan oikeus omaan dataansa ja toisaalta tällaisten mallien mukaisesti hallinnoitua henkilötietoa. Lähtökohtana on, että ihmiset itse voivat hyödyntää, hallita ja luvittaa eteenpäin heistä kerättyä dataa kuten ostos-, liikkumis-, talous- tai terveystietoja. Ihmiskeskeisellä datan hallinnalla luodaan yhteentoimivuutta ja minimoidaan palvelulukkojen syntymistä dataa hyödyntävien alustojen kehittyessä. Malli sovittaa yksilön oikeudet ja korkeat tietosuojavaatimukset yhteen datan saatavuuden edistämisen ja liiketoiminnan kanssa.</p>
+<p>MyData on kansainvälinen kehitysvaiheessa oleva ilmiö, malli ja tulevaisuusskenaario, jonka ympärille on kertymässä kasvavaa vauhtia teknologiaa ja liiketoimintaa. Mallin yleistyminen voi merkittävästi nopeuttaa datatalouden kehitystä ja avointen ekosysteemien syntymistä erityisesti vahvan tietosuojan ympäristöissä.</p>
+<p>Kansainvälinen MyData-toimijoiden yhteisö julkaisi vuonna 2017 tavoitteet ja periaatteet, joiden pääkohdat on suomennettu alla.</p>
+<p><img src="https://lh4.googleusercontent.com/jkEB7SjtvsmcqitIDXGyWaTzw_G2qS-yTM1f1aqForZwIi6FX4rdkQ9cu-sHfBwETcqo5eQWavKVbMUeuqA9dZPfBW9gVLhxqzIKsZDfTAsbgm_wDqpM_aRo94HHX2dedyXffFyH" alt=""></p>
+<p><a></a></p>
+<h1 id="tiivistelmä">Tiivistelmä</h1>
+<p>Tiivistelmään on koottu selvityksen kaikki kuvat pienoiskoossa ja kerrottu lyhyesti kunkin kuvan ydinviesti. Kuvamateriaali on julkaistu myös uudelleenkäytön sallivalla Creative Commons -lisenssillä osoitteessa <a href="https://www.google.com/url?q=http://okf.fi/mydata-selvitys-2018&amp;sa=D&amp;ust=1530645623460000">okf.fi/mydata-selvitys-2018</a></p>
+<p><a></a></p>
+<h1 id="esipuhe">Esipuhe</h1>
+<p>Liikenne- ja viestintäministeriön vuonna 2014 julkaisema MyData-selvitys oli keskustelunavaus, jolla kannustettiin yrityksiä, hallintoa ja kansalaisia pohtimaan uudenlaisen henkilötietomallin mahdollisuuksia ja vaikutuksia. Neljässä vuodessa on tapahtunut paljon ja MyData on kehittynyt eteenpäin. Henkilötiedon hallintamallit ovat murroksessa muun muassa toukokuussa 2018 täysimääräisenä voimaan tulleen EU:n tietosuoja-asetuksen myötä. Suomessa MyData-periaatteisiin on tartuttu yhteistyössä yritysten, tutkijoiden ja julkishallinnon kesken.</p>
+<p>Nykyisessä hallitusohjelmassa linjataan, että kansalaisten oikeutta valvoa ja päättää itseään koskevien tietojen käytöstä vahvistetaan. MyData-lähestymistapa on huomioitu hallituksen kärkihankkeissa"Digitaalisen liiketoiminnan kasvuympäristön rakentaminen" ja “Yhteisen tiedon hallinta”. Väestörekisterikeskus on käynnistänyt MyData-pilotin osana kansallista palveluväylää, jossa Suomi.fi-palvelut muodostavat jatkossa alustan digitaalisen yhteiskunnan palveluille.</p>
+<p>Yritysten yhteistyöfoorumina toimii MyData-Allianssi (<a href="http://mydata.fi">mydata.fi</a>), jossa on mukana suomalaisia suuryrityksiä, startup-yrityksiä, tutkimuslaitoksia ja julkishallintoa. Kansainvälisesti vertailtuna Allianssi on yhteistyöfoorumina edistyksellinen erityisesti siinä, miten se hakee toimijoiden välistä pilotointia organisaatiorajat ylittäviin MyData-ratkaisuihin. Suomalainen MyData-kehitys on saanut paljon positiivista huomiota kansainvälisesti ja vastaavia vuoropuhelua edistäviä verkostoja perustetaan muuallakin. Myös EU on nostanut MyDatan esille hyvänä esimerkkinä osana datatalous-tiedonannon valmistelutyötä.</p>
+<p>Tämän päivän päätöksillä on suuri vaikutus siihen, syntyykö oman datan jakamiseen ja hallintaan yhteisiä standardeja kuten aiemmin matkapuheluihin ja sähköpostiin vai hallitsevatko markkinoita jatkossakin yksittäisten yritysten tarjoamat keskenään kilpailevat alustaratkaisut. Isot kansainväliset data-alustat toteuttanevat tiukentuvan tietosuojasääntelyn vaatimukset, mutta ainakaan vielä ne eivät aktiivisesti pyri alustojen väliseen yhteentoimivuuteen.</p>
+<p>Henkilötiedon välittämisen helppous sekä alustojen ihmiskeskeisyys, avoimuus ja yhteentoimivuus ovat Suomelle ja Euroopalle mahdollisuus erottua kilpailussa ja vaikuttaa merkittävästi kansainvälisten toimintamallien muotoutumiseen. Suomen vahvuutena voidaan nähdä myös käyttäjien luottamus palveluntarjoajiin datan käsittelyssä ja valmiudet digitaalisten palvelujen käyttöön, joiden hyvästä tasosta on huolehdittava myös tulevaisuudessa.</p>
+<p>Tämä päivitetty versio aiemmasta MyData-selvityksestä vastaa tarpeeseen ajantasaisesta suomenkielisestä johdatuksesta MyData-malliin. Selvitys valottaa, mitä hyötyä MyDatasta on, ketkä sen parissa toimivat ja millainen on näkyvissä oleva polku käytännön toteutuksiin ja kohti yhteentoimivaa ja ihmiskeskeistä henkilötiedon jakamisen ekosysteemiä. Päivitystyö on tehty osana Digital Health Revolution -tutkimushanketta ja selvityksen julkaisijana toimii liikenne- ja viestintäministeriö. Selvityksessä esitetyt näkemykset ovat selvityksen toteuttajien, eivätkä välttämättä heijasta liikenne- ja viestintäministeriön näkemyksiä.</p>
+<p><strong>Taru Rastas</strong> ja <strong>Maritta Perälä-Heape</strong></p>
+<p>Liikenne- ja viestintäministeriö</p>
+<p><a></a></p>
+<h1 id="kiitokset">Kiitokset</h1>
+<p>Selvittääksemme henkilötiedon käsittelyn tulevaisuutta ja MyDatan teknisiä, juridisia ja liiketoiminnallisia piirteitä haastattelimme tämän selvityksen ensimmäistä julkaisua varten vuonna 2014 seuraavia asiantuntijoita:</p>
+<p>Jari Manninen, Anssi Mikola, Jussi Muurikainen, Juha Kenraali, Ville Peltola, Jouni Sintonen, Anu Talus, Tuomas Teuri, Eero Toivanen ja Sakari Vaelma.</p>
+<p>Sen jälkeen ja lisäksi suuri joukko muita aiheesta kiinnostuneita on yhteisönä kasvattanut ymmärrystä henkilötiedon ihmiskeskeisen käsittelyn mahdollisuuksista. Erityisesti haluamme mainita seuraavat henkilöt, jotka ovat eri vaiheissa kommenteillaan auttaneet tämän selvityksen ja sitä edeltäneen vuoden 2014 version syntymistä:</p>
+<p>Jouni Alanen, Emil Asp, Reuben Binns, Leif Beilinson, Myles Byrne, Antti Eskola, Konsta Hansson, Bo Harald, William Heath, Kari A. Hintikka, Emilia Hjelm, Mika Honkanen, Nina Honkela, Markus Kalliola, Antti Kettunen, Eija Kalliala, Matti Kinnunen, Otso Kivekäs, Miska Knapek, Jaakko Korhonen, Ismo Kosonen, Johanna Kotipelto, Krista Lagus, Alpo Lahtinen, Tuukka Lehtiniemi, Risto Linturi, Mark Lizar, Markus Petteri Laine, Aimo Maanavilja, Sami Majaniemi, Kiti Müller, Ville Oksanen (Ville Oksasen muistoa lämpimästi kunnioittaen), Mika Pantzar, Juuso Parkkinen, Maritta Perälä-Heape, Olli Pitkänen, Olli-Pekka Pohjola, Elias Pöyry, Taru Rastas, Mikael Rinnetmäki, Samuel Rinnetmäki, Aleksi Rossi, Minna Ruckenstein, Daniel Schildt, Molly Schwartz, Jaakko Talvitie, Laura Tarhonen, Marko Turpeinen ja Veera Virta.</p>
+<p>Foorumeina MyData-ajattelun ja toiminnan kehittämisessä Suomessa toimivat kaikille kiinnostuneille avoin Open Knowledge Finlandin MyData-työryhmä sekä yritysten, julkishallinnon ja tutkimuslaitosten edustajille suunnattu MyData-allianssi, jota fasilitoivat liikenne- ja viestintäministeriö ja Aalto-yliopisto. Avoimen työryhmän ja Allianssin tiedot löytyvät osoitteesta <a href="https://www.google.com/url?q=http://mydata.fi&amp;sa=D&amp;ust=1530645623497000">mydata.fi</a>. Samassa osoitteessa on myös tämän julkaisun verkkoversio.</p>
+<p><a></a></p>
+<h1 id="sisällysluettelo">Sisällysluettelo</h1>
+<p><a href="#tiivistelma">Tiivistelmä</a></p>
+<p><a href="#esipuhe">Esipuhe</a></p>
+<p><a href="#johdanto">Johdanto</a></p>
+<p><a href="#johdanto-1">Onko tämä MyDataa?</a></p>
+<p><a href="#johdanto-2">Tietosuoja ja tiedon hyödyntäminen</a></p>
+<p><a href="#1">1. Mitä MyData muuttaisi?</a></p>
+<p><a href="#1-1">1.1 Käytännölliset oikeudet ja käytettävä data</a></p>
+<p><a href="#1-2">1.2 MyData ja lainsäädäntö</a></p>
+<p><a href="#1-3">1.3 Avoin liiketoimintaympäristö</a></p>
+<p><a href="#1-4">1.4 MyDatan hyötyjä</a></p>
+<p><a href="#1-4-1">1.4.1 Ihmisille</a></p>
+<p><a href="#1-4-2">1.4.2 Yrityksille ja muille organisaatioille</a></p>
+<p><a href="#1-4-3">1.4.3 Yhteiskunnalle laajemmin</a></p>
+<p><a href="#2">2. MyData-infrastruktuuri</a></p>
+<p><a href="#2-1">2.1 Alustoista verkostoihin</a></p>
+<p><a href="#2-1-1">2.1.1 API-ekosysteemi</a></p>
+<p><a href="#2-1-2">2.1.2 Organisaatiokeskeiset alustat</a></p>
+<p><a href="#2-1-3">2.1.3 MyData-malli</a></p>
+<p><a href="#2-2">2.2 Ihmislähtöinen tiedonvaihdannan ekosysteemi</a></p>
+<p><a href="#2-2-1">2.2.1 Pääsy verkostoon MyData-tilin kautta</a></p>
+<p><a href="#2-2-2">2.2.2 Ekosysteemin roolit</a></p>
+<p><a href="#2-2-3">2.2.3 Erikoistuneet dataoperaattorit</a></p>
+<p><a href="#2-3">2.3 MyDataan liittyvien teknologioiden kerrokset</a></p>
+<p><a href="#2-3-1">2.3.1 Identiteetti- ja luottamusverkostot</a></p>
+<p><a href="#2-3-2">2.3.2 Yksityisyysasetusten, sopimussuhteiden ja käyttölupien hallinta</a></p>
+<p><a href="#2-3-3">2.3.3 Henkilökohtaiset data-alustat</a></p>
+<p><a href="#2-3-4">2.3.4 Henkilötiedon tietomallit ja semanttinen standardointi</a></p>
+<p><a href="#3">3. Esimerkkejä MyDatan sovellusalueista</a></p>
+<p><a href="#3-1">3.1 Itse kootut profiilit: Siirrettävä mediaprofiili</a></p>
+<p><a href="#3-2">3.2 Varmennettu tieto: CV 2.0</a></p>
+<p><a href="#3-3">3.3 Käyttäjätietojen hajautettu hyödyntäminen: Tiedot kanta-asiakaskortilta</a></p>
+<p><a href="#3-4">3.4 Yhteiskunnallinen tiedonkeruu: MyData tutkimuskäytössä</a></p>
+<p><a href="#3-5">3.5. Data osaksi vuorovaikutusta: Julkisten palvelujen läpinäkyvyys</a></p>
+<p><a href="#3-6">3.6 Esineiden keräämä data: Ovatko autoni tiedot minun?</a></p>
+<p><a href="#4">4. Uhat, esteet ja hidasteet</a></p>
+<p><a href="#4-1">4.1. Hidasteet tai esteet</a></p>
+<p><a href="#4-1-1">4.1.1 Mitä voimme tehdä nyt heti käytännössä?</a></p>
+<p><a href="#4-1-2">4.1.2 Data on keino pitää asiakas</a></p>
+<p><a href="#4-1-3">4.1.3 Yritykset näkevät itsensä mieluiten kaiken keskellä</a></p>
+<p><a href="#4-1-4">4.1.4 Meidän datasta ei ole muille iloa</a></p>
+<p><a href="#4-1-5">4.1.5 Suojellaan tietoa ihmiseltä itseltään</a></p>
+<p><a href="#4-1-6">4.1.6 Keskustelujen vaikeus</a></p>
+<p><a href="#4-2">4.2 Uhkakuvat</a></p>
+<p><a href="#4-2-1">4.2.1 Frankensteinin MyData</a></p>
+<p><a href="#4-2-2">4.2.2 Laki ja teknologia tohtori Jekyllin ja Mr. Hyden käsissä</a></p>
+<p><a href="#4-2-3">4.2.3 Taistelu valtasormuksesta</a></p>
+<p><a href="#4-2-4">4.2.4 Datavastuu lyyhistää ihmisiä</a></p>
+<p><a href="#5">5. MyData Suomessa</a></p>
+<p><a href="#5-1">5.1 MyDatan toteutunut kehitys Suomessa</a></p>
+<p><a href="#5-2">5.2 MyData-visio seuraaville vuosille</a></p>
+<p><a href="#5-2-1">5.2.1 Toimintasuunnat vision toteuttamiseksi</a></p>
+<p><a href="#5-2-2">5.2.2 Suomesta MyDatan kokeilumarkkina</a></p>
+<p><a href="#5-3">5.3 MyDataan liittyvää toimintaa Suomessa</a></p>
+<p><a href="#lahteet">Lähteet</a></p>
+<p><a href="#lisenssi">Avoimesti lisensoitu opas</a></p>
+<h2 id="infoboksit">Infoboksit</h2>
+<p><a href="#infobox01">Voiko dataa omistaa</a></p>
+<p><a href="#infobox02">Julkishallinto ja MyData</a></p>
+<p><a href="#infobox03">eKuitti yrityksille ja kuluttaja-asiakkaille</a></p>
+<p><a href="#infobox04">Datan siirrettävyys käytännössä</a></p>
+<p><a href="#infobox05">Avoin data, big data ja MyData</a></p>
+<p><a href="#infobox06">MyData-operaattorin referenssiarkkitehtuuri</a></p>
+<p><a href="#infobox07">Keskittäminen tuo etuja, mitä vikaa siinä on?</a></p>
+<p><a href="#infobox08">Itsehallittava identiteetti ja lohkoketjuteknologiat</a></p>
+<p><a href="#infobox09">Paikalliset sovellukset</a></p>
+<p><a href="#infobox10">Customer Commons - yhdenmukainen malli käyttöehtoihin</a></p>
+<p><a href="#infobox11">Avoimet standardit ja yhteentoimivuus</a></p>
+<p><a href="#infobox12">Yritysten ja asiakkaiden tieto toisistaan</a></p>
+<p><a href="#infobox13">Dataa useilta henkilöiltä, yrityksiltä ja laitteilta</a></p>
+<p><a href="#infobox14">Digital Health Revolution -hanke</a></p>
+<hr>
+<p><img src="https://lh3.googleusercontent.com/FPmBTQa71wfpt4d3WRlSqYJsNGEeNtklt-5MY4eL2zIoF749qFVMldsKgZOwGUY7LpAUcromYii_3KgzLMmulZG7ouyidA16MdWTdbjh8hohso41D1WyVJklpUgEO06tc-WNGhDC" alt=""></p>
+<p><a></a></p>
+<h1 id="johdanto">Johdanto</h1>
+<p>Digitaalinen jalanjälkemme kasvaa vauhdilla. Meidän on vaikea hahmottaa, mitä meistä kerättyä tietoa eri organisaatioilla on, emmekä useinkaan ymmärrä tapoja, joilla näitä tietoja hyödynnetään esimerkiksi sosiaalisen median palveluissa tai verkkomainonnassa. Tämä herättää huolestuneisuutta, jota vahvistavat paljastukset valtioiden massiivisista tiedonkeräysjärjestelmistä sekä uutisoinnit yksityisyydensuojaa heikentävistä lainsäädäntöuudistuksista ja tietomurroista. Kyselytutkimuksissa näkyy selvästi suuntaus, että ihmiset luottavat entistä vähemmän siihen, että organisaatiot käyttävät heidän henkilötietojaan asianmukaisesti <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/Ut7A&amp;sa=D&amp;ust=1530651025525000">(Sirkkunen &amp; Haara, 2017)</a>. Mitä meidän tiedoillemme ja yksityisyydellemme on tapahtumassa ja miten tämä vaikuttaa elämäämme?</p>
+<p>Tallennetun tiedon määrä lisääntyy digitalisaation seurauksena jatkuvasti ja samalla lisääntyy sen liiketaloudellinen ja muu hyödyntäminen. Suuri osa tästä tiedosta on henkilötietoa. World Economic Forum on arvioinut henkilötiedon yhdeksi merkittävimmistä tulevaisuuden liiketoimintakenttää muokkaavista voimista <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/MPva&amp;sa=D&amp;ust=1530651025525000">(World Economic Forum, 2013)</a>. Henkilötiedon avulla voidaan kehittää muun muassa ennakoivaa terveydenhoitoa sekä sovelluksia oman elämän hallintaan ja itsestä oppimiseen. Henkilötiedon avulla yritykset ja muut organisaatiot voivat räätälöidä palvelujaan vastaamaan paremmin ihmisten tarpeisiin. Yhteiskunnan tasolla henkilötietoa voidaan käyttää päätöksenteon pohjana tai esimerkiksi julkisten palvelujen tarkemmassa kohdentamisessa.</p>
+<p>Saumattomat organisaatiorajat ylittävät digitaaliset palvelut tulevat mahdollisiksi, jos henkilötietoa voidaan liikutella sujuvasti ja turvallisesti. Sama datan siirrettävyys tukee myös avointa kilpailua markkinoilla, koska ihmisten on helpompi halutessaan vaihtaa palvelusta toiseen.</p>
+<p>Henkilötiedon laajempaan hyödyntämiseen liittyy siis paljon mahdollisuuksia, mutta samalla sitä varjostavat yksityisyyden katoamiseen liittyvät uhkakuvat. MyData-ajattelussa henkilötiedon hyödynnettävyyttä lähestytään asettamalla ihminen itseään koskevan tiedon käytön keskiöön. Näin tietosuoja ja tiedon hyödynnettävyys eivät ole ristiriidassa keskenään, vaan ne päinvastoin tukevat toisiaan. Vahva tietosuoja ja läpinäkyvyys henkilötietojen käytössä lisää ihmisten ja organisaatioiden välistä luottamusta ja avaa sitä kautta mahdollisuuksia innovatiivisten henkilötietoon pohjautuvien palvelujen kehittämiseen. Tavoitteena on, että eettisesti kestävä ihmiskeskeinen tapa hallita henkilötietoa olisi tulevaisuudessa kaikkien kannalta aina käytännöllisin ja myös taloudellisesti kannattavin tapa toimia.</p>
+<p>MyDataan liittyvän ajattelun lähtökohta on ihmiskeskeisyys, jossa yhteiskunnan toimintaa rakennetaan ihmisten ympärille. Se on vastapaino suuntaukselle, jossa keskitytään pelkästään organisaatioiden toimintaedellytyksiin. Yhteiskunnan toiminta perustuu kasvavassa määrin tiedon keräämiseen ja hyödyntämiseen. Kansalaiset eivät ole muutoksen kohde vaan muutoksen tekijöitä. Ratkaiseva ero on siinä, suunnitellaanko tiedon keräämisen ja hyödyntämisen mekanismit ensisijaisesti ihmisten vai organisaatioiden näkökulmasta.</p>
+<p><a></a></p>
+<h2 id="onko-tämä-mydataa">Onko tämä MyDataa?</h2>
+<p>Alun perin Britanniasta lähtenyt MyData ei ole käsitteenä vielä kansainvälisesti täysin vakiintunut. MyData-termin käyttö on kuitenkin yleistynyt huomattavasti tämän selvityksen ensimmäisen version <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/uOrO&amp;sa=D&amp;ust=1530651025526000">(Poikola, Kuikkaniemi, &amp; Kuittinen, 2014)</a> julkaisemisen jälkeen. Kotimaisten kielten keskus on ehdottanut suomennokseksi termiä omadata. Tässä selvityksessä käytetään englanninkielistä termiä, koska ilmiö on kansainvälinen ja pyrkimyksenä on, että kehitys Suomessa ja maailmalla yhdistyvät toisiinsa.</p>
+<p>Termillä MyData viitataan ensinnäkin ilmiöön ja ajattelutavan muutokseen, jossa henkilötiedon hallintaa ja käsittelyä pyritään viemään nykyisestä organisaaatiokeskeisestä mallista ihmiskeskeiseksi. Toisaalta MyDatalla viitataan henkilötietoon resurssina, jota ihmiset voivat itse hyödyntää. Mikäli ihmisellä ei ole mahdollisuutta hyödyntää itse jonkun muun hänestä keräämää henkilötietoa, niin sitä ei voida kutsua MyDataksi.</p>
+<p><img src="https://lh3.googleusercontent.com/CWbKujfGaY76GWIl1nHrBnJkZtCyZ-cyR4__NpmelRUoq8bi-3tLxT0AiWfR-m7twMbimb3xqCSVZ0S9r8bzzuFQU8bzP6wUi1rrWU2NjeB-h32JHMiG68qkbfFuj3njQV-1z2N9" alt=""></p>
+<p>Kuva 0.1: Ihmisen elämän eri alueilla syntyy paljon henkilötietoa. MyData-periaatteet edesauttavat erityisesti toimialarajat ylittävää tiedonsiirtoa. MyDatan kannalta keskeisiä ja paljon henkilötietoa tuottavia aloja ovat muiden muassa liikkuminen, terveys- ja hyvinvointiala sekä pankki- ja vakuutustoiminta.</p>
+<p>Henkilötieto ei tarkoita vain kaikkein yksilöivimpiä tietoja, kuten nimeä ja osoitetta, vaan laajasti kaikkia tunnistettuun tai tunnistettavissa olevaan luonnolliseen henkilöön liittyviä tietoja <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/yIhi&amp;sa=D&amp;ust=1530651025527000">(EU, 2016)</a>. Esimerkiksi kauppaketjuilla on ostostietoa, verkkopalvelut keräävät käyttäjädataa, teleoperaattorille jää tietoa puheluista ja puhelimen liikkeistä. Myös julkishallinnolla on paljon henkilötietoa aina kirjastojen lainaustiedoista ja terveystiedoista rikosrekistereihin. MyData on henkilötiedon osajoukko. Kaikki MyData on henkilötietoa, mutta kaikki henkilötieto ei ole MyDataa.</p>
+<p><a></a></p>
+<h2 id="tietosuoja-ja-tiedon-hyödyntäminen">Tietosuoja ja tiedon hyödyntäminen</h2>
+<p>Sääntelyn haasteena on tasapainottaa tietosuojaan ja henkilötiedon hyödyntämiseen liittyvät toimet. Kaikki henkilötiedon kerääminen ja käyttö saattaa heikentää yksityisyydensuojaa. Eurooppalaisen vahvan tietosuojalainsäädännön yksi lähtökohta on tietojen keräämisen minimoinnin (data minimization) periaate, jonka mukaan tallennetaan vain sellaisia henkilötietoja, jotka ovat organisaation ennalta määrittämän käyttötarkoituksen mukaan tarpeellisia - “mitä vähemmän henkilötietoa kerätään ja jaetaan, sen pienempi riski”. Tämä jättää kuitenkin huomiotta datasta ihmisille itselleen kertyvän arvon ja on vastakkainen henkilötiedon määrän ja käytön lisääntymisen megatrendille.</p>
+<p>Yhdysvalloissa vallitseva lainsäädäntö ja käytännöt sallivat organisaatioille varsin vapaan henkilötiedon hyödyntämisen, jos käyttäjä on vain rastittanut lukeneensa ja hyväksyvänsä käyttöehdot. Tämä korostaa henkilötiedon laajaa uudelleenkäyttöä, mutta se tapahtuu yksityisyydensuojan kustannuksella ja yksinomaan yritysten asettamista lähtökohdista. Myös hyödyt tulevat ensisijaisesti yrityksille. Yhdysvaltain kuluttajasuojaviranomaisen mukaan kuluttajatietoa keräävillä ja myyvillä yrityksillä on hallussaan lähes jokaisen yhdysvaltalaisen kattavat tarkat tietovarannot, jotka on kerätty kuluttajien tietämättä <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/XV2H&amp;sa=D&amp;ust=1530651025528000">(FTC, 2014)</a>.</p>
+<p>MyData-ajattelu tuo datan hyödyntämisnäkökulman tasavertaisena yksityisyydensuojan rinnalle. Tähän pyritään tarjoamalla ihmisille mahdollisuuksia hyödyntää itse omaa dataansa sekä keinoja hallita, kuinka dataa kerätään, jalostetaan, hyödynnetään ja jaetaan edelleen. Olisi toivottavaa, että yrityksiä ja organisaatioita kannustetaan ja ohjataan avaamaan henkilötietorajapintoja.</p>
+<p><img src="https://lh5.googleusercontent.com/YJkf-WXiWH6CFLfsVqOrKwjMEA7kNLcHwNRFxYkc4CULDV9sJAKXbCTCUCCxVPcDF4Lsly6kr5GjMgBs5OWY7Ssjwr-W2rU-6lx7drCe5DDC-8SI5boEJgRtj5X_XwwZqr82gz1e" alt=""></p>
+<p>Kuva 0.2: MyData mahdollistaisi henkilötiedon jouhevan käytön niin, että hyödyt maksimoidaan ja yksityisyydensuojan heikkeneminen minimoidaan.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-voiko-dataa-omistaa">INFOBOX: Voiko dataa omistaa?</h4>
+<p>MyDataan liitetään usein mielikuva tiedon omistajuudesta.<br>
+Arkikielisesti on luontevaa sanoa, että “ihmisillä pitäisi olla oikeus<br>
+omistaa omat tietonsa”. Datan omistajuuden käsite on kuitenkin hankala<br>
+ja sen sijaan puhumme oikeuksista henkilötietoon. MyDatalla<br>
+tavoitellaan sitä, että ihmisillä on oikeus ja käytännöllinen<br>
+mahdollisuus hyödyntää omia tietojaan ja hallita sitä, kuka niitä<br>
+käyttää. Tämä ei kuitenkaan tarkoita, etteikö myös tietoa tuottavilla<br>
+organisaatioilla voisi olla oikeuksia samaan tietoon.</p>
+<p>Omistaminen on helppo ymmärtää irtaimiston tai kiinteän omaisuuden<br>
+kohdalla. Omistaja voi määrätä omistuksesta muut poissulkevasti.<br>
+Tuolin omistaja voi yleensä päättää, kuka tuolilla saa istua tai minkä<br>
+väriseksi tuoli maalataan. Toisen maalle ei saa rakentaa eikä toisen<br>
+metsästä kaataa puita ilman lupaa.</p>
+<p>Tiedon omistaminen ei ole näin suoraviivaista. Monet ihmiset voivat<br>
+tietää samoja asioita. Taloustieteellisin termein: tieto on<br>
+kilpailematon hyödyke. Se, että yksi ihminen tietää jotain ja käyttää<br>
+sitä hyödykseen, ei sinällään estä muita samanaikaisesti tietämästä ja<br>
+hyödyntämästä samaa tietoa. Vastaavasti, kun dataa kopioidaan, ei<br>
+yhden kopion käyttö estä muiden kopioiden käyttöä. Datan saatavuutta<br>
+ja hallintaa voidaan toki rajoittaa niin, että käytännöllisesti vain<br>
+harvoilla on mahdollisuus sitä hyödyntää.</p>
+<p>Pääsääntöisesti tietoon tai dataan ei kohdistu yksinoikeuksia, kukaan<br>
+ei omista tietoa. Sen sijaan joihinkin tietoihin voi kohdistua<br>
+esimerkiksi tekijänoikeuksien, liikesalaisuuden tai<br>
+yksityisyydensuojan takia rajoitetumpia oikeuksia. Tietoon kohdistuvat<br>
+oikeudet ovat yleensä kielto-oikeuksia: ne antavat oikeudenhaltijalle<br>
+mahdollisuuden kieltää muita hyödyntämästä tietoa.</p>
+<p>Moniin tietoihin voi useilla osapuolilla olla perusteltu intressi.<br>
+Esimerkiksi kaupalla on asiakassuhteessa hyvä syy saada käyttää<br>
+keräämiään asiakastietoja, vaikka asiakkailla olisikin samoihin<br>
+tietoihin oikeuksia, kuten mahdollisuus saada data itselleen tai<br>
+poistaa data asiakassuhteen päättyessä. <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/lpB6&amp;sa=D&amp;ust=1530651025530000">(Pitkänen,<br>
+2014)</a></p>
+</blockquote>
+<hr>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-julkishallinto-ja-mydata">INFOBOX: Julkishallinto ja MyData</h4>
+<p>Julkisella sektorilla on runsaasti lakisääteistä henkilötiedon<br>
+käsittelyä, joka ei pohjaudu ihmisten itsensä antamaan suostumukseen.<br>
+Lakisääteinen käsittelyperuste ei kuitenkaan estä MyData-periaatteiden<br>
+vähimmäisvaatimusten toteuttamista.</p>
+<p>Oikeudet ja hallinnan mahdollisuudet omaan dataan vaihtelevat eri<br>
+tapauksissa. Minimivaatimus MyData-periaatteiden toteuttamiselle on,<br>
+että ihmiset saavat pääsyn omaan dataansa ja voivat käyttää sitä myös<br>
+muualla ja muihin tarkoituksiin. Täysi kontrolli, joka mahdollistaisi<br>
+mm. oman datan muuttamisen tai poistamisen alkuperäislähteestä ei ole<br>
+edellytys MyDatalle. Keskeistä on, että henkilötieto on teknisesti<br>
+helposti käytettävissä ihmisille ja niille palveluille ja toimijoille,<br>
+joille ihminen haluaa sallia oman datansa käytön.</p>
+<p>Henkilötietojen käsittely on välttämätöntä viranomaistehtävissä, esim.<br>
+verottaja tarvitsee henkilötietoja verotusta varten, eivätkä ihmiset<br>
+voi poistaa itseään verottajan rekistereistä. Julkishallinnon toimijat<br>
+voivat noudattaa MyData-periaatteita tekemällä henkilötiedon<br>
+käsittelystä läpinäkyvää ja tarjoamalla ihmisille koneluettavassa ja<br>
+uudelleenkäytön mahdollistavassa muodossa pääsyn tasapuolisesti<br>
+kaikkiin tietoihin, joihin heillä on pääsy perinteisessä<br>
+verkkopalvelussa.</p>
+<p>Henkilötietorajapintojen kehittämisessä julkisen sektorin toimijat<br>
+voivat jopa näyttää esimerkkiä. MyData-periaatteiden mukainen<br>
+henkilötiedon hallinta voisi helpottaa julkisten ja yksityisten<br>
+palvelujen yhteentoimivuutta, kun ihminen saisi itse siirtää datan<br>
+palvelusta toiseen. Julkisella sektorilla on useita ainutlaatuisia<br>
+tietovarantoja, joita ei ole saatavilla muualla. Esimerkiksi<br>
+perusrekisterien sisältämä tieto on keskeistä perustietoa,<br>
+luonteeltaan virallista ja luotettavaa ja siksi erityisen arvokasta.</p>
+</blockquote>
+<hr>
+<p><img src="https://lh3.googleusercontent.com/z5nmjZQQI-nDIiTr7rBfBcbu7kI0CLsK6Xy1QZY7emi8N-kb4eq9blyyIFBNSm5MRY_JZK_tY14GNKxwNe1RiVVeiu8AjRMlaabFAUAIlB7YUsVveRV6aswOO1YA6xT0wfywYjGN" alt=""></p>
+<p><a></a></p>
+<h1 id="mitä-mydata-muuttaisi">1. Mitä MyData muuttaisi?</h1>
+<p>MyData pyrkii tarjoamaan ihmisille mahdollisuuden käyttää henkilötietojaan omiin tarkoituksiinsa ja jakaa niitä turvallisesti omilla ehdoillaan. Uudistuva eurooppalainen lainsäädäntö antaa tähän periaatteessa hyvän pohjan, mutta toisaalta aiempikin tietosuojalainsäädäntö on tarjonnut ihmisille oikeuksia, jotka ovat usein jääneet lähinnä nimellisiksi, koska niitä ei tunneta ja niitä on vaikea valvoa. Kansainvälisessä MyData-periaatteiden julistuksessa (<a href="https://www.google.com/url?q=http://mydata.org/declaration&amp;sa=D&amp;ust=1530645623511000">mydata.org/declaration</a>) tavoitteeksi on kirjattu: “pääsy omiin tietoihin, tietojen oikaiseminen ja siirrettävyys, sekä oikeus tulla unohdetuksi kehittyvät yhden klikkauksen oikeuksiksi, jotka ovat yhtä yksinkertaisia ja tehokkaita käyttää kuin tämän päivän ja huomisen parhaat verkkopalvelut”.</p>
+<p>Datatalouden nopea kasvu perustuu verkostovaikutuksiin. Niiden tehokkaimpia hyödyntäjiä ovat alustatoimijat, joilla on mahdollisuus kerätä ja käsitellä suurimmat määrät henkilötietoja. Nämä alustat sulkevat markkinoita paitsi kilpailijoiltaan myös monilta muilta yrityksiltä, jotka ovat nyt vaarassa menettää suoran yhteyden omiin asiakkaisiinsa. Yksilön oikeuksien vahvistaminen ja käytännöllistäminen nähdään merkittävänä yritysten kilpailua edistävänä muutosvoimana.</p>
+<p><a></a></p>
+<h2 id="käytännölliset-oikeudet-ja-käytettävä-data">1.1 Käytännölliset oikeudet ja käytettävä data</h2>
+<p>Oikeus omaan dataan ja sen hallintaan nähdään digitaalisen ajan ihmisoikeutena. MyData-periaatteiden mukaan ihmisillä on paitsi oikeuksia myös käytännön työkaluja, joiden avulla he hallitsevat omia tietojaan, yksityisyyttään ja omaa elämäänsä verkossa. Lähtökohtana on, että ihminen saa tietää, mitä tietoja hänestä on kerätty ja millä tavalla niitä hyödynnetään. Lisäksi omat tiedot voi helposti siirtää itselleen uudelleenkäytettävässä muodossa ja niitä voi jakaa edelleen muiden käyttöön, ja tiedon jakamisen voi myös lopettaa yhtä helposti.</p>
+<p><img src="https://lh3.googleusercontent.com/j3O9LXq9WNtlB8tnycfLMgNAH7QO1HlR18DZmz-ExfEqw_xfD0jX0ROFVp-WkMaHX5-JVtu1onP1vM-B9MmD5Y5KWf17gSj-IS7sBms60GcLJ39N1NN9EreRylCIHSJwetuzxVt6" alt=""></p>
+<p><em>Kuva 1.1: Oikeudet ja hallinnan taso, jotka ihmisillä on omiin tietoihinsa, voivat vaihdella eri tilanteissa. MyDatasta voidaan puhua silloin, kun ihmisillä on oikeus ja käytännön mahdollisuus saada omat tietonsa itselleen, käyttää niitä vapaasti ja siirtää halutessaan kolmansille osapuolille.</em></p>
+<p>Laista tulevat oikeudet tukevat MyDatan periaatteiden toteutumista. Silti pelkkä lain vaatimusten seuraaminen ei yksin riittää ihmiskeskeisen henkilötiedon ekosysteemin synnyttämiseksi. Esimerkiksi henkilörekistereihin liitetyn tarkastusoikeuden nojalla ihmisillä on nykyisinkin muodollinen mahdollisuus saada itseään koskevat tiedot. Nykyisin yritykset toteuttavat tarkastusoikeuden velvoitteen usein niin, että tarkastusoikeuden nojalla pyydetty tieto lähetetään sitä pyytävälle henkilölle postitse. Esimerkiksi teleoperaattorilta saa oman puhelinliittymän puhelu- ja paikkatiedot paperitulosteena maksamalla noin 10 euron toimitusmaksun. Tietojen joustavan jatkohyödyntämisen kannalta tällainen paperinen ja kallis datatuloste on hyödytön.</p>
+<p>MyData pyrkii antamaan ihmisille lainsäädännön minimivaatimuksia laajemmat mahdollisuudet hallita omia tietojaan ja sen myötä tekemään henkilötiedosta uudelleenkäytettävän resurssin niin, että yksityisyydensuoja otetaan huomioon. Lain mukaisesti rekisterinpitäjät saavat kerätä, tallentaa, käsitellä ja hyödyntää henkilötietoja vain ennalta määriteltyihin käyttötarkoituksiin. Henkilöitä, joiden datasta on kyse, nämä rajoitukset eivät koske. Ihminen itse voi hyötyä datastaan käyttämällä sitä joustavasti itse määrittämiinsä tarkoituksiin. Käytännössä tämä tarkoittaisi myös, että yksilöt voivat antaa suostumuksen oman tietonsa uudelleenkäyttöön ja jakaa dataansa palveluiden välillä omien tarpeidensa mukaan.</p>
+<p>MyDatan minimitoteutus on, että ihmiset voivat ladata omat tiedot koneluettavassa muodossa itselleen. Innovatiivisten sovellusten kannalta olisi kuitenkin parempi, että ajantasaiseen dataan olisi jatkuva pääsy standaroitujen ohjelmointirajapintojen (API) kautta. Näin tiedon päivittäminen ei vaatisi vierailuja tiedon tarjoajan sivustolla, vaan palveluja voitaisiin automatisoida. Esimerkiksi ostosdata on hyödyllisintä, jos sähköisen eKuitin saa automaattisesti heti ostoksen maksettuaan kuten paperikuitin nykyään.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-ekuitti-yrityksille-ja-kuluttaja-asiakkaille">INFOBOX: eKuitti yrityksille ja kuluttaja-asiakkaille</h4>
+<p>Monille niin sanottu “kuittirumba” on tuttua. Paperikuitteja pyörii<br>
+taskuissa ja lompakossa, osa on henkilökohtaisista pikkuostoksista,<br>
+mutta joukossa on myös tärkeitä tositteita, jotka tulisi säilyttää<br>
+takuuta varten tai liittää esimerkiksi työnantajalle tehtävään<br>
+kululaskuun.</p>
+<p>Suomessa tehdään vuosittain 1,3 miljardia korttimaksua, joista<br>
+kymmenen prosenttia yrityskorteilla. Kuluttajien korttimaksujen osalta<br>
+jotkut pankit lähettävät jo lähes reaaliaikaisesti sähköisen kuitin<br>
+pankin tarjoamaan mobiilisovellukseen. Laajemmin ajatus digitaalisista<br>
+niin sanotuista eKuiteista tarkoittaisi, että ostaja saisi<br>
+maksutavasta riippumatta kattavan myös ostosten rivitiedot sisältävän<br>
+datakuitin haluamaansa paikkaan ilman, että ostotilanteessa tarvitsisi<br>
+sitä erikseen ilmoittaa. Yritykset tarvitsevat kuittitietoa<br>
+kirjanpitojärjestelmissä ja kuluttaja-asiakkailla voisi olla oma<br>
+datalompakko, mihin eKuitit tallentuvat automaattisesti.</p>
+<p>Ero paperikuitteja pursuavan nahkalompakon ja datalompakon välillä on<br>
+se, että jälkimmäiseen voidaan asentaa hyödyllisiä ohjelmia, jotka<br>
+käsittelevät ja havainnollistavat tietoa. Datalompakossa voi toimia<br>
+vaikkapa reaaliaikainen talousseurantaohjelma, takuukuittiarkisto ja<br>
+muita ostokäyttäytymiseen liittyviä henkilökohtaisia palveluja.<br>
+Käyttäjä voi itse valita, mitä ohjelmia datalompakkoonsa asentaa,<br>
+mutta kauppias voi myös suositella ohjelmia, jotka erityisesti ottavat<br>
+huomioon heidän lähettämänsä kuittidatan.</p>
+<p>Taloushallinnon automatisointi on yritysten tuottavuuskehityksen<br>
+kannalta keskeisimpiä alueita. Sen onnistuminen vaatii sekä<br>
+standardoitua rakenteista dataa että avoimia rajapintoja. Sähköisenä<br>
+saatavan kirjanpitokelpoisen eKuitin säästöpotentiaalin on arvioitu<br>
+olevan lähes 800 miljoonaa euroa vuodessa. Suomalaisessa<br>
+Taltio-hankkeessa on määritelty verkkolaskustandardia käyttävä<br>
+ekosysteemi eKuittien välitykseen. Jatkohankkeissa pyritään<br>
+käynnistämään kuitinvälitys laajasti ja yhteistyössä mm. Viron kanssa<br>
+sekä lisäämään yritysten verkkolaskuihin koneluettavaa tietoa, jolla<br>
+voidaan mm. syventää tilitoimistojen analyysipalveluita.</p>
+<p>Vaikka yritysten taloushallinnon automatisointi on nyt veturina<br>
+eKuittien kehityksessä, niin samoja mekanismeja kannattaa hyödyntää<br>
+myös kuluttajapuolella, jolloin ei tarvitse rakentaa erillistä<br>
+toimintatapaa kuluttajien kuitinvälitykseen myöhemmin. Kuluttajille<br>
+eKuitti toimisi rivikohtaisena takuutodistuksena sekä takaisinkutsu-,<br>
+huoltomuistutus- jne. välineenä.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h2 id="mydata-ja-lainsäädäntö">1.2 MyData ja lainsäädäntö</h2>
+<p>Lainsäädäntö, säätely sekä teknologiset muutokset voivat osaltaan tukea MyDatan toteutumista. Sääntelyllä voi olla kiihdyttävä tai hidastava vaikutus, mutta lainsäädäntö yksin ei saa aikaan muutosta. Haasteena on datatalouden kansainvälistyminen ja sääntelyn soveltaminen maailmanlaajuisesti toimiviin palveluihin.</p>
+<p>Eurooppalaisen tietosuojalainsäädännön lähtökohtana on yksityisyyden suojaaminen ja henkilörekisterin tietosisällön oikeellisuus, ei niinkään henkilötiedon mahdollisten hyötyjen toteutuminen. Laki antaa muun muassa ihmisille oikeuden tarkistaa omat tietonsa henkilörekisterin pitäjältä ja pyytää korjaamaan tai tietyissä tilanteissa myös poistamaan tiedot. EU:n perusoikeuskirjaan on kirjattu, että “jokaisella on oikeus tutustua niihin tietoihin, joita hänestä on kerätty, ja saada ne oikaistuksi”.</p>
+<p>Henkilötietoa saa lain mukaan käyttää lähtökohtaisesti vain siihen tarkoitukseen, mihin se on alun perin kerätty. Esimerkkejä laissa erikseen määritellyistä sallituista jatkokäyttötarkoituksista ovat tieteellinen tutkimus ja tilastointi. Yksityisyyden suojan kannalta on perusteltua, etteivät organisaatiot voi noin vain, varsinkaan ihmisten tietämättä, käyttää henkilötietoa uusiin tarkoituksiin. Toisaalta taas datan järkevät käyttötarkoitukset saattavat nousta esiin vasta jälkikäteen. Suostumuksen pyytäminen jälkikäteen on usein käytännössä vaikeaa, vaikka uusi käyttötarkoitus olisikin rekisteröityjen mielestä hyväksyttävä. Lain hengen ja tarkoituksen mukaisesti henkilötietojen käyttötarkoituksen tulisi aina olla mahdollisimman tarkasti määritelty.</p>
+<p>MyData-lähestymistavassa tasapainoa haetaan sitä kautta, että ihminen toimii kontrollipisteenä oman datansa käytön suhteen. Silloin kaikkia tulevaisuuden hyödyntämismahdollisuuksia ei tarvitse etukäteen luetella, sillä ihminen itse saa käsitellä omaa dataansa vapaasti. Ihminen saa oman datansa itselleen, jolloin hän voi antaa sen eteenpäin niihin tarkoituksiin, joihin itse haluaa. On kuitenkin huomioitava, että suostumus ei syrjäytä tarpeellisuutta, eli vaikka ihminen antaisi oman suostumuksensa datan keräämiseen ja käyttöön, niin sen lisäksi rekisterinpitäjän on pystyttävä osoittamaan, että kyseinen henkilötiedon käsittely todella on perusteltua.</p>
+<p>Euroopan unionin uusi tietosuoja-asetus <a href="https://www.google.com/url?q=https://paperpile.com/c/jOsu3R/4uLg&amp;sa=D&amp;ust=1530645623515000">(EU 2016)</a> tuli täysimääräisenä voimaan siirtymäajan päätyttyä toukokuussa 2018. Asetus on kaikissa jäsenvaltioissa suoraan sovellettavaa lainsäädäntöä. Tietosuojaan liittyvien sääntöjen muutoksesta johtuen miltei kaikkien henkilötietoa käsittelevien toimijoiden on täytynyt suunnitella uudelleen omien järjestelmiensä toimintaa. Tämä on samalla myös merkittävä mahdollisuus muuttaa tietojärjestelmiä kohti MyDatan kaltaisia avoimempia käytäntöjä. Asetus vahvistaa jo pitkään voimassa olleita tietosuojaperiaatteita muun muassa taloudellisesti merkittävien sanktioiden myötä. Samalla ihmisten oikeudet heitä itseään koskevaan tietoon lisääntyvät ja esimerkiksi kriteerit sille, mikä on hyväksyttävä suostumus tiukentuvat aikaisempaan verrattuna.</p>
+<p>Henkilötiedon hyödynnettävyyden kannalta merkittävä muutos on, että uuden lainsäädännön myötä rekisteröidyllä on mahdollisuus tarkastusoikeuden nojalla pyytää rekisterinpitäjältä kopioita omista tiedoistaan ja saada ne yleisesti käytetyssä sähköisessä muodossa (Tietosuoja-asetus, Artikla 15). Aiemmin käytäntönä on usein ollut, että rekisterinpitäjä pyydettäessä lähettää paperitulosteena tai PDF-tiedostona otteen, josta tiedot käyvät ilmi. Tällainen toimintatapa ei edesauta henkilötiedon hyödyntämistä.</p>
+<p>Tarkastusoikeuden lisäksi asetuksessa määritellään uusi oikeus, nimittäin oikeus siirtää tiedot järjestelmästä toiseen (Tietosuoja-asetus, Artikla 20). Tällä oikeudella pyritään varmistamaan, ettei datan keruusta tule palvelujen välistä kilpailua rajoittava tekijä, vaan että ihmisillä on mahdollisuus vapaasti valita kilpailevien palveluntarjoajien välillä ja siirtää myös tietonsa mukanaan, mikäli päättävät vaihtaa palvelua. Artiklan mukaan ihmisillä on oikeus saada tiedot jäsennellyssä, yleisesti käytetyssä ja koneellisesti luettavassa muodossa.</p>
+<p><img src="https://lh5.googleusercontent.com/EAnbau7_gRRTYziYBMmO5phvz8nJ4wVvUWF-CzlO9zj9w2u3YTY-d50ulTcY548iDy7eVZBZSozJpOLZtX2t9XdODoG6b_MmX3IQulfo6IkiErG1-RmvaK-xGX9_RGycN5UwYKsx" alt=""></p>
+<p><em>Kuva 1.2: EU:n tietosuoja-asetuksen (EU General Data Protection Regulation, GDPR) ja MyDatan tavoitteet ovat osin yhteneviä.</em></p>
+<p>Tietosuoja-asetuksen lisäksi muita Euroopan tason digitaaliseen identiteettiin ja henkilötiedon liikkuvuuteen liittyviä keskeisiä lainsäädäntöuudistuksia ovat Sähköisen viestinnän tietosuoja-asetus (ePrivacy), Sähköisen tunnistamisen eIDAS-asetus sekä Maksupalveludirektiivi (PSD2). Osaltaan nämä kaikki pyrkivät luomaan Eurooppaan yhtenäistä digitaalista markkina-aluetta avaamalla pääsyä tietoon ja helpottamalla tiedon siirtymistä organisaatioiden ja maiden rajojen yli. MyData-käytännöillä pyritään siihen, että ihmisten oikeuksista tulee käytännössä helppoja ja hyödyllisiä ja että määräysten toteuttaminen on joustavaa ja helppoa organisaatioille.</p>
+<p>Sähköisen viestinnän tietosuoja-asetus (ePrivacy): Euroopan komissio antoi tammikuussa 2017 ehdotuksensa asetukseksi yksityiselämän ja henkilötietojen suojaamisesta sähköisessä viestinnässä. Asetus koskee erilaisia sähköisten viestintäpalvelujen tarjoajia kuten teleoperaattoreita ja esimerkiksi WhatsAppin kaltaisia palveluja. Kyse on yleisen tietosuoja-asetuksen tavoin asetuksesta, joka voimaan tullessaan on suoraan sovellettavaa sääntelyä eikä edellytä jäsenvaltioilta erillistä voimaansaattamista direktiivien tavoin.</p>
+<p>Sähköisen tunnistamisen eIDAS-asetus: Vuonna 2016 voimaan tulleen eIDAS-asetuksen (Electronic identification and trust services for electronic transactions in the internal market) tavoitteena on tarjota sähköisiä tunnistusvälineitä, joilla on mahdollista tunnistautua julkishallinnon palveluissa koko EU:ssa viimeistään 2018 syksyllä. Asetus määrää, että jäsenvaltioiden viranomaisten on tunnustettava toisen jäsenvaltion komissiolle ilmoittamat sähköisen tunnistamisen menetelmät. Esimerkiksi ruotsalaiset vahvat sähköiset tunnisteet kelpaavat suomalaisiin julkishallinnon palveluihin ja toisin päin.</p>
+<p>Maksupalveludirektiivi (PSD2): Euroopan unioni pyrkii myös muuttamaan pankkialan kilpailuympäristöä helpottamalla uusien toimijoiden pääsyä markkinoille. Keinona tähän on tiedon liikkumisen helpottaminen. Tällä hetkellä keskeisenä rajoitteena uusien maksupalvelujen syntymiselle on se, että henkilöasiakkaiden tilejä ja maksuja koskevat tiedot pysyvät visusti heitä palvelevien pankkien hallussa. Uusi maksupalveludirektiivin (Payment Service Directive, PSD2) velvoittaa pankit avaamaan maksupalveluihin liittyviä rajapintojaan, jolloin ihmiset voivat ottaa uusia palveluja käyttöön riippumatta siitä, minkä pankin asiakkaina he ovat. Jäsenvaltioiden oli pantava toimeen direktiivi tammikuussa 2018.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-datan-siirrettävyys-käytännössä">INFOBOX: Datan siirrettävyys käytännössä</h4>
+<p>Tietosuoja-asetuksen 20. artikla tuo uuden oikeuden ihmisille ladata<br>
+omia tietojaan joko itselleen tai siirtää suoraan palvelujen välillä.<br>
+Tämä on yksi asetuksen kohdista, mihin yritykset ovat kaikkein<br>
+heikoimmin valmistautuneita. Jotkut yritykset tarjoavat jo<br>
+asiakkailleen mahdollisuutta ladata omat tietonsa verkkosivuilta,<br>
+mutta suurimmalle osalle tämä on kokonaan uutta ja etenkin<br>
+mahdollisuus välittää tietoja suoraan kahden organisaation välillä<br>
+asiakkaan pyynnöstä vaatii kehitystoimia.</p>
+<p><img src="https://lh5.googleusercontent.com/6236Uh8zM1ARUEkZCHRPrHDkcOr1WICL4yNPDPeN_vQs1RiIxh0K1ab1co8Q630THbu7ueaB82vujCeqVVsZE7p7rPOqVDC_mseyfBZcDhRK3GpPK1QpwsuXhHPv1pjMdo5DLwlU" alt=""></p>
+<p><em>Kuva 1.3: Tietosuoja-asetuksen tietojen siirrettävyyttä koskeva artikla.</em></p>
+<p>Tietojen siirto-oikeus (data portability) kattaa kaikki tiedot, jotka<br>
+syntyvät asiakkaan toiminnan seurauksena. Tietojen pitää olla tarjolla<br>
+käyttökelpoisessa koneluettavassa muodossa ja lähtökohtaisesti<br>
+maksutta. Tämä oikeus ei liity oikeuteen tulla unohdetuksi, eikä datan<br>
+siirtäminen automaattisesti käynnistä datan poistamista<br>
+alkuperäislähteestä. Euroopan tietosuojaviranomaisten työryhmä on<br>
+antanut selkeät ohjeistukset tietojen siirto-oikeuden tulkinnasta<br>
+<a href="https://www.google.com/url?q=https://paperpile.com/c/jOsu3R/K7fa0&amp;sa=D&amp;ust=1530645623518000">(European Commission<br>
+2017)</a>,<br>
+mutta tästä on kuitenkin vielä matkaa käytännön toteutuksiin<br>
+organisaatioissa.</p>
+<p>Ranskalaisessan Dataccess -projektissa teleoperaattori on koonnut<br>
+avoimen työryhmän kehittämään määrittelyjä, ohjeistuksia, avoimesti<br>
+lisensoituja design-elementtejä ja avoimen lähdekoodin toteutuksia,<br>
+joilla pyritään tarjoamaan yhteinen helposti käytettävä malli<br>
+henkilötiedon siirrettävyyden käytännön toteutukseen organisaatioissa.<br>
+Työryhmässä on mukana Ranskan tietosuojavaltuutettu (CNIL) sekä<br>
+energiayhtiöitä, pankki- ja vakuutusalan toimijoita ja kaupunkeja.</p>
+<p>Dataccess on ottanut mallia Yhdysvaltalaisista Green- ja Blue Button<br>
+-käytännöistä, jotka edistävät kuluttajien mahdollisuutta saada energiankulutus- (green button) ja terveysdataansa (blue button)<br>
+itselleen. Toimialakohtaisten ratkaisujen sijaan Dataccess pyrkii<br>
+vähentämään datan siirrettävyyteen liittyviä haasteita kaikissa<br>
+organisaatioissa ja sen myötä mahdollistamaan käyttäjille eri<br>
+palveluissa yhteneväisen ja helpon käyttökokemuksen omien tietojen<br>
+siirtämiseen. Tavoitteena on, että käytännöllisen toteutusmallin myötä<br>
+lain vaatimus muuttuu pakollisesta pahasta mahdollisuudeksi kehittää<br>
+luottamukseen perustuvia asiakassuhteita ja edistää innovaatioita.</p>
+<p>Ensimmäisessä vaiheessa Dataccess on julkaissut määrittelyjä kolmesta<br>
+toisiaan täydentävästä käyttötapauksesta: 1) tietojen lataaminen<br>
+omalle koneelle 2) tietojen siirtäminen sovellusten välillä ja 3)<br>
+tietojen siirtäminen omaan datalompakkoon (personal cloud). Lisäksi<br>
+Dataccess-julkaisussa on hahmoteltu tyypillinen tiedon siirrettävyyden<br>
+toteutusprojekti ja jaettu se helposti hallittaviin osiin.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h2 id="avoin-liiketoimintaympäristö">1.3 Avoin liiketoimintaympäristö</h2>
+<p>Merkittävä seuraus MyData-periaatteiden toteuttamisesta on henkilötiedon arvoketjujen pilkkoutuminen ja tiedon hallinnan keskittyminen sen ihmisen ympärille, jonka tiedoista on kysymys. Tämä avaa mahdollisuuksia uusille toimijoille ja rikkoo perinteisiä sektoreiden ja toimialojen rajoja.</p>
+<p>Yhtenä MyData-ajatteluun sisältyvänä tavoitteena on henkilötietoon liittyvän liiketoiminnan avautuminen kehitykselle, kilpailulle ja yhteistoiminnalle niin, etteivät monopolistiset skenaariot <a href="https://www.google.com/url?q=https://paperpile.com/c/jOsu3R/iVoHj&amp;sa=D&amp;ust=1530645623520000">(Newman 2013)</a> tietoyhteiskunnan tulevaisuudesta toteutuisi. Toimivassa palvelujen kokonaisuudessa halutaan välttää sitä, että mikään yksittäinen organisaatio olisi infrastruktuurin tarjoajana monopoliasemassa, että kaikki henkilötieto sijaitsisi yhdessä palvelussa tai että palveluja voisi toteuttaa vain yhdellä teknologialla.</p>
+<p><img src="https://lh4.googleusercontent.com/EQwc8zIGpRl6itQy072nl5tocyH7MSLHLbb4DkhTB8aYcRXrKD4xCHp1hEDBf3-5wKnLfQyKwBtfuARaS_-Kmbe1sbmNIQ11r448gdXGEB_JoiIA9hDno91wH-1t9gaZNgJ62pDi" alt=""></p>
+<p><em>Kuva 1.4: MyData-mallissa henkilötiedon arvoketjut pilkkoutuvat ja muodostavat arvoverkostoja. Avoimissa arvoverkostoissa eri vaiheisiin voi syntyä erikoistuneita toimijoita. MyData-operaattorit olisivat hallinnointiin erikoistuneita toimijoita, jotka tarjoavat tietosuoja-asetuksen mukaista henkilötiedon hallinnointia ja luvittamiseen liittyviä toimintoja palveluna.</em></p>
+<p>Henkilötiedon jalostuksen arvoketju koostuu henkilötiedon lähteistä (luominen, kerääminen), välittämisestä (hallinta) ja hyödyntämisestä. Perinteisesti koko arvoketju on yhden organisaation sisällä. Esimerkiksi kun pankin järjestelmiin syntyy tieto henkilön kaikista tilitapahtumista, pankki jalostaa ja välittää tietoa ja tuottaa tiliotteet ja verkkopankkinäkymät asiakkailleen. MyDatan myötä siirrytään yksittäisten organisaatioiden toteuttamista arvoketjusta kohti avointa ja hajautettua arvoverkostoa, jossa syntyy eri vaiheisiin erikoistuneita toimijoita. Esimerkiksi yhdysvaltalainen <a href="https://www.google.com/url?q=https://www.mint.com&amp;sa=D&amp;ust=1530645623521000">mint.com</a>-palvelu hyödyntää pankkisektorilla henkilötietoa arvoketjun loppupäässä ja tarjoaa käyttäjille tavallista verkkopankkia kattavamman oman talouden näkymän.</p>
+<p>Perinteisessä datan jalostusketjussa yritys tai palvelu, jossa data syntyy, on portinvartija. Esimerkiksi kauppaketjun kanta-asiakaskortilla tehdyistä ostoksista syntyy dataa, jonka käytöstä päättää kanta-asiakasjärjestelmän ylläpitäjä. Mikäli palvelulla on MyData-periaatteiden mukainen henkilötietorajapinta, niin portinvartijana toimiikin palvelun käyttäjä; hän päättää itse, mille tahoille hänen tietojaan saa luovuttaa.</p>
+<p>Henkilötiedon arvoketjun pilkkominen on strategisesti merkittävä muutos. Se murentaa joitain nykyisin tyypillisiä liiketoimintamalleja. Esimerkiksi käyttäjistä kerättyyn tietoon ja ilmaisen palvelun avulla käyttäjämäärien kasvattamiseen perustuva liiketoiminta ei toimi ympäristössä, jossa asiakkaat voivat halutessaan nopeasti siirtää tietonsa toisiin palveluihin. Toisaalta arvoketjun pilkkoutuminen luo puitteet uudenlaiselle liiketoiminnalle ja palveluyritysten pitäisikin nähdä se mahdollisuutena solmia entistä läpinäkyvämpiä ja syvempään luottamukseen perustuvia asiakkuuksia. Yritykset voisivat myös kehittää liiketoimintamallejaan vahvemman asiakasymmärryksen perusteella ja hyödyntää asiakkaita palvelujen osatuotannossa ja suunnittelussa.</p>
+<p>Tärkeä rooli hajautetussa arvoverkostossa on henkilötiedon välittämisen ja hallinnan palveluja tuottavilla tahoilla. Näitä voidaan kutsua MyData-operaattoreiksi (ks. luku 2). Pitkällä tähtäimellä datan välittämisen infrastruktuurin tarjonta tulisi hajauttaa samalla tavalla kuin pankki- tai teleoperaattoripalvelut. Joku voi luottaa talousdatansa pankille ja terveysdatansa terveysalan MyData-operaattorille, kun taas toinen ei luota muuhun kuin omalla koneellaan olevaan avoimen lähdekoodin ohjelmistoon. Hajautettujen peruspalvelujen pitäisi toimia kuitenkin yhteen - vastaavasti kuin pankkikortilla maksaminen toimii pankista riippumatta ja kännykkäpuhelut yhdistyvät eri teleoperaattorien verkosta toiseen. Asiakkaan kannalta tämä tarkoittaisi, että palveluja on helppo vaihtaa myös niin, että henkilön omat tiedot kulkevat mukana. Vaihtamisen mahdollisuus lisää kilpailua sekä luottamusta palveluihin ja siten kiihdyttää palvelujen kehitystä.</p>
+<p><a></a></p>
+<h2 id="mydatan-hyötyjä">1.4 MyDatan hyötyjä</h2>
+<p>Mihin MyDatalla pyritään ja mitä hyötyä siitä on? Tässä luvussa on kuvattu MyDatan myönteisiä vaikutuksia ihmisten, yritysten ja yhteiskunnan kannalta. Hyödyt ihmisille ja organisaatioille ovat käyttövoima muutoksessa, joita ilman mitään ei tapahtuisi. Alusta alkaen on tärkeää löytää MyData-sovelluksia, jotka palvelevat konkreettisesti ihmisiä heidän arjessaan. Oikeuksien toteutuminen tai kestävämmät datatalouden periaatteet saattavat kiinnostaa joitakuita, mutta jokapäiväiset hyödyt saavat suuret joukot liikkeelle. Positiivisia yhteiskunnallisia vaikutuksia taas voidaan pitää suuntaa määrittävinä tavoitteina. Henkilötiedon infrastruktuuriin ja sääntelyyn tehtävien ratkaisujen pitää olla sellaisia, että ne lisäävät käyttövoimaa, mutta samalla ohjaavat suuntaan, joka mahdollistaa kollektiivisten hyötyjen toteutumisen pitkälle tulevaisuuteen.</p>
+<p><a></a></p>
+<h3 id="ihmisille">1.4.1 Ihmisille</h3>
+<p>Suurinta osaa ihmisistä ei kiinnosta data itsessään, eivätkä he jaksa nähdä vaivaa oman datansa hallinnoinnissa. Myöskään oikeuksien vahvistuminen tai parempi tietosuoja ja yksityisyys eivät ole ensisijaisia motiiveja uudenlaisten palvelujen tai toimintamallien käyttöönottoon. Tarvitaan loppuun asti tuotteistettuja ja helppokäyttöisiä palveluja, jotka datan avulla auttavat ihmisten arkea.</p>
+<p>Datan siirrettävyyden ansiosta palvelujen tarjoajia voi vaihtaa ketterästi ja oman tiedon hallinnoinnin taakka pienenee. Kun tiedon saatavuus helpottuu, voivat yritykset erikoistua tarjoamaan tuotteita monipuolisesti pienillekin asiakasryhmille.</p>
+<p>Mahdollisuus jakaa hallitusti ja vaivattomasti omia tietoja eri organisaatioiden kanssa vaikuttaa ihmisten ja organisaatioiden välisiin suhteisiin, olivat ne sitten asiakassuhteita tai muita vuorovaikutussuhteita. Jos esimerkiksi työntekijät jakavat omasta hyvinvoinnista keräämäänsä tietoa työnantajansa kanssa, voi yrityksillä olla parempia keinoja työympäristön parantamiseen.</p>
+<ul>
+<li>
+<p>Uudenlaiset palvelut: Kokonaan uudenlaisten palvelujen tuottamiselle avautuu mahdollisuuksia, kun eri lähteistä tulevaa tietoa voi hyödyntää ja yhdistää nykyistä helpommin. Ihmisten arkea helpottaisivat esimerkiksi entistä osuvammat suositusjärjestelmät, kohdistetut terveysneuvot ja oman talouden seurantaa ja kulutusvalintojen ymmärtämistä tukevat sovellukset.</p>
+</li>
+<li>
+<p>Valinnanvapaus ja palvelujen vaihdettavuus: Datan helppo siirrettävyys suojaa asiakkaita yksittäiseen palveluun lukittumiselta. Ihmiset voivat vaihtaa palveluntarjoajaa ja samalla siirtää omat tietonsa uuteen paikkaan. Tilanne on verrattavissa siihen, että teleoperaattorin vaihtaminen helpottui, kun asiakas sai säilyttää vanhan puhelinnumeronsa.</p>
+</li>
+<li>
+<p>Informaation tasapuolisuus: Ihmisten asema suhteessa organisaatioihin vahvistuu, kun heille on tarjolla paremmat keinot ymmärtää ja hallita organisaatioiden heistä keräämää tietoa. Lisääntyvän läpinäkyvyyden myötä kansalaisjärjestöjen ja viranomaisten on helpompi puuttua yksityisyyttä loukkaaviin väärinkäytöksiin</p>
+</li>
+</ul>
+<p><a></a></p>
+<h3 id="yrityksille-ja-muille-organisaatioille">1.4.2 Yrityksille ja muille organisaatioille</h3>
+<p>MyData vastaa liiketoimintamallien tasolla muutokseen, jossa siirrytään nyt vauhdilla siiloista arvoverkostoihin muun muassa datan jakamisen, rajapintojen ja hajautetun luottamuksen mahdollistavien lohkoketjuteknologioiden avulla. Sääntely, kuten tietosuoja-asetus ja PSD2 ohjaavat samaan suuntaan. Ihmiskeskeinen henkilötiedon hallinta ja uudentyyppiset hajautetut digitaalisen identiteetin ratkaisut ovat välttämättömiä verkostomaisten digitaalisen talouden liiketoimintamallien mahdollistajia.</p>
+<p>Kaikki henkilötietoa käsittelevät organisaatiot edistävät MyDataa avaamalla henkilötietorajapintoja. Ensi näkemällä motivaatio tämän tekemiseen voi olla epäselvä, ovathan asiakastiedot monelle yritykselle merkittävä kilpailutekijä. Tiettyyn rajaan asti lainsäädäntö edellyttää datan siirrettävyyttä kaikilta, ja tässä uudessa sääntely-ympäristössä proaktiivinen tietojen vaihtoon osallistuminen voi tarjota edelläkävijän aseman. Tietovarantoja keräävät tahot hyötyvät, jos muut tuottavat heidän tarjontaansa täydentäviä palveluja saman tiedon pohjalta. Esimerkiksi jos kanta-asiakaskortilla kerättyä dataa voi käyttää laajasti eri palveluissa, niin kortista tulee asiakkaille arvokkaampi ja sillä on positiivinen vaikutus kortin käyttöön ja asiakastyytyväisyyteen. Avoimiin toimintatapoihin sitoutuneille toimijoille voi myös kertyä näkyvyyttä ja brändin parantumista, jos ne erottautuvat eettisinä ja reiluina toimijoina.</p>
+<ul>
+<li>
+<p>Verkostomaiset liiketoimintamallit: Ihmiskeskeinen henkilötiedon hallinta mahdollistaa saumattomien palvelukokonaisuuksien tuottamisen useiden organisaatioiden verkostoissa ilman keskitettyä alustatoimijaa. Ihmisten mahdollisuus itse päättää, ketkä heidän dataansa voivat käyttää, tarjoaa myös kotimaisille ja pienille toimijoille tasavertaisen pääsyn tietoon, johon nyt pääsevät käsiksi vain suuret kansainväliset toimijat.</p>
+</li>
+<li>
+<p>Kuluttajien luottamus: Luottamuksella on yhä merkittävämpi arvo yrityksille. Asiakkaat haluavat tietää, mitä heidän datallaan tehdään. MyData lisää organisaation läpinäkyvyyttä, auttaa luottamuksen rakentamisessa ja tuottaa mainehyötyjä.</p>
+</li>
+<li>
+<p>Pienempi käyttäjämäärä riittää: Nykyään verkkopalvelujen menestystä määrittää usein niin sanottu voittaja saa kaiken -ilmiö (winner takes all) ja moni hyvä palvelu kuolee, koska ei saavuta kriittistä käyttäjämäärää. MyData-palvelut ovat yhteentoimivia ja keskenään vaihdettavia datan helpon siirrettävyyden ansioista. Tämän ansiosta myös pienet niche-palvelut hyötyvät verkostovaikutuksista.</p>
+</li>
+</ul>
+<p><a></a></p>
+<h3 id="yhteiskunnalle-laajemmin">1.4.3 Yhteiskunnalle laajemmin</h3>
+<p>Henkilötietojen käytöstä puhutaan useimmiten vain joko yksilöiden tai organisaatioiden näkökulmasta. Yhteiskunnallinen vaikutus voi olla kuitenkin muutakin kuin vain summa yksittäisille toimijoille koituvista hyödyistä ja haitoista.</p>
+<p>Ihmisoikeuksien ja tietotekniikan kehitys ovat kulkeneet pitkälti toisistaan erillään. MyData on ihmiselle keino ottaa digitaaliset oikeudet haltuunsa. Ihmisellä on oltava oikeus ja mahdollisuus hallita omaa digitaalista identiteettiään siinä missä hänellä on oikeus ajattelun ja ilmaisun vapauteen kansalaisena. MyData tarjoaa henkilötiedon organisoinnille pitkäjänteisen mallin, joka toimii kestävänä pohjana tietoyhteiskunnalle.</p>
+<p>Ihmiskeskeiset henkilötiedon hallintamallit voivat parhaimmillaan tukea esimerkiksi yhteiskunnallista tiedonkeruuta, sosiaalista oikeudenmukaisuutta, osallistumista ja kollektiivista vastuullista toimintaa. Lisäksi ihmiset saisivat arkea helpottavia palveluja ja yrityksille avautuisi uusia liiketoimintamahdollisuuksia. Tärkeitä kysymyksiä ovat mm. kuinka kollektiivista toimintaa voitaisiin käyttää datatalouden tasapainottamiseen ja kuinka ihmiset voivat henkilötietojaan jakamalla luoda yhteiskunnallista ja yhteisöllistä arvoa sen lisäksi, että osallistuvat taloudellisen arvon tuotantoon?</p>
+<ul>
+<li>
+<p>Yhteiskunnallinen tiedon käyttö: Vaikeiden ongelmien ratkaiseminen helpottuu, kun tutkijat ja päätöksentekijät saavat työkaluja kattavampaan tiedonkeruuseen. Ihmiset voivat esimerkiksi antaa lupia omien tietojensa hyödyntämiseen tutkimuskäytössä.</p>
+</li>
+<li>
+<p>Lainsäädäntö yksinkertaistuu: Tarve säätää lailla käyttötapauskohtaisia tiedonsaantioikeuksia eri tarkoituksiin vähenee, kun henkilö voi luvittaa tietojensa luovuttamisen julkishallinnon tietovarannoista yksityisten palveluiden käyttöön.</p>
+</li>
+<li>
+<p>Valinnan vapaus ja datan vapaa liikkuminen: Ihmiset käyttävät yhä enemmän digitaalisia palveluja normaalissa arjessaan. Datan siirrettävyys mahdollistaa palvelujen vapaan vaihtamisen ja ihmisten ja palvelujen liikkumisen globaalisti ilman rajoja.</p>
+</li>
+</ul>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-avoin-data-big-data-ja-mydata">INFOBOX: Avoin data, big data ja MyData</h4>
+<p>Viime vuosina erityisesti julkishallinnon toimijat ovat julkaisseet<br>
+tietovarantojaan avoimena datana niiden hyötykäytön lisäämiseksi. Myös<br>
+henkilötiedon alueella selkeillä datan hallinnan periaatteilla,<br>
+paremmalla yhteentoimivuudella ja datan siirrettävyydellä voidaan<br>
+saavuttaa mittavia hyötyjä. Tällä hetkellä henkilötieto on rajusti<br>
+alikäytetty raaka-aine uusille palveluille.</p>
+<p>MyData on avoimen tiedon kanssa rinnakkainen ideologia, joka korostaa<br>
+tiedon hyödynnettävyyttä esimerkiksi tietojen helpon siirrettävyyden<br>
+ja koneluettavuuden kautta. Molemmissa tarvitaan yhteisistä<br>
+periaatteista sopimista, viisasta sääntelyä sekä rajapintoja,<br>
+standardeja ja palveluja tiedon hallittuun siirtämiseen,<br>
+varastointiin, käsittelyyn ja analysointiin.</p>
+<p><a href="https://www.google.com/url?q=http://opendefinition.org&amp;sa=D&amp;ust=1530645623527000">Opendefinition.org</a><br>
+määritelmän mukaan avoin aineisto on teknisesti ja juridisesti kenen<br>
+tahansa vapaasti ja uudelleen käytettävissä ja jaettavissa.<br>
+Vastaavasti MyData voitaisiin määritellä niin, että se on teknisesti<br>
+ja juridisesti datan kohteen itsensä vapaasti ja uudelleen<br>
+käytettävissä ja jaettavissa.</p>
+<p>Massadatalla (big data) viitataan suureen ja nopeasti karttuvaan<br>
+tiedon määrään, jonka kerääminen, tallennus ja analyysi vaativat uusia<br>
+käsittelymenetelmiä. Toisaalta massadatan voi käsittää myös tiedon<br>
+paradigman muutoksena. Sen myötä yrityksissä ja hallinnossa voidaan<br>
+yhä useammin tehdä päätöksiä, jotka perustuvat suoraan kerättyyn<br>
+tietoon. Tutkimuksessa on mahdollista muodostaa teoriaa uusilla<br>
+tavoilla, kun datamassojen analysointi ja yhdistely on entistä<br>
+helpompaa. (LVM, 2014)</p>
+<p>Suuria datamääriä syntyy mm. internetiin kytketyistä laitteista,<br>
+anturijärjestelmistä, sosiaalisesta mediasta, verkon yli tehtävistä<br>
+transaktioista, yritysten liiketoimintaan liittyvistä ohjaus- ja<br>
+raportointijärjestelmistä jne. Suuri osa massadatasta on ihmisten<br>
+käyttäytymisdataa. Massadata-keskustelussa korostetaan henkilötietojen<br>
+analysoinnin ja hyödyntämisen mahdollisuuksia organisaatioiden<br>
+näkökulmasta. Ihmisten näkökulma on supistettu usein vain vaatimukseen<br>
+siitä, että yksityisyydensuoja säilytetään. Asiakkaan kiinnostusta<br>
+saati oikeutta omiin tietoihinsa ei massadata-keskustelussa juurikaan<br>
+ole tuotu esille.</p>
+<p>Henkilöihin liittyvässä tiedossa MyData ja massadata ovat kaksi<br>
+toisiaan täydentävää näkökulmaa, “ihmisnäkökulma” ja<br>
+"yritysnäkökulma". MyData tuo läpinäkyvyyttä ja sitä kautta<br>
+hyväksyttävyyttä henkilöihin liittyvien datamassojen käsittelyyn ja<br>
+antaa konkreettisia keinoja yksityisyydensuojan toteuttamiseen. Ilman<br>
+tätä ihmisnäkökulmaa monet massadatan hyödyntämismahdollisuudet<br>
+katoavat, koska ne eivät ole yksityisyyden suojan kannalta<br>
+hyväksyttäviä.</p>
+</blockquote>
+<hr>
+<p><img src="https://lh6.googleusercontent.com/Ec0c_mwVr1drzbsB9zRULukqUaMZT7IsMBbQN4zDJkFw4wRsXVIfxZVx_20qu7IjBvJneCGKd6lFLUaMaANAgg5UBeMvNp0Fv9q_pTensRuiIYSwml-1hj_PwVmC19Eou-mQEzZd" alt=""></p>
+<p><a></a></p>
+<h1 id="mydata-infrastruktuuri">2. MyData-infrastruktuuri</h1>
+<p>Tässä luvussa kuvataan teknologinen visio globaalista ihmiskeskeisen henkilötiedon jakamisen infrastruktuurista, joka pohjautuu alustojen sijaan verkostoihin. Organisoitumistapa vaikuttaa siihen, kuinka helposti hyödynnettävää henkilötieto on, kuinka läpinäkyvää tiedon käyttö on, kuinka hyvin rakenteet tukevat avointa kilpailua sekä kuinka ihmiskeskeistä henkilötiedon hyödyntäminen tulevaisuudessa on. Olennaista on, että kontrolli omaan dataan on ihmisillä itsellään, infrastruktuuripalvelujen tarjoajia on useita ja palvelut ovat yhteentoimivia ja vaihdettavissa.</p>
+<p>Tämä on yksi näkemys siitä, millaisilla teknisillä ja organisatorisilla ratkaisuilla MyData-periaatteet voitaisiin toteuttaa laajassa mittakaavassa ja kestävästi. Tavoitteena on luotettava ja pelkistetty palveluinfrastruktuuri, joka on avoin uusille toimijoille ja uusille innovaatioille. Palvelut olisivat laajennettavissa, ja niitä voisi helposti vaihtaa, koska data liikkuisi sujuvasti rajapintojen ja operaattorien välisen yhteentoimivuuden ansiosta. Ihmisille tämä tarkoittaisi muun muassa helppokäyttöisiä palveluja yksityisyysasetusten etähallinnointiin, oman tiedon säilytyspalveluja ja omien profiilien ylläpitopalveluja.</p>
+<p>Visio on synteesi maailmalla tapahtuvasta kehityksestä. Sellaisenaan visio ei tule toteutumaan, koska kehitys on vielä varhaisessa vaiheessa. Jotkut ajatukset kuten ekosysteemin roolit ja hajautettujen tunnisteiden merkitys ovat laajasti tuettuja. Kehitykseen vaikuttavat uudistuva lainsäädäntö, teknologian ja standardien kehitys, henkilötiedon hallinnan alalla toimivat yritykset liiketoimintamalleineen sekä muuttuva yleinen mielipideilmasto ja datatalouden nykyisiin rakenteisiin kohdistuva kritiikki.</p>
+<p>Kuvattua visiota ei kannata ajatella yhtenä suurena kokonaisuutena, joka pitäisi rakentaa kerralla valmiiksi. Luvun lopussa on esitetty, miten eri kerroksia MyData-infrastruktuurista ollaan jo kehittämässä.</p>
+<p><img src="https://lh4.googleusercontent.com/07kgRCVuspcYoGsSQY0gxzQgvs4330n52ULys_zZAOlyNg7PMlP7NbLR6EX2j9vQHBqVY3wQD0naR9vyvpckbH4HhTnzFpwKTpJJqOb37UxOkual9wD8I89i63sz8ymxb6Bz_Adp" alt=""></p>
+<p><em>Kuva 2.1: MyData-infrastruktuurin eri kerrokset täydentävät toisiaan. Kunkin kerroksen teknologioita kehitetään itsenäisesti myös MyDatasta riippumatta.</em></p>
+<p><a></a></p>
+<h2 id="alustoista-verkostoihin">2.1 Alustoista verkostoihin</h2>
+<p>Tarvitaanko henkilötiedon organisointiin infrastruktuuria ylipäänsä? Eikö olisi helpompaa, jos rajapinnat ja sovellukset keskustelisivat suoraan keskenään ilman välissä olevaa tiedonvälittämisen infrastruktuuria? Monin paikoin kehitys on vienyt tällaisen orgaanisesti laajentuvan infrastruktuurittoman, niin sanotun API-ekosysteemin suuntaan. Toisaalla taas on syntynyt alustoja, joissa yksittäinen toimija kerää ja harmonisoi dataa useasta lähteestä ja jakelee sitä eteenpäin. MyData-mallissa henkilötiedon hallinnan palveluja tarjoavat toimijat ovat keskenään kilpailevia, mutta muodostavat yhteentoimivan verkoston ja yhdessä tarjoavat infrastruktuurin henkilötiedon välittämiseen. Nykykehityksessä näkyy viitteitä näistä eri organisointitavoista, jotka tulevaisuudessa eivät välttämättä sulje pois toisiaan.</p>
+<p><img src="https://lh4.googleusercontent.com/qzRLNLbNYX76SwXU0DJxVdM5oiS0F-UjaMwk-d-c-PyAPJ6QBkb2TGQRsfkyJfSxjKk-CfJsmYx_f0gjoNXuy11mhCKVhisN5Ke1k5Cq8zRQyAx5w2rFn6ciQ-azOCmBLnIaYqk1" alt=""></p>
+<p><em>Kuva 2.2: Nykyisessä infrastruktuurittomassa API-ekosysteemissä, jos palvelujen määrä kasvaa, niin yhteyksien määrä kasvaa vielä nopeammin (vasen). Datan hallinnan keskittäminen helpottaa sovellusten kehittämistä, mutta eri alustatoimijoilla ei ole lähtökohtaisesti motiivia pyrkiä alustojen väliseen yhteentoimivuuteen (keskellä). Alustamalliin verrattuna MyData-infrastruktuuri on kestävä ja joustava, koska se ei ole riippuvainen yksittäisestä organisaatiosta (oikealla).</em></p>
+<p><a></a></p>
+<h3 id="api-ekosysteemi">2.1.1 API-ekosysteemi</h3>
+<p>Ohjelmointirajapintojen eli APIen avulla yhteyksiä eri palvelujen välille voidaan luoda ketterästi. Näin syntyvä API-ekosysteemi edistää tiedon virtaamista, luo uutta liiketoimintaa ja nopeuttaa digitaalista palvelukehitystä. Yleensä APIn kehittämisen motiivi on tehdä omasta palvelusta mahdollisimman keskeinen osa laajempaa palvelukokonaisuutta. Toteutettujen rajapintojen ominaisuudet vaihtelevat kuitenkin merkittävästi, mikä tekee eri palveluntarjoajien APIen yhdistämisestä työlästä.</p>
+<p>Rajapintojen tekninen yhdisteltävyys varmasti paranee ajan myötä. Henkilötiedon ihmiskeskeisen hallittavuuden kannalta API-ekosysteemin ongelma on palvelujen ja niiden välisten yhteyksien suuri määrä ja ylläpidon monimutkaisuus. Ainoa tapa saada kokonaiskuva omien tietojen liikkumisesta palvelujen välillä on kirjautua jokaiseen palveluun erikseen, ja etsiä paikka, jossa näytetään, mille kaikille muille palveluille on myönnetty lupa lukea dataa rajapinnan kautta. Muutaman palvelun erillinen hallinta on vielä mahdollista, mutta digitalisaatio myötä jokainen brändi ja palvelu haluaa muodostaa kuluttajan kanssa oman digitaalisen asiakkuussuhteen, johon liittyy datan keruuta ja jakamista. Hallittavia suhteita voi tulevaisuudessa olla kymmenien sijaan satoja tai tuhansia, ja silloin tiedon ja digitaalisten vuorovaikutussuhteiden hallintaa helpottavan infrastruktuurin tarve on jo ilmeinen.</p>
+<p><a></a></p>
+<h3 id="organisaatiokeskeiset-alustat">2.1.2 Organisaatiokeskeiset alustat</h3>
+<p>Avoimiin standardeihin perustuvan henkilötiedon hallinnan ja välittämisen infrastruktuurin puuttuessa yksittäiset globaalisti toimivat yritykset laajentavat kukin omaa henkilötiedon ekosysteemiään ja pyrkivät suuren käyttäjämäärän voimalla de facto -standardin asemaan. Yhteistä näiden alustatalouden jättiläisten luomissa organisaatiokeskeisissä ekosysteemeissä on, että tieto siirtyy saumattomasti keskusyrityksen tarjoaman alustan ja käyttäjäidentiteetin ympärille rakentuneen ekosysteemin sisällä, mutta vain rajoitetusti sen ulkopuolelle. Riskinä on, että uusien toimijoiden tulo markkinoille estyy tai ne joutuvat alihankkijan asemaan ilman valinnan tai vaikuttamisen mahdollisuuksia.</p>
+<p>Alustamallia hyödynnetään myös eri sektoreilla mahdollistamaan useiden toimijoiden keräämän tiedon yhteiskäyttöä. Terveyssektorilla on tästä useita esimerkkejä eri maissa, kuten sveitsiläinen Health bank, brittiläinen Patients Know Best ja Suomen valtion Kanta-palvelu. Tällaisessa rakenteessa yritykset tai julkishallinnon toimijat perustavat yhteisen alustapalvelun tiedon välittämiseen. Keskittäminen edistää tiedon yhdistämistä ja uusien käyttötapojen kehittämistä, mutta samalla järjestelmä tulee riippuvaiseksi yksittäisestä toimijasta, joka määrittää toiminnan tavoitteet ja tekemisen tavat.</p>
+<p>Ihmisten mahdollisuudet omien tietojensa käyttöön ja hallintaan eivät välttämättä toteudu alustoissa, jotka on ensisijaisesti toteutettu joko tukemaan keskusyritysten liiketoimintamalleja tai ekosysteemissä mukana olevien organisaatioiden välistä tietojen vaihtoa. Esimerkiksi verkkomainonnan yritykset toimivat verkostoissa, joissa muutamat aggregaattoriyritykset edesauttavat henkilötiedon liikkumista, mutta eivät ihmisten omien tarpeiden vaan verkostossa mukana olevien yritysten tarpeiden täyttämiseksi.</p>
+<p><a></a></p>
+<h3 id="mydata-malli">2.1.3 MyData-malli</h3>
+<p>Ihmiskeskeisessä mallissa ihminen voi itse toimia oman datan yhdistävänä tekijänä. MyData-tilin kautta ihminen voi hallinnoida omien tietojensa käyttöä eri palveluissa antamalla tai eväämällä tiedon käyttölupia tai antamalla palveluille toimeksiantoja omien tietojensa suhteen. Osa ihmisistä voisi ylläpitää MyData-tiliään tietoturvallisesti itsekin, mutta todennäköisesti suurin osa haluaa nojautua ulkopuolisiin palveluntarjoajiin. Palveluntarjoajat tarjoavat ihmisille ja myös organisaatioille henkilötietojen hallintaan yleiskäyttöisiä sovelluksia ja työkaluja, jotka toimivat useamman tiedon tyypin ja tietolähteen kohdalla.</p>
+<p>Keskeinen ero alustamalliin on, että MyData-mallissa henkilötiedon hallinnan palveluja tarjoavat toimijat muodostavat verkoston, jossa henkilötietoa jaetaan luotettavalla tavalla. Infrastruktuuri ei perustu siihen, että käyttäjien tietoja keskitettäisiin yksittäiseen palveluun kuten alustamallissa. Sen sijaan verkostoon osallistuvilla on yhteiset standardit ja toimintatavat, jotka mahdollistavat yhteentoimivuuden. Tätä voisi verrata vaikkapa pankkien verkostoon. Sen sijaan, että pankki pystyisi välittämään maksuja vain omien asiakkaittensa välillä (alustamallinen pankki) pankit muodostavat kansainvälisen verkoston, missä maksuja voidaan välittää eri pankkien asiakkaiden välillä.</p>
+<p><a></a></p>
+<h2 id="ihmislähtöinen-tiedonvaihdannan-ekosysteemi">2.2 Ihmislähtöinen tiedonvaihdannan ekosysteemi</h2>
+<p>MyDatan kilpailua ja avointa ekosysteemiä korostava visio pohjautuu oletukseen siitä, että henkilötiedon välittämisen ja hallinnan palveluja tarjoavia toimijoita tulee olla lukuisia ja niiden tulee olla keskenään yhteensopivia ja vaihdettavissa. Kilpailevat palveluntarjoajat yhdessä luovat globaalin verkoston ihmiskeskeiseen henkilötiedon välittämiseen vastaavalla tavalla kuin pankit luovat verkoston maksujen välittämiseen, puhelinoperaattorit puhelujen välittämiseen ja sähköpostipavelimet sähköpostien välittämiseen.</p>
+<p><a></a></p>
+<h3 id="pääsy-verkostoon-mydata-tilin-kautta">2.2.1 Pääsy verkostoon MyData-tilin kautta</h3>
+<p>Sekä ihmisillä, datan lähteillä että dataa hyödyntävillä palveluilla tulee olla tiedonvaihdannan verkostoon kytketty digitaalinen identiteetti, jotta tiedon välittäminen eri toimijoiden välillä on mahdollista. Digitaalisia identiteettejä hallinnoidaan MyData-tilien kautta. Tili on metaforana tuttu pankkitileistä, sähköpostitileistä ja asiakastileistä. MyData-tilit tarjoavat keskitetyn näkymän omiin tietoihin sekä siihen, kuka näitä tietoja tällä hetkellä käyttää. Tilien kautta voidaan hallita annettuja tiedon käyttölupia ja tiedon käsittelyn toimeksiantoja.</p>
+<p>Keskitetty näkymä ja hallinnointipaikka omiin tietoihin ja eri sovellusten ja palveluntarjoajien kanssa muodostettuihin yhteyksiin on tarpeellinen, vaikka jokapäiväinen asiointi pääosin tapahtuukin muualla. Päätöksiä tiedon käytöstä tehdään esimerkiksi sovellusten käyttöönoton yhteydessä tai myöhemmin yksityisyysasetuksia vaihtamalla. MyData-mallissa kaikki annetut luvat ja erilaiset yksityisyysasetukset kuitenkin tallentuvat käyttäjän MyData-tilille riippumatta siitä, missä ne on tehty. Samalla tavalla esimerkiksi verkkopankki on keskitetty näkymä omiin raha-asioihin ja maksutapahtumiin, vaikka suurin osa maksuista tehdään pankkikortilla aivan muualla kuin verkkopankin käyttöliittymässä.</p>
+<p>Teknisesti MyData-tili on tiedonvaihdannan verkostoon kytkeytynyt ohjelmistoagentti (software agent), joka voi olla asennettuna käyttäjän päätelaitteelle tai pilvipalveluun. MyData-tiliä käytetään yhdessä identiteetilompakon kanssa, joka puolestaan on turvattu moduuli (tyypillisesti laitteiston ja ohjelmiston yhdistelmä), missä on tallennettuna identiteetin haltijan yksityiset kryptoavaimet. Tavoitteena on sellainen MyData-infrastruktuuri, missä jaetut standardit mahdollistavat erilaisten MyData-tilien ja identiteettilompakkojen keskinäisen yhteentoimivuuden.</p>
+<p>Kuten aiemmin mainittiin, niin ei ole teknistä estettä sille, etteikö käyttäjä voisi itse ylläpitää omaa MyData-tiliään (siihen vaadittavaa ohjelmistoa) ja siten itsenäisesti kytkeytyä verkostoon. MyData-mallin skaalautuessa suurille käyttäjämäärille on kuitenkin oletuksena, että suurin osa turvautuu palveluntarjoajiin, jotka ylläpitävät MyData-tilejä loppukäyttäjien puolesta. Yhtenä keskeisenä suunnitteluperiaatteena MyData-infrastruktuurissa on, että MyData-tilin tulisi olla siirrettävissä palveluntarjoajalta toiselle vaivattomasti ilman, että tilin sisältö katoaa tai tilin kautta annetut luvat ja kytkennät lakkaavat toimimasta. Tilin siirrettävyys lisää luottamusta verkostoon ja avaa markkinoita kilpailulle. Luonnollisesti tietosuoja ja yhteensopivuus eri toimijoiden välillä on haaste siirrettävyyden toteuttamisessa.</p>
+<p>MyData-tilien ominaisuuksia:</p>
+<ul>
+<li>
+<p>“Tiliotteet” oman tiedon käytöstä: selkeät näkymät tiedon käytön kokonaisuudesta.</p>
+</li>
+<li>
+<p>Ihmisillä voi olla useita MyData-tilejä ja osa niistä voi olla usean henkilön yhteisiä.</p>
+</li>
+<li>
+<p>Tileillä on erilaisia tunnistautumisen tasoja. Jotkut niistä on vahvasti kytketty ihmisen henkilöllisyyteen, osa on pseudonyymitilejä, joihin tunnistaudutaan esimerkiksi vain sähköpostiosoitteen perusteella.</p>
+</li>
+<li>
+<p>MyData-tili osaa hallita tiedon luovuttamista ja pitää automaattisesti rekisteriä siitä, mitä tietoa on luovutettu minnekin.</p>
+</li>
+<li>
+<p>MyData-tilejä ja niihin linkitettyjä identiteettejä voi yhdistää ja linkittää toisiinsa.</p>
+</li>
+<li>
+<p>Tilejä voi hallinnoida suoraan tai erillisten käyttöliittymien kautta (vertaa sähköpostiohjelmat, joilla voi hallita useita sähköpostitilejä).</p>
+</li>
+</ul>
+<p>Muita toimintoja, joita palveluntarjoajat voivat tarjota:</p>
+<ul>
+<li>
+<p>Yksityisyysasetusten etähallinta</p>
+</li>
+<li>
+<p>Oman suostumuksen kumoaminen ja tiedon poistaminen sitä käyttävistä palveluista (huom. lakisääteisistä rekistereistä ihmisellä ei ole oikeutta poistaa omia tietojaan)</p>
+</li>
+<li>
+<p>Erilaisten datan lähteiden ja palvelujen löytäminen ja yhdistäminen</p>
+</li>
+<li>
+<p>Rajapintoihin liittyminen ja sen vaatima tunnistautuminen sekä yksilöille että organisaatioille</p>
+</li>
+<li>
+<p>Henkilötiedon tallennus käyttäjän niin halutessa (ks. 2.3.3 Henkilökohtaiset data-alustat)</p>
+</li>
+<li>
+<p>Työkaluja datan muuntamiseen, yhteensopivuuden varmistamiseen ja omien tietojen hyödyntämiseen</p>
+</li>
+</ul>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-mydata-operaattorin-referenssiarkkitehtuuri">INFOBOX: MyData-operaattorin referenssiarkkitehtuuri</h4>
+<p>Yksi käyttäjäkeskeisen pääsynhallinnan malli on kuvattu<br>
+Aalto-yliopiston, Tampereen yliopiston ja Oulun yliopiston yhteistyönä<br>
+tuottamassa ns. MyDatan referenssiarkkitehtuurissa, joka hahmottelee<br>
+MyData-tilin ja suostumustenhallinnan toteutusmalleja. Tämä<br>
+arkkitehtuuri ja siihen liittyvä kehitys- ja kokeiluympäristö on<br>
+avattu ja saatavilla osoitteesta<br>
+<a href="https://www.google.com/url?q=http://sandbox.mydata.fi&amp;sa=D&amp;ust=1530645623535000">sandbox.mydata.fi</a>.</p>
+<p>Malli vastaa pitkälle tietosuoja-asetuksen asettamia vaatimuksia<br>
+henkilötiedon käytön läpinäkyvyydestä ja henkilötiedon käsittelyn<br>
+hallintamahdollisuuksien kirjosta. Se ei ota infrastruktuuritasolla<br>
+kantaa identiteetinhallintaan eikä tilien siirrettävyyteen.<br>
+Arkkitehtuuri kuvaa yksittäisen MyData-operaattorin toteuttamisen ja<br>
+palvelujen liittämisen operaattorilla ylläpidettävään käyttäjän<br>
+tiliin, joka sisältää käyttäjän antamat luvat, tiedonsiirtoilmoitukset<br>
+ja käsittelykiellot.</p>
+<p>Referenssiarkkitehtuuri on teorian mutta ei käytännön tasolla<br>
+yhteensopiva IT-järjestelmissä vakiintumassa olevien<br>
+käyttövaltuushallinnan teknologioiden kanssa, ja tämä on yksi sen<br>
+suurimpia haasteita. Lähes sama rajapintojen luvittamiseen liittyvä<br>
+toiminnallisuus voidaan saavuttaa yhdistelemällä väljästi<br>
+standardipohjaisia toteutuksia kuten OAuth 2.0:n eri profiileja<br>
+(erityisesti UMA 2.0) luvittamiseen, XACML (eXtensible Access Control<br>
+Markup Language) käyttäjän hallintapolitiikkojen kuvaukseen ja<br>
+Kantaran suostumuskuittia dokumentointiin.</p>
+<p>Luodun mallin eduksi voi katsoa sen luvitusmekanismien sitomisen<br>
+vahvasti tietosuojatun ja pääsyoikeudet dokumentoivan<br>
+suostumustenhallinnan alle. Teoriassa suostumukset ovat myös<br>
+siirrettävissä operaattorilta toiselle. Käytännössä tarvittava<br>
+käyttäjien PKI-avainten luotettava siirtäminen olisi kuitenkin<br>
+haastavaa - kuten on käyttäjien avainten hallinta osana operaattorin<br>
+palvelua jo itsessään.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h3 id="ekosysteemin-roolit">2.2.2 Ekosysteemin roolit</h3>
+<p>Henkilötiedon jakamisen ekosysteemissä on neljä roolia: ihminen, datan lähde, dataa käyttävä palvelu sekä operaattori. Toimijat voivat olla samanaikaisesti useammissa rooleissa. Esimerkiksi yritykset ovat tyypillisesti sekä datan lähteitä että dataa hyödyntävien palvelujen tarjoajia. Myös muissa rooleissa olevat toimijat voivat ottaa lisäksi operaattorin roolin ja ylläpitää itse MyData-tiliä, jota kautta ne kytkeytyvät verkostoon.</p>
+<p><em>Kuva 2.3: Roolit henkilötiedon jakamisen ekosysteemissä. Huom. sama toimija voi olla useammassa roolissa.</em></p>
+<p>Datan välittämisen verkostossa voidaan henkilötiedon lisäksi välittää myös esimerkiksi yrityksiin tai esineisiin liittyvää tietoa. Teknisesti ei ole merkittävää eroa, onko dataa hallinnoiva taho ihminen vai esimerkiksi organisaatio, mutta lainsäädäntö on erilainen silloin, jos käsitellään henkilötietietoa.</p>
+<p>Luonnollisesti ekosysteemin toimintaan vaikuttavat muutkin toimijat kuten sääntelevät viranomaiset, standardointiorganisaatiot, rahoittajat, media jne. Nämä yhdessä luovat toimintaympäristön ja reunaehdot, missä henkilötiedon jakamisen ekosysteemi ja markkinat kehittyvät.</p>
+<p><a></a></p>
+<h3 id="erikoistuneet-dataoperaattorit">2.2.3 Erikoistuneet dataoperaattorit</h3>
+<p>Operaattorin roolin voi ekosysteemissä ottaa mikä tahansa toimija ja ainakin ensimmäisissä käyttötapauksissa tämän roolin toteuttaa useimmiten joko datan lähde tai dataa hyödyntävä palvelu. Liiketoiminnallisesti henkilötiedon hallinnoinnin ja välittämisen ja siihen liittyvien palvelujen tulisi olla erotettu tai ainakin erotettavissa datan hyödyntämiseen liittyvästä liiketoiminnasta. Erottelu mahdollistaa datan hyödyntämistapojen suhteen neutraalin ja erilaisille toimijoille avoimen tiedonvaihdannan ekosysteemin kehittymisen. Myös ihmislähtöisten periaatteiden toteuttaminen on helpompaa liiketoiminnallisessa ympäristössä, jossa datan hyödyntäjäorganisaatioiden motiivit eivät ohjaa datan välittämiseen liittyvän infrastruktuurin kehittymistä.</p>
+<p>Tämä nostaa keskusteluun mahdollisuuden erikoistuneista MyData-operaattoreista, jotka lähtökohtaisesti pyrkivät rakentamaan henkilötiedon välittämisestä kestävää ja kannattavaa liiketoimintaa. Jokaisella voisi olla luotettuja MyData-operaattoreita eri tiedoilleen: terveystiedot, omaisuustiedot, kuluttajaprofiilitiedot, liikkumisprofiilitiedot jne. Jotkut operaattoreista voivat erikoistua tiettyihin toimialoihin ja toiset voivat olla yleisluontoisia. Halutessaan ihminen voisi hallita kaikkia tietojaan myös vain yhden operaattorin kautta.</p>
+<p>MyData-malli helpottaa myös henkilödataa hyödyntävien palvelujen toteuttamista, kun sovellusten kehittäjien ei tarvitse toteuttaa yleisiä ominaisuuksia, kuten vaikkapa henkilötiedon käyttölupien hallintaa erikseen palveluihinsa. Sovelluskehittäjille operaattorien muodostama verkosto tarjoaa riittävän suuren asiakaspotentiaalin, eikä yksilöitä palvelevilla operaattoreilla ole intressiä sulkea markkinoita esimerkiksi tukemalla vain tiettyjä sovelluksia.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-keskittäminen-tuo-etuja-mitä-vikaa-siinä-on">INFOBOX: Keskittäminen tuo etuja, mitä vikaa siinä on?</h4>
+<p>MyDatan tavoitteisiin kuuluu henkilötiedon hallinnointi- ja<br>
+hyödyntämispalvelujen organisointi ihmiskeskeisesti ja käytettävästi.<br>
+Operaattorimalli jossain määrin monimutkaistaa asioita. Ei olekaan<br>
+enää yhtä pistettä, jonka kautta kaikki tieto yhdistyy, vaan on useita<br>
+rinnakkain toimivia operaattoreita.</p>
+<p>Tällaisen avoimen yhteentoimivuutta korostavan operaattorikentän<br>
+synnyttäminen on kova urakka. Miksi ei vain tyydyttäisi<br>
+kansainvälisten, keskenään kilpailevien, mobiiliviestintää tai<br>
+sosiaalisen median palveluja tarjoavien yhtiöiden walled-garden<br>
+tyyppisiin ekosysteemeihin MyData-tiedon säilytys- ja kehityspaikkoina tai tavoiteltaisi yhtä, vaikkapa kansallista, alustatoimijaa henkilötiedon välittämiseen?</p>
+<p>Yhden organisaation mallissa koko järjestelmän riippuvuus tästä<br>
+yhdestä toimijasta tekee järjestelmästä haavoittuvaisen (single point<br>
+of failure). Jos on vain yksi taho, niin ongelmat syntyessään koskevat<br>
+kaikkia, jolloin seuraukset voivat olla katastrofaalisia.</p>
+<p>Useampi operaattori mahdollistaisi myös ketterän ja monipuolisen<br>
+palvelukehityksen ja vaihtoehtoisten kilpailevien<br>
+infrastruktuuripalvelujen rinnakkaisen kehittymisen. Toiset kaipaavat<br>
+enemmän suojaa, kun taas toiset arvostavat järjestelmän keveyttä ja<br>
+vapautta tehdä asioita itsenäisesti. Yhden organisaation malli saattaa<br>
+helposti muuttua jäykäksi ja hitaaksi eikä sovellu kevyiden<br>
+käyttötapausten ketterään toteuttamiseen.</p>
+<p>Monessa muussa maassa kansalaisilla on huomattavasti vähemmän<br>
+luottamusta hallintoon kuin Suomessa. Näissä maissa kansallisesti<br>
+organisoitu tietojärjestelmä ei soveltuisi arkielämää ja<br>
+yksilönvapautta korostavien sovellusten alustaksi. On verrattain<br>
+poikkeuksellista, että Suomessa osa alan asiantuntijoista uskoo<br>
+kansallisesti keskitetyn mallin mahdollisuuksiin. MyDatan kannalta on<br>
+keskeistä, että toimintamalleilla on mahdollisuus kansainvälisesti<br>
+laajamittaiseen vaikuttavuuteen.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h2 id="mydataan-liittyvien-teknologioiden-kerrokset">2.3 MyDataan liittyvien teknologioiden kerrokset</h2>
+<p>MyDatassa ei ole kyse yksittäisestä teknologiasta vaan viitekehyksestä, joka koostuu toisiaan täydentävistä ja tukevista kerroksista (kuva 2.1 luvun alussa). Eri kerroksilla on kullakin itsenäinen arvo ja omat kehityspolkunsa. Esimerkiksi hajautettujen tunnisteiden identiteettiratkaisut, luottamusverkostot, henkilökohtaiset datavarastot, koneluettava datan jakamisen kirjanpito (ehdot, suostumukset, toimeksiannot, sopimukset, lokitiedot, jne.), ihmiskeskeinen profilointi, ihmisten, organisaatioiden ja esineiden välisten suhteiden hallinta jne. ovat kaikki asioita, joita kehitetään joka tapauksessa MyData-infrastruktuurista riippumatta.</p>
+<p><a></a></p>
+<h3 id="identiteetti--ja-luottamusverkostot">2.3.1 Identiteetti- ja luottamusverkostot</h3>
+<p>Sähköinen luotettava ja helposti käytettävä identiteetti on tärkeä mahdollistaja toimivalle henkilötiedon ekosysteemille. Yksittäisistä identiteetintarjoajasta riippumattomat hajautetut identiteettiratkaisut mahdollistavat MyData-mallissa palvelujen vaihdettavuuden sekä tunnistautumis- ja käyttöoikeusratkaisujen yhteentoimivuuden eri palvelujen välillä.</p>
+<p>Tiedon luovutus rajapintojen kautta edellyttää, että ihmiset ja organisaatiot pystyvät tunnistautumaan ja antamaan lupia tietojensa siirtoon. Mikäli luottamus toisen osapuolen sähköiseen identiteettiin puuttuu, organisaatiot eivät uskalla luovuttaa mitään tietoja rajapintojen kautta. Tämä ei kuitenkaan tarkoita, että kaikissa tapauksissa pitäisi käyttää esimerkiksi pankki- ja mobiilitunnisteisiin pohjautuvaa vahvaa tunnistautumista. Toisiin tarkoituksiin riittää tavanomainen käyttäjätunnus-salasana-tunnistautuminen, joka voi toimia vahvaa tunnistautumista joustavammin ilman että käyttäjän henkilöllisyys paljastuu. MyData-ekosysteemin tulee ehdottomasti tukea useita tunnistautumisen tapoja ja tasoja.</p>
+<p><img src="https://lh6.googleusercontent.com/3UzKdTFNp0mixcu00jNeD_XrL3yiLx0lZ7dlPDmftUE053uFiBbnO2vjLo8ertwSQ3EWfPc0_L5YWV8Druj3UsXm2zqRHEHPDcO-XGgUTiliC2_onnfoURSyqzzp6tPrjLe9c9aO" alt=""></p>
+<p><em>Kuva 2.4: MyData-malli on verkostopohjainen, eikä siinä oleteta, että kaikki ihmiset, datan lähteet ja dataa käyttävät palvelut kytkeytyisivät yhteen datan jakamisen alustaan.</em></p>
+<p>MyData-mallin yksi keskeinen ajatus on, että ihmisille on tarjolla useita yhteentoimivia, mutta kilpailevia tilipalveluja. Tämä edellyttää, että identiteetinhallinnan, tunnistautumisen ja tilitietoon liittyvän tietoturvan kysymykset ratkaistaan tiettyyn tasoon saakka yhteisen mekanismin mukaisesti, muutoin MyData-tilin vaihtaminen palveluntarjoajalta toiselle ja yhteentoimivuus ei ole mahdollista. Yhteinen perusta voi kuitenkin olla ohut, mikäli se mahdollistaa tarkemmin määriteltyjen luottamuspalvelujen rakentamisen perustan päälle.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-itsehallittava-identiteetti-ja-lohkoketjuteknologiat">INFOBOX: Itsehallittava identiteetti ja lohkoketjuteknologiat</h4>
+<p>Lohkoketjut ja laajemmin ns. hajautettujen tilikirjojen teknologiat<br>
+(distributed ledger technologies) ovat olleet viime aikoina erittäin<br>
+aktiivisia teknologian kehitysalueita. Tunnetuimpia esimerkkejä<br>
+lohkoketjuteknologioista ovat virtuaalivaluutta Bitcoin ja niin<br>
+sanottuja ohjelmoitavia älysopimuksia (smart contracts) tukeva<br>
+Ethereum.</p>
+<p>Lohkoketjuteknologialla on toteutettu myös hajautettuja sähköisen<br>
+identiteetin järjestelmiä, joissa identiteetin omistaja voi hallita<br>
+omaa digitaalista identiteettiään itsenäisesti ulkoisista<br>
+identiteetintarjoajista riippumatta. Itsehallittavan identiteetin<br>
+(self sovereign identity) mallissa luonnollinen henkilö tai<br>
+organisaatio hallinnoi itse omia tietojaan ja niiden jakamista.</p>
+<p>Itsehallittavan identiteetin kehittäjiä ovat muiden muassa Sovrin,<br>
+uPort, Veres One ja Blockstack. Eri kehittäjien toteutukset poikkeavat<br>
+toisistaan, mutta yhteistä kaikille on, että luotettavuus<br>
+itsehallittaviin henkilötietoihin toteutetaan lohkoketjuteknologialla.<br>
+Henkilötietoja ei talleta lohkoketjuun, vaan lohkoketjua ja<br>
+krytografisia tunnisteita käytetään siihen, että tiedon vastaanottaja<br>
+voi varmistaa muuta kautta lähetetyn tiedon paikkansapitävyyden ja<br>
+voimassaolon.</p>
+<p>Itsehallittavan identiteetin malli nähdään keskeisenä teknisenä<br>
+mahdollistajana tulevaisuuden MyData-infrastruktuurissa, mutta<br>
+toistaiseksi (kesällä 2018) tarjolla olevat teknologiat eivät ole<br>
+vielä kypsiä laajamittaisiin toteutuksiin.</p>
+<p>Lohkoketjuteknologioihin pohjautuvien hajautettujen<br>
+identiteettiratkaisujen yhteensopivuutta EU:n tietosuoja-asetuksen<br>
+kanssa on joissain keskusteluissa kyseenalaistettu, mutta ainakin<br>
+Sovrin-teknologiaan keskittyneen tutkimuksen <a href="https://www.google.com/url?q=https://paperpile.com/c/LoGxYh/4Jbk&amp;sa=D&amp;ust=1530645623547000">(Pitkänen<br>
+2018)</a><br>
+perusteella näyttäisi siltä, että itsehallittava identiteetti on<br>
+yhteensopiva myös EU:n yleisen tietosuoja-asetuksen kanssa.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h3 id="yksityisyysasetusten-sopimussuhteiden-ja-käyttölupien-hallinta">2.3.2 Yksityisyysasetusten, sopimussuhteiden ja käyttölupien hallinta</h3>
+<p>Ihmiset kokevat käyttöehtoihin perehtymisen ja yksityisyysasetusten hallinnan työläänä. Jos ihmisten pitää tulevaisuudessa hallita yhä enemmän myös omien tietojensa luovutusta ja käyttölupia, niin yksityisyysasetusten, sopimussuhteiden ja henkilötiedon käyttölupien hallittavuutta on kehitettävä merkittävästi.</p>
+<p>Parhaiten tämä toteutuisi, jos palvelujen käyttöehdot ja henkilödatan käyttöselosteet olisivat koneluettavia ja yksityisyysasetuksia voisi muuttaa rajapintojen kautta. Tämä mahdollistaisi ratkaisut, missä käyttäjää ei välttämättä tarvitse rasittaa kaikilla valinnoilla. Sopimisen yhdenmukaistaminen ja hallittavuus lisäisi henkilökohtaisten digitaalisten palvelujen kokonaisuuden ymmärrettävyyttä ja käytettävyyttä.</p>
+<p>Kehitteillä on standardeja, jotka pyrkivät tarjoamaan yleisesti tunnistettuja ja avoimia tapoja käyttöehtojen ja käyttäjien antamien suostumusten <a href="https://www.google.com/url?q=https://paperpile.com/c/LoGxYh/6j69&amp;sa=D&amp;ust=1530645623550000">(Kantara 2017)</a> esittämiseen. Puhelinsovellusten yksityisyysasetusten lista on konkreettinen esimerkki siitä, miten henkilötiedon keräämiseen ja käyttöön voidaan muodostaa yhteinen malli, jonka mukaan eri sovellukset toimivat.</p>
+<p>Ideaalitapauksessa eri palvelujen yksityisyysasetuksia voisi muuttaa myös rajapintojen kautta etänä kirjautumatta itse palveluun. Käyttäjällä olisi yksi paikka, josta hän voi kerralla määritellä yksityisyyteen ja datan käyttöön liittyvät asetukset useassa käyttämässään palvelussa. Nykyiset palvelut eivät vielä mahdollista yksityisyysasetusten hallintaa rajapintojen kautta, vaan asetukset tehdään kunkin yksittäisen palvelun sisällä. Sujuva palvelujen etähallinta edellyttää yhteisiä käytäntöjä siitä, millaisia yksityisyysasetuksia ja -valintoja eri palveluissa on.</p>
+<p>Tyypillisesti yksityisyysasetuksissa voi hallita muun muassa sitä, mitä tietoa palvelu:</p>
+<ul>
+<li>
+<p>saa käyttöönsä: esimerkiksi mobiililaitteesta sijainti- tai yhteystiedot</p>
+</li>
+<li>
+<p>voi näyttää muille käyttäjille: esimerkiksi sosiaalisen median viestien näkyvyys</p>
+</li>
+<li>
+<p>voi hyödyntää kaupallisesti: esimerkiksi kohdennettuun markkinointiin</p>
+</li>
+<li>
+<p>voi hyödyntää vain reaaliaikaisesti: esimerkiksi sijaintitiedon hyödyntäminen hetkellisesti ilman sijaintihistorian tallentamista</p>
+</li>
+<li>
+<p>voi tarjota rajapinnan kautta muille sovelluksille: esimerkiksi sykemittarin tietojen jakaminen ulkopuoliseen liikuntasovellukseen.</p>
+</li>
+</ul>
+<p>Yksi tulevaisuuden malli on, että osan omasta valintojen taakasta voisi siirtää jollekin sovellukselle tai tekoälylle, joka ymmärtää kunkin ihmisen omia mieltymyksiä ja elämäntapoja. Carnegie Mellon -yliopisto on kehittänyt Android-sovelluksen, joka kysyy joukon kysymyksiä siitä, millaisen tiedon jakamiseen käyttäjä on valmis, ja muokkaa sovellusten yksityisyysasetuksia vastaavasti <a href="https://www.google.com/url?q=https://paperpile.com/c/LoGxYh/cY1F&amp;sa=D&amp;ust=1530645623553000">(Goode 2017)</a>.</p>
+<p><img src="https://lh5.googleusercontent.com/hf_XE9GBU5TbRxsQHqe_0zOf52euX1Jls3z_Fq6Uuo_CkkNZx8mSceAM4vQH1ossQhtySMND5XMKS3zpuxtnw_RupzJbzLT6aGpBo1Th5x1ecZegziqSq_MY10OWnkzwFBrwrEjt" alt=""></p>
+<p><em>Kuva 2.5: Operaattorimallissa ihmiset voivat hallinnoida yksityisyysasetuksiaan, sopimussuhteitaan ja tiedon käyttölupia etänä MyData-operaattorikäytööliittymän kautta.</em></p>
+<p><a></a></p>
+<h3 id="henkilökohtaiset-data-alustat">2.3.3 Henkilökohtaiset data-alustat</h3>
+<p>Vaikka käyttölupien hallinnan avulla tieto voisi, yksilön luvalla, siirtyä suoraan palvelusta toiseen ilman, että sitä tallennetaan välillä, niin on myös monia käyttötapauksia, missä on hyödyllistä, jos ihminen voi tallentaa ja arkistoida tietoa itselleen ja toimia itse sen jakelijana edelleen muille palveluille.</p>
+<p>Palveluja tiedon tallentamiseen kutsutaan henkilökohtaisiksi data-alustoiksi (personal data storage PDS). Nämä data-alustat ovat tyypillisesti käyttäjän omassa laitteessa toimivia tai yksilön hallinnassa olevia pilvipalveluja, joissa hänen henkilötietonsa ovat tallennettuna ja erilaiset sovellukset voivat paikallisesti ja hallitusti päästä käsiksi dataan ilman, että dataa tarvitsee siirtää muualle. Tämä malli kääntää tiedon hallinnoinnin organisaatio-keskeisestä ihmiskeskeiseksi.</p>
+<p>Mikäli henkilökohtaisessa tietovarastossa on rajapinta, jota kautta sieltä voi jakaa dataa muille sovelluksille, niin tällaista rajapintaa voidaan kutsua omaksi APIksi (API of Me) erotuksena muiden organisaatioiden ylläpitämistä rajapinnoista. Tämä erottelu oman APIn ja muiden henkilötietorajapintojen välillä on merkityksellinen sopimussuhteiden kannalta. Mikäli ihminen esimerkiksi lehtitilausta tehdessään antaa pääsyn omaan kontaktiprofiiliinsa, jota hän ylläpitää omassa tietovarastossaan, on kyseessä kahden välinen transaktio lehtitalon ja tilaajan välillä. Vastaavat osoitetiedot voisivat hypoteettisesti olla tarjolla myös esimerkiksi väestötietojärjestelmästä ja tilaaja voisi antaa lehtitalolle luvan niiden käyttöön. Tällöin kyseessä olisi kuitenkin kolmen keskinen transaktio, jossa osapuolina olisi lehtitalon ja tilaajan lisäksi myös väestötietojärjestelmän ylläpitäjä. Lehtitalolle varmasti kelpaa ihmisen itse ylläpitämä kontaktitieto, mutta joissain tapauksissa tiedon käyttäjä saattaa edellyttää virallisen rekisteristä löytyvän osoitetiedon käyttämistä.</p>
+<p>Henkilökohtaisten alustojen ominaisuuksia:</p>
+<ul>
+<li>
+<p>Alustalle voi kerätä ja tallentaa omat tiedot eri lähteistä ja rajapinnoista.</p>
+</li>
+<li>
+<p>Varastossa voi olla oma API (API of Me), jonka kautta ihminen voi jakaa sovelluksille pääsyn joihinkin osiin omista tiedoistaan.</p>
+</li>
+<li>
+<p>Varaston yhteyteen voi asentaa ja siellä voi käyttää sovelluksia (vrt. appsit puhelimessa) datan muokkaamiseen, kuvaamiseen ja analysointiin.</p>
+</li>
+<li>
+<p>Varaston yhteydessä toimivat sovellukset voivat jalostaa dataa ja tuottaa esimerkiksi profilointeja ilman raakadatan eteenpäin luovutusta.</p>
+</li>
+<li>
+<p>Varasto voi sijaita omassa laitteessa (puhelin, tietokone tai erityinen tarkoitusta varten tehty laite) tai palveluntarjoajan tarjoamassa ns. henkilökohtaisessa pilvessä (personal cloud).</p>
+</li>
+<li>
+<p>Varasto voi olla kryptattu, jolloin tallennuspalvelun tuottajalla ei ole pääsyä informaatiosisältöön.</p>
+</li>
+</ul>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-paikalliset-sovellukset">INFOBOX: Paikalliset sovellukset</h4>
+<p>Paikallisilla sovelluksilla tarkoitetaan ohjelmia, jotka eivät lähetä<br>
+käyttäjän dataa eteenpäin toiselle verkkopalvelimelle vaan toimivat<br>
+siten, että sovellus tai dataa käsittelevä koodi ladataan verkosta<br>
+datan luo. Paikalliset sovellukset voivat toimia esimerkiksi käyttäjän<br>
+päätelaitteella tai henkilökohtaisessa pilvessä olevan oman<br>
+tietovaraston yhteydessä. Esimerkiksi ranskalainen Cozy Cloud tarjoaa<br>
+avoimen lähdekoodin alustaa henkilökohtaisen pilvipalvelun<br>
+toteuttamiseen ja tämä alusta mahdollistaa erilaisten paikallisten<br>
+sovellusten käyttämisen.</p>
+<p>Paikallisten sovellusten toimintalogiikka on käänteinen verrattuna<br>
+sovelluksiin, joiden luo data lähetetään. Paikallista sovellusta<br>
+käytetään selaimella tai mobiililaitteella kuten mitä tahansa muuta<br>
+sovellusta, eikä käyttökokemus eroa perinteisistä verkkopalvelimilla<br>
+toimivista palveluista. Päätelaitteiden ja selaimien ominaisuudet ovat<br>
+kehittyneet niin paljon, että moni toiminnallisuus, jonka<br>
+toteuttaminen aiemmin oli mahdollista vain palvelimella, voidaan<br>
+nykyisin tehdä päätelaitteessa.</p>
+<p>Yksityisyydensuojan kannalta on merkittävästi parempi yhdistellä ja<br>
+analysoida tietoja paikallisesti, kuin lähettää laajat henkilötiedot<br>
+piilaakson startupien pilvipalveluihin. Myös silloin, kun datan määrä<br>
+on suuri, niin on käytännöllisempää tuoda ohjelmakoodi datan luokse.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h3 id="henkilötiedon-tietomallit-ja-semanttinen-standardointi">2.3.4 Henkilötiedon tietomallit ja semanttinen standardointi</h3>
+<p>Semanttisella standardoinnilla tarkoitetaan tietosisällön merkitysten kuvaamista niin, että eri lähteistä tuleva samaa asiaa koskeva tieto on yhdistettävissä ja ymmärrettävissä helposti. Usein käytettyjen henkilötiedon tyyppien semanttinen yhtenäistäminen on tärkeää sekä loppukäyttäjien että tietojärjestelemien kehittäjien kannalta. Se tukee tiedon siirrettävyyttä eri palvelujen välillä ja luo pohjan käyttäjien kannalta ymmärrettävälle henkilötiedon hallinnalle.</p>
+<p>Henkilötiedon ihmiskeskeinen hallinta ei voi toteutua, jos kaikki organisaatiot kysyvät samoja tietoja, kuten vaikkapa yhteystietoja hieman eri muodossa. Jos jokaisella palvelulla on hieman toisistaan eroavat tietomallit ja käsitteet, niin organisaatiorajat ylittävän tiedon jakamisen ja siihen liittyvä tiedon käyttölupien hallinnan toteuttaminen on kömpelöä ja kallista.</p>
+<p>Yhteisten tietomallien kehittäminen ja kansainvälisesti laajaan käyttöön saaminen on hidasta. MyData-ekosysteemin kannalta on tärkeää tunnistaa yläkategoriat, joissa yhteiset tietomallit ovat kaikkein tärkeimpiä. Jos voidaan kuvata keskeiset tietomallit muutamille hyvin tunnistetuille yläkategorioille, niin silloin tiedon hallinnan käyttöliittymiä ja yhteisiä toimintamalleja esimerkiksi datan löydettävyyteen ja käyttölupien hallintaan voidaan tehokkaasti kehittää juuri näiden tietomallien ympärille. Palvelut voivat ilmoittaa selkeämmin omat tietotarpeensa ja käsittelyn perusteensa standardeihin tietomalleihin nojautuen.</p>
+<p>MyDatan kannalta keskeisiä henkilötiedon yläkategorioita:</p>
+<ul>
+<li>
+<p>Vahvistettavissa olevat identiteetti-attribuutit ja muut suhteellisen staattiset identiteettiin liittyvät tiedot kuten täysi-ikäisyys, opintosuoritukset, kansalaisuus jne.</p>
+</li>
+<li>
+<p>Jatkuvat aikasarjat kuten osto- ja maksutapahtumat, palvelujen käyttö ja verkkojalanjälki, fysiologiset aikasarjat, sijaintitietovirta, kalenteritapahtumat jne.</p>
+</li>
+<li>
+<p>Tiedon hallintaan liittyvät lokitiedot kuten luvitustapahtumat, käyttölupien perumiset, sopimukset jne.</p>
+</li>
+<li>
+<p>Monikäyttöiset profiilit kuten kontaktiprofiili (yhteystiedot), preferenssiprofiili (kiinnostustiedot) ja sovellusalakohtaiset profiilit (esim. esteettömyys-, sijainti- ja terveysprofiili)</p>
+</li>
+</ul>
+<p>Standardointi eri alueilla tapahtuu erilaisten prosessien kautta. On olemassa toimialakohtaisia organisaatioita, jotka edistävät standardointia, ja toisissa tapauksissa standardointi tapahtuu de facto -prosessin kautta. Usean erilaisen ja samaan aihepiiriin liittyvän semanttisen standardin tukeminen ei ole tavoiteltavaa, mutta joissain tapauksissa välttämätöntä. Tulevaisuudessa koneoppimista voitaneen hyödyntää semanttisen yhteentoimivuuden luomiseen eri toimijoiden välille. Edellytys tälle on tietomäärittelyjen (keskenään yhteensopimattomienkin) tarjoaminen avoimesti esimerkiksi Open API -dokumentaatioformaatissa.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-customer-commons---yhdenmukainen-malli-käyttöehtoihin">INFOBOX: Customer Commons - yhdenmukainen malli käyttöehtoihin</h4>
+<p>Jotta palvelujen käyttäjien olisi helppo ymmärtää henkilötiedon<br>
+jakamiseen liittyviä ehtoja, niiden pitäisi olla mahdollisimman<br>
+selkeät ja rakenteeltaan yhtenäiset eri palveluissa. Nykyisin<br>
+palvelujen ehdot poikkeavat toisistaan rakenteellisesti, joten niitä<br>
+on mahdotonta esittää yksinkertaisina valintoina tai visualisointeina.<br>
+Jatkossa voisimme kehittää yhtenäisiä standardeja rakenteisessa<br>
+muodossa julkaistaville käyttöehdoille.</p>
+<p><a href="https://www.google.com/url?q=http://customercommons.org&amp;sa=D&amp;ust=1530645623564000">Customercommons.org</a>-projekti<br>
+pyrkii yhdenmukaistamaan ja yksinkertaistamaan kuluttajien ja<br>
+yritysten väliset sopimusmallit vastaavalla tavalla kuin Creative<br>
+Commons yksinkertaisti teosten ja julkaisujen lisensoinnin. Creative<br>
+Commons -lisenssiä valitessaan tekijänoikeuksien haltijan tarvitsee<br>
+vastata vain muutamaan kysymykseen, kuten saavatko muut muokata<br>
+sisältöä tai käyttää ja levittää sitä kaupallisesti. Henkilötiedon<br>
+käyttöehdoissa voitaisiin kysyä esimerkiksi, saako dataa myydä tai<br>
+luovuttaa eteenpäin, miten kauan dataa säilytetään jne. Vakiomuotoiset<br>
+käyttöehdot voitaisiin visualisoida vaihtoehtoja kuvaavilla ikoneilla.<br>
+Suomessa Digital Health Revolution -hanke on luonut “Consent Commons”<br>
+-kuvakkeet keinoksi selkeyttää tiedon jakamiseen liittyviä lupia ja sopimuksia ihmisille. Toistaiseksi mikään joukko kuvakkeita ei ole<br>
+tarttunut laajempaan käyttöön.</p>
+<p><em>Kuva 2.6: Digital Health Revolution -hankkeessa luodut “Consent Commons” -kuvakkeet, joilla kuvataantietosuoja-asetuksesta löytyviä<br>
+kuutta lainmukaista henkilötiedon käsittelyperustetta, sekä neljää<br>
+tyypillistä henkilötiedon käyttötarkoitusta. Kuvakkeiden avulla tiedon<br>
+jakamiseen liittyvät luvat ja sopimukset voidaan visualisoida<br>
+käyttöliittymissä.</em></p>
+</blockquote>
+<hr>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-avoimet-standardit-ja-yhteentoimivuus">INFOBOX: Avoimet standardit ja yhteentoimivuus</h4>
+<p>Datasta saatavien hyötyjen toteutuminen vaatii avoimia kansainvälisiä<br>
+standardeja, joita useat toimijat tukevat. Standardien välillä<br>
+vallitsee jatkuva kilpailu. Esimerkiksi yritykset pyrkivät edistämään<br>
+omia tai itselleen edullisia standardeja.</p>
+<p>MyDatan suunnittelussa on olennaista, että toiminnan ytimessä olevat<br>
+standardit ovat selkeitä ja yksinkertaisia ja että niiden kehitystyö<br>
+ja käyttö on avointa ja maksutonta. On hyvä ymmärtää standardien<br>
+kehityksen tila ja tehdä olemassa olevia standardeja silloittavia<br>
+kokeiluja, joiden avulla selviävät eri standardien mahdollisuudet ja<br>
+yhteensopivuuden ydinongelmat. Uusien standardien kehityksessä on<br>
+pyrittävä laajennettavuuteen, jotta vältytään tilanteelta, jossa<br>
+vanhanaikainen ja jäykkä standardi estää innovaation.</p>
+<p>Yhteentoimivuudesta puhuttaessa usein keskitytään ensisijaisesti<br>
+tietomallien harmonisointiin niin, että eri järjestelmät pystyvät<br>
+käsittelemään ja ymmärtämään tietosisältöä samalla tavalla. Toinen<br>
+keskeinen näkökulma on järjestelmien välinen yhteentoimivuus<br>
+tiedonsiirrossa niin, että data ylipäätään saadaan siirtymään paikasta<br>
+toiseen. Mitä sujuvampaa on henkilötietojen siirtäminen ja jakaminen,<br>
+sitä suurempi merkitys tulee olemaan myös uudelleenkäyttöä<br>
+helpottavilla yleisillä tietomalleilla.</p>
+<p>Tiedon rakenteen pitää olla riittävän kattavasti ja selkeästi kuvattu,<br>
+jotta esimerkiksi eri lähteistä saatavat aikasarjat voidaan<br>
+vaivattomasti yhdistää toisiinsa. Toinen edellytys yhteentoimivuudelle<br>
+on, että datan mukana siirtyvät myös kuvailutiedot siitä, mitä datassa<br>
+olevat eri käsitteet merkitsevät. Esimerkiksi käsite “palkka” voi<br>
+järjestelmästä riippuen tarkoittaa bruttopalkkaa, nettopalkkaa tai<br>
+jotakin muuta.</p>
+<p>Nykyisin organisaatioiden käyttämät henkilötiedon tietomallit on<br>
+suunniteltu suurelta osin niiden omien tarpeiden ympärille.<br>
+Tietomallit eivät ole yhtenäisiä kilpailijoiden saatikka muiden<br>
+toimialojen organisaatioiden kanssa. Tarvelähtöisesti organisaatiot<br>
+siirtyvät käyttämään standardeja itse kehittämiensä tietomallien<br>
+sijaan. Tämä voi hyödyttää organisaatiota tulevien tietojärjestelmien<br>
+määrittelyssä ja toteuttamisessa.</p>
+</blockquote>
+<hr>
+<p><img src="https://lh6.googleusercontent.com/HZKWv4ZGJAxEVpjuSSA6R2T6ky2MqdpmwrxuyZkQCFNCoUZB3h-Ok6SurIEBcw0yqSWCyYQnIZEGuERCYwNJUG2bet1Dym2ULKLpjR9TE3D3EX8ovTMTaQfg9Hz7Kk9q9Odr6_2i" alt=""></p>
+<p><a></a></p>
+<h1 id="esimerkkejä-mydatan-sovellusalueista">3. Esimerkkejä MyDatan sovellusalueista</h1>
+<p>MyDatan toteuttaminen ja ylläpito vaatii investointeja ja muuttaa henkilötiedon hyödyntämiseen liittyvää liiketoimintaa. Kuka maksaa kustannukset ja kenelle menevät hyödyt? Ovatko ihmiset oikeasti kiinnostuneita MyData-palveluista?</p>
+<p>Kypsän MyData-markkinan kokonaishyödyt on melko laajasti tunnistettu ja tunnustettu. Esimerkiksi päällekkäisen tiedonkeruun vähentyminen, saumattomasti toimivien digitaalisten palvelujen syntyminen, avoin kilpailuympäristö ja ihmisten vahvempi oikeudellinen asema kannustavat MyDatan kehittämiseen organisaatioissa ympäri maailmaa.</p>
+<p>Puolikkaalla MyDatalla ei kuitenkaan saa puolta hyödyistä. Markkinat toimivat, jos datan lähteillä, dataa hyödyntävillä palveluilla, ihmisillä itsellään ja infrastruktuurin tarjoajilla on kullakin pitkässä juoksussa omia kustannuksiaan suuremmat hyödyt. Mikäli jokin osapuoli ei ole mukana, ei data liiku eikä kukaan hyödy. Jos kannustimet saadaan kohdalleen ja ekosysteemi syntyy, niin verkostovaikutukset voivat kiihdyttää sen kasvua nopeastikin.</p>
+<p><img src="https://lh4.googleusercontent.com/af3HXqwtxu_MUj5vAMW5zmYxas3rx73iwDhKzSMkc5lT5hcxvDZmcJALcAoihuTzuVEWFHown6XHOSmm8SN-4nfUx69dJyd6DUgLW7ESGys88V5CGWUatR05kECzLrX3FLLY-sWO" alt=""></p>
+<p><em>Kuva 3.1: Elinvoimaisessa MyData-käyttötapauksessa kaikki osapuolet saavat enemmän hyötyjä, kuin niille koituu kustannuksia pitkässä juoksussa. Vaikka käyttötapauksen kokonaishyödyt olisivat kokonaiskustannuksia suuremmat, niin se ei vielä riitä, mikäli hyödyt ja kustannukset jakautuvat niin, ettei mukaan lähteminen ole kaikille osapuolille kannattavaa. MyData-operaattorien verkosto voi toimia arvon välittämisen verkostona ja jakaa hyötyjä esimerkiksi, niin, että datan lähteille korvataan niille syntyvät kustannukset.</em></p>
+<p>Kustannukset ja hyödyt eivät luonnostaan jakaudu tasaisesti eri roolien ja toimijoiden kesken. Vahva oletus on, että henkilötiedolle ylipäätään on kysyntää, eli henkilötietoa hyödyntäviä palveluja on ja syntyisi lisääkin, jos dataa olisi vaivattomammin saatavilla. Sen sijaan datan lähteille MyDataan siirtyminen voi merkitä kustannuksia ja riskejä. Esimerkiksi julkisen rekisterin sisältämä tieto voi olla erittäin kysyttyä, mikä vaatisi panostuksia tietovarantojen laadun ja rajapintojen ylläpitoon, mutta kyseinen virasto ei välttämättä merkittävästi hyötyisi henkilötietojen tarjoamisesta MyDatana tai saattaisi jopa menettää datasta saamiaan myyntituloja.</p>
+<p>Esitetty MyData-infrastruktuuri on paitsi datan välittämisen, niin myös arvon tuotannon ja arvon välittämisen verkosto. MyData-operaattorit voisivat ylläpitää datan välittämiseen liittyviä älysopimuksia, joilla hyötyjä ja kustannuksia verkostossa voidaan tasata automaattisesti. Esimerkiksi jos datan hyödyntäjä maksaa datasta, niin verkoston kautta tulot voitaisiin jyvittää MyData-operaattorien ja rajapintaa ylläpitävän datan lähteen kesken. Näitä operaattoriverkoston maksumalleja ei vielä ole kokeiltu MyDatassa, mutta muista verkostoista kuten vaikkapa pankki- ja telealalta voidaan ottaa mallia.</p>
+<p>Ihmisille MyData lupaa muun muassa parempaa käyttökokemusta digitaalisissa palveluissa. Samoja tietoja ei tarvitse syöttää ja päivittää moneen paikkaan, palvelut ovat automaattisempia ja yksilöidympiä jne. Tämä riippuu toteutuksien käytettävyydestä. Ei ole vaikea kuvitella päinvastaista skenaariota, missä MyData ei toisi helppoutta, vaan vaatisi ihmisiltä nykyistä enemmän ajankäyttöä ja viitseliäisyyttä oman datansa hallinnoinnissa. Operaattoriverkoston maksumallien pitäisi myös toimia kannustimena datan hallinnan käytettävyyden kehittämiseen. Operaattorit, joilla on helpot palvelut, saavat asiakkaita ja suuremman markkinaosuuden. Edellytyksenä tietenkin on, että operaattorin vaihtaminen itsessään on riittävän vaivatonta, eikä siitä tule kilpailun estettä.</p>
+<p><img src="https://lh3.googleusercontent.com/tweQOBI8lx1DmfV_v7HMO_-zAWhjTD8coQqq0aGVZOiicrEK_H9e-TlmbUEhhMLrV_fUHnhXqHYra0FVTVhLfJzh17GsaKmySgW-qtknZGqsCfz5kSvRZSZ8hKCDTLxwtsocoTnl" alt=""></p>
+<p><em>Kuva 3.2: Tyypillisiä tarpeita, joita henkilötiedon ekosysteemissä eri rooleissa olevilla toimijoilla voi olla.</em></p>
+<p>Seuraavaksi kuusi esimerkkiä tavoista, joilla MyData voi muuttaa käyttäjien, datan tuottajien ja palveluntarjoajien välisiä suhteita ja tarjota hyötyjä eri osapuolille. Esimerkit on valittu ajatuksen herättelijöiksi MyDatan erilaisista hyödyntämismahdollisuuksista.</p>
+<p><a></a></p>
+<h2 id="itse-kootut-profiilit-siirrettävä-mediaprofiili">3.1 Itse kootut profiilit: Siirrettävä mediaprofiili</h2>
+<p>Heikosti kohdennetut suositukset ja verkkomainokset ovat arkipäivää, mutta joskus suositukset osuvat hämmästyttävän hyvin. Sama hyvin osuva suositus voi olla asiakkaan näkökulmasta loistavaa digitaalista palvelua tai sitten se voi olla luottamusta heikentävää pelottavaa seurantaa. Tätä kutsutaan niin sanotuksi puistattava-siisti-rajaksi (creepy-cool line). Kummalle puolelle rajaa profiloinnin pohjalta tehty palvelu sijoittuu riippuu siitä, onko asiakkaalle ymmärrettävää, mihin suositus perustuu ja miten yritys tietää hänestä niin paljon.</p>
+<p>Ihmisten itse hallinnoimat profiilit mahdollistaisivat tarkempia suosittelujärjestelmiä ja läpinäkyvyys lisäisi luottamusta yrityksiä kohtaan. MyData-profiilit voivat olla yhden yrityksen tuottamia profiileja monipuolisempia ja kuvaavampia, koska niihin voidaan yhdistää tietoa eri lähteistä. MyDatan myötä ihminen voisi myös käyttää samoja rikkaampia profiilitietoja eri palveluissa sen sijaan, että jokainen palvelu tekisi erillisen profiloinnin hänestä asiakkaana.</p>
+<p>Esimerkiksi siirrettävä mediaprofiili mahdollistaisi omien mediamieltymysten välittämisen ja hyödyntämisen useissa palveluissa. Parhaimmillaan käyttäjä voisi esimerkiksi jatkaa yhdessä mediapalvelussa kesken jääneen ohjelman katselua samasta kohdasta toisessa palvelussa ja näiden molempien palvelujen kerryttämä tieto rikastaisi samaa mediaprofiilia, jonka avulla molemmat palvelut voisivat tarjota jatkossa paremmin sopivia suosituksia. Vastaavasti liikkumisprofiili voisi olla jaettu niin sanottujen liikkuminen palveluna (Mobility as a Service, MaaS) -tarjoajien kanssa ja terveysprofiili helpottaisi vuorovaikutusta erilaisten terveyden ja hyvinvoinnin palveluntarjoajien kanssa. Muita mahdollisia omia profiileja olisivat esimerkiksi kontaktiprofiili ja yksityisyysasetusten profiili.</p>
+<p><img src="https://lh3.googleusercontent.com/-zmZXBoUnlZX28Ttw0UZ9Mc_jgAHl3qyJVifjuhegaU84p8el8mpB_O7aAK72RBqmiu3n3Ikr0rlL3nAuG5T4N_oCf9ZP1ugel8argRRZ8TkH2AtJIj9vVFKv6sS3JOOZmUtGxbd" alt=""></p>
+<p><em>Kuva 3.3: Perinteisesti käyttäjädatan keruuseen ja analysointiin pohjautuva profilointi ja palvelun personointi tapahtuvat yksittäisen palvelun sisällä (siniset nuolet), eikä kertynyttä profiilitietoa voi tällöin hyödyntää muualla, eikä toisaalta profiilin muodostamiseen ole käytettävissä muissa palveluissa syntynyttä käyttäjädataa. MyData-mallin mukainen ihmisen itse hallitsema profiilitieto (oranssi) mahdollistaisi tiedon koostamisen useista lähteistä ja saman profiilin hyödyntämisen eri palveluissa.</em></p>
+<p><a></a></p>
+<h2 id="varmennettu-tieto-cv-2.0">3.2 Varmennettu tieto: CV 2.0</h2>
+<p>MyData antaa ihmisille mahdollisuuden päästä käsiksi omiin tietoihinsa ja käyttää niitä toisaalla alkuperäisestä datan tuottajasta riippumatta. Tämä lisää joustavuutta, kun dataa hyödyntävien palvelujen ei tarvitse olla suorassa yhteydessä tai sopimussuhteessa datan lähteiden kanssa. Monissa käyttötapauksissa pelkästään tiedon joustava siirtyminen ei riitä, vaan on tarpeen myös varmistaa tiedon alkuperä ja oikeellisuus. Tällainen tiedon sertifiointi on mahdollista sähköisten allekirjoitusten avulla.</p>
+<p>Esimerkiksi tulevaisuuden rekrytointipalvelut ja työnantajien henkilöstöhallinnon palvelut voisivat toimia ihmisten MyDatana välittämien osaamisprofiilien avulla. Osaamisprofiilia on luontevaa ajatella uudenlaisena digitaalisena CV:nä, jossa oma osaaminen on paitsi kuvattu koneluettavassa muodossa, niin myös opinto- ja tutkintotiedot sekä muut pätevyydet olisi mahdollista tarvittaessa varmistaa sähköisesti. Esimerkiksi rekrytointipalvelu voisi vahvistaa, että tieto suoritetusta tutkinnosta todella on peräisin oppilaitosten rekistereistä eikä sitä ole peukaloitu. Opintohistorian ja tutkintotietojen lisäksi myös vaikkapa ajokortti, kielitodistukset, hygieniapassit, tulityöluvat, erilaiset kurssit ja vastaavat olisi mahdollista varmistaa sähköisesti, jos siihen soveltuva MyData-infrastruktuuri on tietoa tuottaville organisaatioille riittävän helppo ottaa käyttöön.</p>
+<p><img src="https://lh4.googleusercontent.com/0eVkHFs11GleKDuRTMXcTLXblVVpmJpoDFInBfpq-PuUxgexIlNxOlZ_AaFKcJmttYkYYhLByhwghLx53KzUCDKXLFOEOSty9bVMbCUptuSp7PEMrLbAETZ0JuxM2X65S0H49n67" alt=""></p>
+<p><em>Kuva 3.4: Esimerkkitapauksessa työnhakija [A] täydentää osaamisprofiiliaan (esimerkiksi CV-tiedot) rekrytointiportaalissa [B], johon on mahdollisuus tuoda koneluettavassa muodossa kansallisesta rekisteristä [C] varmennettu tieto omasta opintohistoriasta. Keskitetyn alustaratkaisun sijaan verkostomaisen MyData-mallin mukaisesti tämän voisi toteuttaa niin, että sekä datan lähde, dataa käyttävä palvelu että ihminen itse kytkeytyvät verkostoon eri palveluntarjoajien kautta.</em></p>
+<p><a></a></p>
+<h2 id="käyttäjätietojen-hajautettu-hyödyntäminen-tiedot-kanta-asiakaskortilta">3.3 Käyttäjätietojen hajautettu hyödyntäminen: Tiedot kanta-asiakaskortilta</h2>
+<p>Neljällä viidestä suomalaisesta kotitaloudesta on kanta-asiakaskortti. Ihmiset hyötyvät niiden käytöstä ennen kaikkea bonusten ja alennusten muodossa, mutta mahdollisesti myös osuvampien palvelujen muodossa. Kauppaketjut, kuten monet muutkin palvelut, käyttävät keräämäänsä tietoa logistiikan optimoinnissa, tarjonnan kohdentamisessa ja markkinoinnissa. Kauppaketjut kehittävät uutta sähköistä palveluntarjontaa, joka nojaa myös ostostietoihin, mutta samalla ne toimivat portinvartijoina sen suhteen, kuka voi hyödyntää niiden keräämää tietoa. Kanta-asiakasohjelmien tieto on käytettävissä vain yritysten omissa palveluissa.</p>
+<p>MyDataan kuuluu ajatus palveluketjujen hajautumisesta, missä eri toimijat erikoistuvat palveluketjun eri osiin. Mikäli ihmiset voisivat helposti siirtää omat ostotietonsa kanta-asiakasjärjestelmistä muidenkin sovellusten käyttöön, mahdollistaisi se nykyistä ketterämpää palvelukehitystä. Joku yritys voisi esimerkiksi luoda sovelluksia, jotka opastavat allergioista tai kroonisista sairauksista kärsiviä asiakasryhmiä heidän ruokaostoksissaan ja toinen yritys voisi koota asiakkaan ostodataa laajasti henkilökohtaisen taloushallinnan näkymiin. Näiden yksityiskohtaisten asiakastarpeiden palveleminen ei välttämättä ole kauppaketjun kanta-asiakasohjelman prioriteeteissa kovin korkealla, mutta näiden palvelujen toteutuminen lisäisi kuitenkin kanta-asiakaskortin hyödyllisyyttä asiakkaille ja olisi siten myös kauppaketjun edun mukaista.</p>
+<p><img src="https://lh5.googleusercontent.com/qxf4zCimJvs2X7u0Y_4So2cpHLBFDRN7VfD9TBkIPbJ0gx_R1igaDnv66IBEEyXl_L4NySUskMo4nfKdswsDdMf9igU7D2Js73XUNXyjqVMqPMj0Wx9YlEDwYMCi8gnTVfDo4868" alt=""></p>
+<p><em>Kuva 3.5: Käyttäjän suostumuksella yritykset voivat saada käyttäjästä rikasta profiilitietoa, jonka pohjalta ja vastineeksi yritys pystyy tuottamaan käyttäjälle parempaa palvelua ja palveluun liittyvää viestintää.</em></p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-yritysten-ja-asiakkaiden-tieto-toisistaan">INFOBOX: Yritysten ja asiakkaiden tieto toisistaan</h4>
+<p>Asiakastiedon hallinta on osa yritystoimintaa. Yritysasiakkaiden<br>
+tiedot ovat yleensä jollain tavoin hallittavissa ja asiakastietoa voi<br>
+ostaa muun muassa hakemistoyrityksistä. Mitä pienemmistä ja<br>
+monilukuisemmista asiakkaista asiakaskunta koostuu, sitä haastavampaa<br>
+on asiakastiedon hallinta. Kuluttajakaupassa ajantasaisen<br>
+asiakasrekisterin ylläpito lähestyy jo mahdottomuutta. Monet yritykset<br>
+haluaisivat ehkä päästä eroon oman asiakasrekisterin jatkuvasta<br>
+ylläpidosta. Niille riittäisi, että asiakaskontaktin syntyessä ne<br>
+saisivat ajantasaiset tiedot suoraan sähköisesti asiakkaalta omaan<br>
+järjestelmäänsä tai jopa niin, ettei asiakastietoa edes<br>
+tallennettaisi, sitä vain käytettäisi sillä hetkellä, kun sitä<br>
+tarvitaan.</p>
+<p>Kuten nykyisin kuluttajasta on tietoja useiden yritysten<br>
+asiakastietojärjestelmissä (Customer relationship management CRM),<br>
+niin vastaavasti ihmisellä itsellään voisi olla työkalut omien<br>
+yrityskontaktien hallintaan aina autokorjaamoista parturi-kampaamoihin<br>
+(Vendor Relationship Management VRM). Tällainen oma tavaroiden ja<br>
+palvelujen toimittajarekisteri voisi sisältää sopimuksia,<br>
+takuukuitteja ja historian yhteydenpidosta kunkin yrityksen kanssa.<br>
+Esimerkiksi kun ihminen muuttaa asunnosta toiseen, hän voisi jakaa<br>
+automaattisesti uudet yhteystiedot kerralla kaikille niille<br>
+yrityksille, joiden kanssa haluaa jatkaa yhteydenpitoa. Asiakkaiden<br>
+hallitsema VRM ja yrityksen CRM-järjestelmä voisivat täydentää<br>
+toisiaan ja vaihtaa tietoa tarpeen mukaan.</p>
+<p>Omassa hallinnassa olevan asiakasprofiilin ja toimittajarekisterin<br>
+avulla kuluttaja-asiakkaatkin voivat nykyistä helpommin kilpailuttaa<br>
+yrityksiä. Sen sijaan, että asiakas käyttää aikaa parhaiden tarjousten<br>
+metsästämiseen, hän voikin ilmaista aikomuksensa liittämällä julkiseen<br>
+profiiliinsa ostotarjouksen. Nykyisin asiakkaan ostotarjouksiin<br>
+pohjautuvia järjestelmiä on joillain yksittäisillä toimialoilla.<br>
+Esimerkiksi<a href="https://www.google.com/url?q=http://tilausajot.net&amp;sa=D&amp;ust=1530645623584000">tilausajot.net</a>-palvelussa<br>
+asiakas täyttää tiedot tarvitsemansa kyydin ajankohdasta ja reitistä,<br>
+ja saa sen jälkeen kuljetusyrityksiltä tarjouksia sähköpostiinsa.<br>
+Tällaista käänteistä mallia kutsutaan nimellä aikomustalous <a href="https://www.google.com/url?q=https://paperpile.com/c/yvXld0/4vae&amp;sa=D&amp;ust=1530645623584000">(Searls<br>
+2012)</a>.</p>
+</blockquote>
+<hr>
+<p><a></a></p>
+<h2 id="yhteiskunnallinen-tiedonkeruu-mydata-tutkimuskäytössä">3.4 Yhteiskunnallinen tiedonkeruu: MyData tutkimuskäytössä</h2>
+<p>Yhteiskunnallisesti merkittävä tutkimus edellyttää usein tietojen keräämistä suuresta joukosta ihmisiä ja usein myös useammasta tietolähteestä. Suomen lainsäädäntö on verrattain salliva sen suhteen että julkisia rekistereitä on saatavilla tutkimuskäyttöön. Keinot tiedon hankkimiseen ovat kuitenkin tarkkaan säädeltyjä. Tutkimukselle hyödyllisiä tietovarantoja, kuten esimerkiksi teleoperaattorien tietoja ihmisten liikkeistä ja sijainneista, kertyy myös yksityisen sektorin pitämiin rekistereihin. Tulevaisuudessa tutkimus ja muu yhteisten ongelmien ratkaiseminen vaatii uudenlaisia keinoja tiedonkeruuseen.</p>
+<p>Näihin keinoihin kuuluu myös ihmisten osallistuminen niin, että he antavat suostumuksensa tietojensa käyttöön tai vaikuttavat tiedon käyttöön liittyviin yhteisiin päätöksiin. Esimerkiksi suomalainen Biopankki kokoaa näytteitä ja tietoja ihmisten antamien lupien pohjalta terveystutkimukseen. Tietoa välittäviin organisaatioihin voi myös liittyä useita erilaisia tapoja jakaa tutkimuksen kautta syntyvää arvoa. Esimerkiksi sveitsiläinen <a href="http://Midata.Coop">Midata.Coop</a> on osuuskunta, jonka jäsenet yhdessä päättävät datan jakamisesta syntyvien tulojen käytöstä esimerkiksi lisätutkimukseen tai koulutukseen.</p>
+<p><img src="https://lh3.googleusercontent.com/FT3YnEypztJ4jKtIdoRdHdL7YL8z1HN7DxRWHblnhOQE4zf0X0I72LRDb9crJrOpyNpzk2sUVmsdMgIYD_CNcQ5aaU63otBWET6AcjPOjAoTHRFDeGBfbdSRGkZaToOFCyHktKw8" alt=""></p>
+<p><em>Kuva 3.6: Suomalaisten biopankkitoimijoiden kanssa tehty biopankkiluovuttajan MyData-kuvaus. Esimerkissä ihmiset ovat aktiivisia biopankkinäytteen luovuttajia ja henkilökohtainen terveystili toimii tiedon hallinnan alustana ja mahdollistaa analysoidun tiedon palauttamisen luovuttajalle. (Kuva: Digital Health Revolution <a href="https://www.google.com/url?q=http://www.digitalhealthrevolution.fi&amp;sa=D&amp;ust=1530645623586000">digitalhealthrevolution.fi</a>)</em></p>
+<p><a></a></p>
+<h2 id="data-osaksi-vuorovaikutusta-julkisten-palvelujen-läpinäkyvyys">3.5. Data osaksi vuorovaikutusta: Julkisten palvelujen läpinäkyvyys</h2>
+<p>Ihmisten omaa dataa hyödyntämällä palveluja voidaan automatisoida ja tarjota oikeaan aikaan niitä tarvitseville. Palveluja automatisoitaessa on tärkeää tehdä niistä läpinäkyviä. Käyttäjillä pitää olla tehokkaat keinot korjata mahdollisia taustatiedoissa olevia virheitä tai puutteita, jotka voisivat johtaa automatisoidussa prosessissa vääriin johtopäätöksiin.</p>
+<p>Perinteisesti data on organisaatioiden taustajärjestelmissä, jonka vuoksi asiakkaan ja asiakaspalvelijan näkymät tietoihin poikkeavat toisistaan. Tiedon määrän ja näkyvyyden epäsymmetrisyyden takia asiakkaan voi olla hankala ymmärtää häntä koskevia päätöksiä ja niiden perusteita (esim. pankin lainapäätös). MyData-lähestymisessä data on osa henkilön ja organisaation välistä vuorovaikutusta. Ihmisellä on yhtäläinen pääsy häntä koskeviin tietoihin kuin organisaatiollakin. Tällöin ihmiset voisivat helposti tarkistaa tietojensa oikeellisuuden, mutta myös MyData-periaatteiden mukaan siirtää omat tiedot muihin sovelluksiin. Julkisten palvelujen tapauksessa kansalaisella voisi olla sama näkymä tietoihin kuin heistä päätöksiä tekevällä virastolla. Opintotukea hakeva voisi esimerkiksi suoraan viraston verkkopalvelusta nähdä, mihin tulotietoihin nykyinen opintotukipäätös perustuu ja kuinka lisätienestit vaikuttaisivat tilanteeseen.</p>
+<p>Yksi MyDatan hyödyntämismahdollisuus on niin sanottu proaktiivinen palvelutarjonta, jossa henkilödataa hyödyntämällä palveluja kohdennetaan, muutetaan ennakoivammiksi ja automatisoidaan. Palvelun tuottajan näkökulmasta proaktiivisella palvelutarjonnalla voidaan lisätä asiakastyytyväisyyttä ja tehostaa prosesseja muun muassa tasaamalla ruuhkahuippuja. Siirtyminen veroilmoituksista verottajan automaattisesti tuottamiin veroehdotuksiin on hyvä esimerkki proaktiivisesta palvelutarjonnasta. Siinä hyödynnetään verottajan hallussa olevaa ihmisten omaa dataa. Veroehdotus toimintamallina sekä helpottaa ihmisten arkea että tehostaa verottajan toimintaa. Vastaavasti ihmisille, joiden passi on vanhentumassa voitaisiin aktiivisesti tarjota sähköistä palvelua passin uusimiseen. Tämä tasoittaisi lomakausia edeltäviin aikoihin kohdistuvia ruuhkahuippuja passin uusimisissa.</p>
+<p><img src="https://lh5.googleusercontent.com/ADtFO8_wnkgdRd1JeDpBN3A94_UlJbeRgkIimCCRaeo1Sjac4Wia5Q1kWsnPTgD0tqEWsYdQKgejxBI0cK-_2_J_a3F4KHb-prJhcWkzMqZnOphOvjKxfcoaLbpjn1bjZlb5bapz" alt=""></p>
+<p><em>Kuva 3.7: MyData-mallissa henkilötieto on jaettu resurssi ja osa yksilön ja organisaation välistä vuorovaikutusta.</em></p>
+<p><a></a></p>
+<h2 id="esineiden-keräämä-data-ovatko-autoni-tiedot-minun">3.6 Esineiden keräämä data: Ovatko autoni tiedot minun?</h2>
+<p>Dataa ei kerry pelkästään verkkopalveluihin ja matkapuhelinten sovelluksiin. Yhä useammat arjessa käyttämämme laitteet myös tallentavat tietoja, ovat kytkeytyneet internetiin ja viestivät keskenään. Tätä trendiä kutsutaan esineiden internetiksi (Internet of Things tai IoT). IoT-laitteet synnyttävät runsaasti reaaliaikaista dataa, josta osa on luokiteltavissa henkilötiedoksi. Sensorien ja datan virtaan perustuvien toiminnallisuuksien yleistyminen kuluttajatuotteissa nostaa kysymykset datan hallinnoinnista ja käytöstä ajankohtaisiksi. Onko hyväksyttävää, että kerätyt tiedot ovat käytettävissä vain valmistajan alustalla?</p>
+<p>Esimerkiksi uudet autot tallentavat ja jakavat runsaasti tietoa ajoneuvon sijainnista ja toiminnasta sekä kuljettajan ajotavasta. Tällä hetkellä tämä tieto on autonvalmistajien hallussa, jotka määrittelevät, kenellä on pääsy tietoon. Rajoituksilla on käytännön merkityksiä muun muassa sen kannalta, kuka pystyy huoltamaan autoa. MyData-periaatteiden toteutuminen ajoneuvojen kohdalla tarkoittaisi, että ihmisille olisi selvää, mitä tietoa ajoneuvo kerää ja mihin tarkoituksiin sitä jaetaan. Kun tieto siirtyisi palveluntarjoajille ihmisten valinnan mukaan, pystyisivät nämä itse valitsemaan, miten huoltavat omaa autoansa.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-dataa-useilta-henkilöiltä-yrityksiltä-ja-laitteilta">INFOBOX: Dataa useilta henkilöiltä, yrityksiltä ja laitteilta</h4>
+<p>MyData-ajattelu rajautuu helposti luonnollisiin henkilöihin. Tietoa<br>
+syntyy ja hyödynnetään kuitenkin yleensä kahden tai useamman tahon<br>
+vuorovaikutuksessa. Mukana voi olla ihmisiä, organisaatioita ja yhä<br>
+enemmän myös esineitä ja fyysisiä tiloja. Tällöin samaan tietoon tulee<br>
+olla pääsy erilaisin oikeuksin useilla eri ihmisillä ja tahoilla.<br>
+Usein on hankala määritellä vain yhtä henkilöä, jota tieto koskee.<br>
+Esimerkiksi autoon asennetun anturin data koskee kaikkia auton<br>
+käyttäjiä. Ostoksia tehdään usein koko perheelle, vaikka maksaja onkin<br>
+yksi ihminen, ja puhelinliittymän todellinen käyttäjä voi olla joku<br>
+muu kuin liittymän omistaja.</p>
+<p>Jako henkilötietoon ja ei-henkilötietoon ei ole datan teknisen<br>
+hallinnan kannalta välttämätöntä. Koneille ei ole merkitystä, onko<br>
+kyseessä henkilötieto vai organisaatiota koskeva ei-henkilötieto.<br>
+Eroavaisuudet tulevat lainsäädännön vaatimuksista, mutta selkeät<br>
+mekanismit tiedon luvittamiseen ovat tarpeellisia myös yritysten<br>
+tietojen hallinnassa, vaikkei laki siihen velvoitakaan.</p>
+<p>Organisaatiot voisivat myös hyötyä, mikäli saisivat itseään koskevan<br>
+datan helposti käytettävässä muodossa. Esimerkiksi taloyhtiöiden on<br>
+nykyisin hankalaa vaihtaa isännöitsijää, koska taloyhtiöiden data on<br>
+yleensä isännöitsijätoimistojen tietojärjestelmissä<br>
+<a href="https://www.google.com/url?q=https://paperpile.com/c/yvXld0/Mkm4&amp;sa=D&amp;ust=1530645623588000">(Ympäristöministeriö<br>
+2014)</a>.<br>
+Myös julkishallinnon kanssa asioidessaan, kuten veroilmoitusta<br>
+täyttäessään, yritykset kerryttävät yritysten omaa dataa, jolla voisi<br>
+olla paljon hyödyllisiä jatkokäytön mahdollisuuksia.</p>
+<p>Identiteetti, johon hallittavat tiedot kytkeytyvät, saattaa siis olla<br>
+henkilö tai organisaatio, mutta se voisi yhtä hyvin olla esine tai<br>
+fyysinen tila. Laite voisi esimerkiksi kantaa mukanaan omaa<br>
+historiaansa ja tietoa esimerkiksi siihen tehdyistä korjauksista.<br>
+Olisi perusteltua, että pääsy laitteen “omaan” dataan siirtyisi myös<br>
+omistussuhteiden muutosten mukana.</p>
+<p>Yksinkertaistetut tapaukset, joissa on selkeää, että kyseessä on yhden<br>
+ihmisen henkilötieto, eivät välttämättä varsinkaan tulevaisuudessa ole<br>
+yleisimpiä. Usean ihmisen yhteisen datan, organisaatioiden datan ja<br>
+esineiden sekä tilojen datan asettamat vaatimukset datan jakamisen ja<br>
+hallinnoinnin infrastruktuurille ovat haastavampia, mutta toisaalta<br>
+yleiskäyttöiset ratkaisut leviävät nopeammin. Selkeyden vuoksi tässä<br>
+selvityksessä termillä MyData viitataan ensisijaisesti luonnollisten<br>
+henkilöiden dataan, mutta huomioidaan mahdollisuus, että<br>
+MyData-infrastruktuurin toteutumisen ajurina saattavat hyvinkin toimia<br>
+ratkaisut, jotka palvelevat muutakin kuin henkilötiedon jakamista.</p>
+</blockquote>
+<hr>
+<p><img src="https://lh3.googleusercontent.com/SLvUqZP12hsro_V44XtICJ8OAeaYEW1kHvUZQ0QxxYvSi0Cq1j9edkP-S9TVopaU4FsPS9obfKHxut5Siie3uCgzSVCEEiw2mC1ugp8Qin6Jse4sVuH3blAee_uAVL6o_mzaFgPQ" alt=""></p>
+<p><a></a></p>
+<h1 id="uhat-esteet-ja-hidasteet">4. Uhat, esteet ja hidasteet</h1>
+<p>Aiemmissa luvuissa on esitetty MyData-malli, sen tavoitteiden kautta. Maailmalla vastaavia visioita on paljon. Ne kaikki jakavat suurelta osin näkemykset siitä, mitä hyötyjä ja tulevaisuuden vaikutuksia systeeminen muutos kohti ihmiskeskeistä henkilötiedon hallintaa toisi tullessaan. Vielä ei kuitenkaan olla tilanteessa, että edes Suomessa saatikka globaalilla tasolla olisi toimiva infrastruktuuri ja markkinat ihmiskeskeiselle henkilötiedon jakamiselle ja hallinnalle.</p>
+<p>MyDatan vieminen visioista ja konsepteista todellisuudeksi etenee useiden löyhästi toisiinsa liittyneiden toimijoiden tekemisten tuloksena. Mukana niin Suomessa kuin kansainvälisestikin on alati laajeneva joukko tekijöitä erikokoisista yrityksistä, julkishallinnon organisaatioista, tutkimuslaitoksista, kansalaisjärjestöistä ja muista organisaatioista - kukin omista motiiveistaan. Konseptit ja käytännön teot luovat tulevaisuudenodotuksia ja tuovat kentälle lisää toimijoita, rahoitusta ja sitä myöten lisää toimintaa. Pienet ja isot teot luovat uusia tulevaisuuden odotuksia, jotka ruokkivat edelleen lisää toimintaa. Kehityssykli voi eri syistä myös kuihtua kasaan tai jäädä jonkun toisen voimakkaamman kehityskulun jalkoihin.</p>
+<p>Jos kehitys kuitenkin jatkuu, niin ennen pitkää kenttä kypsyy ja tapahtuu lukkiutumista. Esimerkiksi tietyt teknologiastandardit yleistyvät käyttöön, jotkut toimijat saavuttavat merkittävän markkina-aseman, “killer app” näyttää toimivan liiketoimintamallin tai verkoston hallinnointiin syntyy kansainvälisesti hyväksytty toimintamalli ja instituutiot. Lukittumiset vakauttavat toimintaympäristöä ja mahdollistavat MyDatan leviämisen laajasti käyttöön, mutta lukittunutta tilannetta ei voi helposti enää muuttaa. Miten voidaan välttää sellaisia lukittumisia, jotka vesittäisivät MyDatan tavoitteita ja johtaisivat yhteiskunnallisesti negatiivisiin tuloksiin? Tässä luvussa käsitellään hidasteita, jotka voivat pahimmillaan kuihduttaa MyDatan kehityssyklin, sekä uhkakuvia, jotka toteutuessaan tarkoittaisivat sitä, että kehityssykli lukittuu väärään asentoon.</p>
+<p><img src="https://lh3.googleusercontent.com/naJOUGF2lL8kFYDgorNHXq2vpUgXMriWdLOG1AolQ_1LiR4aAN25MeSrBXqAMpzuQEsmBvqHLlt0nQWRVVXa9fQefAAjPp09-rL_CkyBASfSQR25u386ONEaHQR7AX7wt2YmioXm" alt=""></p>
+<p><em>Kuva 4.1: Kansainvälisen MyData-verkoston slogan “make it happen make it right” (toteutetaan se ja tehdään se oikein) kuvaa kehityksen kahta puolta. Yhtäältä pitää huolehtia, että kehityssykli kohti todellista ja toimivaa MyDataa pysyy vauhdissa eikä kuihdu kasaan. Toisaalta pitää ymmärtää, että kehitys voi eri toimijoiden ja toiminnan tuloksena muuttaa suuntaa ja pahimmillaan lukittua joltain osin ei toivottuun tilaan.</em></p>
+<p><a></a></p>
+<h2 id="hidasteet-tai-esteet">4.1. Hidasteet tai esteet</h2>
+<p><a></a></p>
+<h3 id="mitä-voimme-tehdä-nyt-heti-käytännössä">4.1.1 Mitä voimme tehdä nyt heti käytännössä?</h3>
+<p>Olemme nyt pisteessä 1. Kaikki näkevät, että pisteessä 3., kun kaikki toimii, niin kaikki voittavat, mutta epäselvää on, mitä on ykkösen ja kolmosen välillä. MyData-ajattelu on idealistista ja siksi joillekin myös innostavaa, mutta tekeminen onkin eri juttu. MyData ei vain käytännössä toimi; jos toimisi, niin se olisi jo kehitetty, moneen kertaan koestettu ja laajasti käytössämme.</p>
+<p>MyData-kehityksen jatkuminen maailmanlaajuisesti suotuisasti edellyttää, että suuri joukko toisistaan riippumattomia toimijoita näkee MyDatan tulevaisuudenlupaukset riittävän kiinnostavina ja tavoittelemisen arvoisina ja toisaalta myös mahdollisuuksien rajoissa olevana. Mahdottoman tavoittelu ei innosta.</p>
+<p>Lupaukset ihmisten digitaalisista oikeuksista ja voimaantumisesta, avoimesta ja kilpailua suosivasta liiketoimintaympäristöstä sekä teknisesti kitkattomasta ja yhteentoimivasta infrastruktuurista ovat laajasti hyväksyttyjä. Ainakaan julkisesti niitä ei vastusteta. Toimintaa kiihdyttävän motivaation lähde tai käänteisesti sen puute kiteytyy monesti siihen, kuinka mahdollisena muutos nähdään.</p>
+<p>MyDatasta kiinnostunut digipalvelun kehittäjä kysyy, miten voimme liittyä Mydata-infrastruktuuriin tai operaattori-toiminnasta kiinnostunut kysyy, mikä on operaattorien ansaintamalli. Pettymys on karvas, jos kysyjä olettaa, että olemme jo pisteessä, missä kaikki on valmista. Toiset näkevät tämän kehityshaasteena, johon kannattaa tarttua, ja toiset jäävät passiivisesti odottelemaan tai kääntävät kokonaan selkänsä MyDatalle.</p>
+<p>Vaikka epävarmuus polusta ykkösen ja kolmosen välillä väistämättä passivoi osan toimijoista, niin myös liian varhainen “selkeän polun” alleviivaaminen voi olla kehitykselle vaarallista. Esimerkiksi jonkun tietyn teknologiavalinnan, arkkitehtuurimallin tai liiketoimintamallin osoittaminen valittuna MyData-mallina saattaa karkottaa toimijoita, jotka jakavat MyDatan vision, mutta syystä tai toisesta näkevät valitun kehityspolun vääränä. Mahdollisia polkuja on lukemattomia; kyse ei siis ole vain jonkin piilossa olevan yhden totuuden selvittämisestä. Erilaiset esitetyt konseptualisoinnit, toteutetut kokeilut, tekniset arkkitehtuurit ja yrityskentässä kypsyvät liiketoimintamallit ovat mahdollisia polkuja tai polun osia. Kaikkia ei saa eikä voi pakottaa yhteen ajattelutapaan, vaan eri tekniikoita ja liiketoimintamalleja pitää kokeilla ja kehittää rinnakkain.</p>
+<p><a></a></p>
+<h3 id="data-on-keino-pitää-asiakas">4.1.2 Data on keino pitää asiakas</h3>
+<p>MyData-rajapintojen avaamisesta ei ole edelläkävijöille etua.</p>
+<p>Yritys tai palvelu, joka on onnistunut pitämään asiakkaan pitkään, on voinut myös kerryttää ison datahistorian. Esimerkiksi vuosikausia kestäneen pankkiasiakkuuden myötä pankin järjestelmiin on kertynyt henkilön tilitapahtumien historia koko tältä ajalta, mikä on arvokasta tietoa mm. luottopäätöstä tehtäessä. Monessa tapauksessa data ja historia myös sitovat henkilöä kyseisen palvelun käyttäjäksi. Esimerkiksi Facebookista irtautuminen olisi kivuliasta vaikka markkinoille tulisi parempi palvelu, koska Facebookissa on tuttavaverkostoja, viestintähistoriaa, valokuvia yms. jo pitkältä ajalta.</p>
+<p>Asiakkaiden kannalta helppo mahdollisuus vaihtaa palvelua tuntuu luonnolliselta ja oikeutetulta, mutta yrityksen näkökulmasta liiketoimintariski voi kasvaa suureksi, jos kuka tahansa uusi tulokas markkinoilla voi kaapata koko asiakaskunnan datoineen hetkessä.</p>
+<p>Markkinatilanne, jossa suurin osa yrityksistä toimisi MyData-periaatteiden mukaisesti, ohjaisi todennäköisesti loputkin yritykset ja uudet tulokkaat toimimaan samalla periaatteella. Ihmiset eivät valitsisi yritystä, joka haluaa lukita asiakkaan ja hänen datansa. Nykytilanteessa edelläkävijäyritysten ongelmana (first mover problem) on, että muut yritykset olisivat kyllä halukkaita hyödyntämään asiakkaan dataa, mutta eivät luovuttamaan sitä asiakkaalle vapaasti käytettäväksi.</p>
+<p><a></a></p>
+<h3 id="yritykset-näkevät-itsensä-mieluiten-kaiken-keskellä">4.1.3 Yritykset näkevät itsensä mieluiten kaiken keskellä</h3>
+<p>Ajatus rajapintojen kautta liikkuvasta datasta, joka mahdollistaisi ketterän organisaation ulkopuolisen sovelluskehityksen, toivotetaan usein tervetulleeksi. Se lisäisi palvelutarjontaa yrityksen asiakkaille, kun muut toimijat voivat tarjota täydentäviä palveluja. Yritysekosysteemejä kuvaavilla PowerPoint-kalvoilla oma organisaatio on yleensä keskellä ja kolmansia osapuolia on reunoilla rikastamassa palveluja, mutta ihminen saattaa puuttua kuvista kokonaan. Toimivasta ekosysteemistä on merkittävää arvoa, vaikkei oma organisaatio olisikaan sen keskiössä. Erikoistumalla kukin voi tehdä sitä, mitä parhaiten osaa, ja tukeutua ulkopuolisiin toimijoihin niissä asioissa, joita ei ole rahkeita toteuttaa riittävällä laadulla itse. Jos joku on henkilötiedon arvoverkon keskiössä, niin sen tulisi olla ihminen, joka hallinnoi omaa dataansa.</p>
+<p>Tekniset ja strategiset ratkaisut, joita tehdään esimerkiksi henkilötietorajapintojen toteuttamiseksi, ovat pitkälti samoja riippumatta siitä, nähdäänkö yrityksen olevan keskellä vai reunalla. Mielen mallina organisaatiokeskeinen ajattelu on kuitenkin ristiriidassa MyDatan ihmiskeskeisen näkökulman kanssa. Se saattaa estää näkemästä yrityksen kannalta merkityksellisiä MyDatan mahdollisuuksia, jotka aukeavat nimenomaan ihmisten ollessa keskiössä. Vaikka oman yrityksen näkeminen kaiken keskellä ei ole varsinaisesti vaarallista, niin suuressa osassa tapauksia se on epärealistista. Vain muutamat yritykset kerrallaan voivat olla ekosysteemien napoina. Avoin ekosysteemi ei nojaudu yhteen keskusyritykseen, vaan jaettuun toimintamalliin ja standardeihin. Se antaa huomattavan suurelle määrälle yrityksiä tilaa olla tasapainoisesti mukana.</p>
+<p><a></a></p>
+<h3 id="meidän-datasta-ei-ole-muille-iloa">4.1.4 Meidän datasta ei ole muille iloa</h3>
+<p>Vaikka MyDataan suhtauduttaisiinkin myönteisesti eikä organisaatioilla olisi liiketaloudellisia esteitä toimia sen mukaisesti, niin usein juuri oman organisaation hallinnoimiin henkilötietoihin saatetaan suhtautua protektionistisesti. Datasta ei nähdä olevan mitään hyötyä alkuperäisen käyttötarkoituksen ulkopuolella.</p>
+<p>Esimerkiksi hoitotyössä on ehdottoman tärkeää, että potilastieto on oikeaa. Lääkäri luottaa laboratoriotestien ja mittausten tuloksiin, jos hän tietää, että ne on tehty oikein ja oikeissa olosuhteissa. Tiedon oikeellisuuden voi taata virallinen sähköinen potilastietokanta, mutta siitä otettu MyData-kopio olisi altis tahalliselle tai tahattomalle manipuloinnille. Hoitotyön kannalta siis virallinen järjestelmä on luotettavin ja MyDatalle ei välttämättä nähdä tarvetta.</p>
+<p>Datan saaminen ulos potilastietojärjestelmistä antaisi ulkopuolisille tahoille mahdollisuuden kehittää sovelluksia eri päätelaitteille ja eri kohderyhmille kuten näkövammaisille, kielitaidottomille, diabeetikoille jne. Potilas voisi esimerkiksi ajaa oman lääkityksensä validaattorisovellukseen ja saada tietoa, onko lääkityksessä mahdollisia päällekkäisyyksiä tai tarkastella verikokeissa mitattua hemoglobiiniarvoa ja verrata sen kehittymistä ruokavalionsa muutoksiin.</p>
+<p>Alkuperäiseen käyttötarkoitukseen lukkiutuminen on hyvin tavallista. Vaikka ei itse heti keksikään mitään mielekästä ulkopuolista käyttöä oman organisaation hallinnoimalle henkilötiedolle, olisi hyvä asennoitua avoimen uteliaasti siihen, mitä ihmiset itse ja heidän valtuuttamansa muut oman alan ulkopuoliset toimijat voisivat keksiä.</p>
+<p><a></a></p>
+<h3 id="suojellaan-tietoa-ihmiseltä-itseltään">4.1.5 Suojellaan tietoa ihmiseltä itseltään</h3>
+<p>Henkilötietojen käsittelyyn liittyvät lainsäädännölliset velvoitteet ovat yrityksille tuttuja. On yllättävää, kuinka usein tietosuojaan liittyvät vastuut nostetaan mahdollisten MyDataa estävien asioiden listalle, vaikka kysymys on siitä, että yksilölle itselleen vain annetaan pääsy omiin tietoihinsa koneluettavassa muodossa.</p>
+<p>Esimerkiksi pankit eivät ole avanneet henkilöasiakkaille pääsyä omiin pankkitietoihin rajapintojen kautta ennen pakottavaa lainsäädäntöä, vaikka yritysasiakkaat ovat voineet kytkeä taloushallinto-ohjelmistonsa pankin järjestelmiin jo pitkään. Toimintatapaa on perusteltu henkilöasiakkaiden tietosuojalla. Verkkopankissa henkilöasiakkaat voivat manuaalisesti ladata tilitapahtumat omalle koneelleen. Tietosuojamielessä omalle koneelle lataaminen ei ole sen turvallisempaa, kuin että pankkitunnuksilla tunnistautunut henkilö antaisi luvan tietojensa siirtämiseen rajapinnan kautta vaikkapa omaan henkilökohtaiseen taloushallinto-ohjelmaansa.</p>
+<p>Toisaalta tiukan tietosuojan ympäristössä datan säilyttämiseen liittyy paljon vastuita ja velvoitteita, joiden toteuttaminen ei ole ilmaista. MyData-periaatteilla voitaisiin kääntää tilanne sekä teknisesti että juridisesti niin, ettei palveluntarjoajan tarvitsisi välttämättä säilyttää dataa ja siten kantaa rekisterinpitäjän velvollisuuksia. Sen sijaan palvelulla olisi yksilön luvalla pääsy lukemaan ja tarvittaessa käyttämään tämän dataa.</p>
+<p><a></a></p>
+<h3 id="keskustelujen-vaikeus">4.1.6 Keskustelujen vaikeus</h3>
+<p>Avoimen dialogin puute marginalisoi ilmiön. MyData-keskustelut erkaantuvat todella syvään päähän ja toisaalta populistiseen päähän. Ei riitä, että asiat määritellään hyvin, keskustelulle pitää löytää yhteinen sanoitus vaikkapa politiikkaa varten.</p>
+<p>MyData-keskusteluihin liittyy monia käsitteitä: Data, oikeudet, kontrolli, toimijuus, liiketoimintamallit, markkinamallit, kilpailu, ekosysteemit, yhteentoimivuus, luottamusverkot, hallintomallit, instituutiot, palvelumuotoilu, käytettävyys, profilointi, sääntely, suostumus, rahoitus, investointikyky, kansalliset tietoinfrastuktuurit, standardit, APIt, datamallit, ihmisten käyttäytyminen, arvot, ajankäyttö, datalukutaito, kulttuurierot, tietoturva, yhteiskunnalliset vaikutukset, politiikka, luottamus, yksityisyys, kansainväliset verkostot, jne. Käsitteiden moninaisuus johtaa siihen, että keskustelut ovat vaikeita.</p>
+<p>MyDatan toteutuminen on tyypillinen kompleksinen ilmiö, kuten laajat yhteiskunnalliset muutokset usein ovat. Siihen liittyy paljon tuntemattomia seikkoja ja toistensa kanssa ristiin vaikuttavia tekijöitä. Kompleksinen ilmiö erotuksena monimutkaisesta tarkoittaa, ettei sitä lähtökohtaisesti ole mahdollista ratkaista tai määritellä, vaan järjestys syntyy itseorganisoitumisen kautta. Mikäli monimutkaista ongelmaa sinnikkäästi tutkii, niin se alkaa työn edistyessä yleensä selkiytymään.</p>
+<p>MyDatan sanoittamisessa pitää vastustaa kiusausta pyrkiä tarkkuuteen. Tarkkuus on yleensä tulkittu hyveeksi, mutta kompleksisen ilmiön tapauksessa se johtaa terminologian räjähdykseen, mikä vie pohjan pois laajan yhteisymmärryksen muodostumiselta. Syntyy asiantuntijakultti, joka porautuu yhä syvemmälle yksityiskohtiin kykenemättä kommunikoimaan aiheesta kultin ulkopuolisille. Pian tarvitaan kolmipäiväinen MyDatan peruskurssi ennakkotietona ennen kuin voi osallistua keskusteluihin tulematta nauretuksi pihalle. Tarkkuuden sijaan pitää pyrkiä avaintermien laaja-alaisuuteen niin, että peruskonseptit on ymmärrettävissä ja merkityksellisiä eri taustoista tuleville osallistujille.</p>
+<p>MyData ei ole kenenkään hallussa tai hallinnassa, se ei ole projekti tai ratkaisu, jonka mikään yksittäinen taho tai ryhmä voisi toteuttaa. Sen kehitystä ei voi ohjata, mutta sen toteutumiselle voidaan luoda mahdollisuuksia tukemalla itseorganisoitumista, altistamalla ajatukset muiden edelleen kehitettäviksi ja olemalla vastaanottavainen sille, mitä muut tekevät. Ratkaisujen vaatimisen ja ratkaisuista palkitsemisen sijaan tulisi luoda tiloja yhdessä oppimiselle ja dialogille ja palkita vuorovaikutuksesta. Maailma on täynnä kompleksisia ilmiöitä, eikä MyData ole mitenkään erityislaatuinen. Hierarkiatonta vuorovaikutusta ruokkiva asenne auttaa monien muidenkin asioiden ratkaisemisessa.</p>
+<p><a></a></p>
+<h2 id="uhkakuvat">4.2 Uhkakuvat</h2>
+<p><a></a></p>
+<h3 id="frankensteinin-mydata">4.2.1 Frankensteinin MyData</h3>
+<p>Henkilötiedon välittäminen, yhdistäminen ja analysointi on kitkatonta ja tapahtuu näennäisesti ihmisten hallinnoimana. Ihmisillä ei kuitenkaan ole aitoja valinnan mahdollisuuksia, sillä laajoja suostumuksia henkilötiedon käyttöön kysytään kaikkialla. Normaali arki ei suju, ellei omaa dataansa luovuta - halusi tai ei.</p>
+<p>Vaikka ihmisellä olisi tekninen mahdollisuus hallita tietojaan tarkasti, se ei kuitenkaan automaattisesti johda siihen, että hänellä on mahdollisuus tehdä vapaasti päätöksiä. Tiedon helppo saatavuus voi entisestään kiihdyttää suuntausta, jossa ihmisiltä vaaditaan jatkuvasti enemmän henkilötietoja. Esimerkiksi lupa kerätä kattavia tietoja voi olla jonkin suositun palvelun edellytys. Ihmiset antaisivat rutiininomaisesti lupia liittyäkseen palveluun, jota syystä tai toisesta täytyy käyttää, jotta olisi yhteiskunnan normaali jäsen. Kuulostaako tutulta?</p>
+<p>Voiko olla esimerkiksi niin, että tulevaisuudessa kohtuuhintaista vakuutusta on mahdotonta saada antamatta ensin kattavaa ja rikasta profiilidataa vakuutusyhtiölle? Lupa MyData-tilin penkomiseen voisi olla maahan pääsyn edellytyksenä rajalla tai ehtona pankkitilin avaamiseen, asunnon vuokraamiseen, työhaastatteluun pääsemiseen, työttömyyskorvauksen saamiseen jne. Mitä ikinä jokin sellainen taho keksii kysyä, jolle on vaikea tai mahdoton sanoa ei.</p>
+<p>Se, että palveluntarjoajat ja muut pääsevät nykyään käsiksi vain epätäydellisiin ja heikkolaatuisiin tietoihin, tuottaa tehottomuutta, mutta myös suojaa ihmistä. Samalla kun tehottomuutta ratkotaan paremmalla yhteentoimivuudella tulee kehittää myös uusia keinoja ihmisten suojaamiseksi ja aitojen valinnan mahdollisuuksien varmistamiseksi.</p>
+<p>Valvovien viranomaisten ja myös kansalaisjärjestöjen tehtävä on pitää huolta, etteivät organisaatiot väärinkäytä yksilöiden suostumusta henkilötiedon käyttöön, ja tarvittaessa reagoida väärinkäytöksiin ja nostaa niitä julkisuuteen. Näillä viranomaisilla ja järjestöillä pitää olla riittävät toimintaedellytykset, jotta ne pystyvät tämän tärkeän tehtävän hoitamaan.</p>
+<p>EU:n uudessa tietosuoja-asetuksessa onkin kirjattu tietojen minimoinnin periaate, jonka mukaan suostumus ei yksin riitä henkilötiedon keräämiseen, vaan keruun pitää olla myös perusteltua ja tarpeellista. Myös alakohtaista sääntelyä tulee kehittää, esimerkiksi mitä tietoa vakuutuksenottajilta saa pyytää. Sääntely tuo markkinoille yhteiset pelisäännöt. Muutoin datan keruu helposti laajenee, jos yksi yritys tekee irtioton ja saa laajemmalla datalla kilpailuetua, johon muiden on vastattava pysyäkseen bisneksessä.</p>
+<p><a></a></p>
+<h3 id="laki-ja-teknologia-tohtori-jekyllin-ja-mr.-hyden-käsissä">4.2.2 Laki ja teknologia tohtori Jekyllin ja Mr. Hyden käsissä</h3>
+<p>Tietosuoja-asetuksen kaltaiset aloitteet hyvässä tarkoituksessa pakottavat yritykset ja organisaatiot avaamaan järjestelmänsä ja tuomaan tiedot ihmisten itsensä saataville. Teknologian ja lainsäädännön kehitys ei pysähdy. Kvanttitietokoneilla murretaan nykyiset salausteknologiat, ja turvallisuuslainsäädäntö kehittyy suuntaan, joka pakottaa yritykset antamaan pääsyn ihmisten dataan myös viranomaisille ja niiden alihankkijoille. Se, mikä oli tarkoitettu ihmiselle itselleen, onkin teknologian ja pakottavan sääntelyn myötä myös muiden saatavilla.</p>
+<p>Osa suomalaislukijoista nostaa kulmakarvojaan ja suosittelee yllä kuvatun skenaarion kirjoittajaa päästämään irti foliohatustaan. Kvanttitietokoneet kuulostavat scifiltä ja jos valtio säätää turvallisuuslainsäädäntöä, niin siihen on varmasti hyvä syy ja viranomaiset kyllä hoitavat hommansa niin, ettei kansalaisten yksityisyys tai muut oikeudet vaarannu.</p>
+<p>Maailman mittakaavassa on poikkeavaa, että viranomaisiin luotetaan esimerkiksi henkilötietojen käsittelyssä niin paljon kuin Suomessa. Historiankuvaukset siitä, kuinka Natsi-Saksa hyödynsi viranomaisrekisterejä ja IBM:n tuottamaa reikäkorttiteknologiaa joukkovainojen työkaluina eivät Suomessa saa ihmisiä epäluuloisiksi hallintoa tai hallinnon ja yritysten yhteistyötä kohtaan. Meillä on paljon normaalimpaa puhua uhkakuvista, jotka liittyvät esimerkiksi suuryritysten vallankäyttöön. Koska MyData-kehityksessä pyritään globaaliin yhteentoimivuuteen, niin kulttuurierot ihmisten asennoitumisessa sekä todelliset riskit valtioiden kansalaisiinsa kohdistamasta valvonnasta on otettava tosissaan.</p>
+<p>Kvanttitietokoneet eivät myöskään ole scifiä, niitä kehitetään kiihtyvällä vauhdilla ja esimerkiksi IBM tarjoaa jo nyt kvanttitietokoneensa käyttömahdollisuutta pilvipalveluna. Ennusteiden mukaan yleiskäyttöiset kvanttitietokoneet leviävät laajempaan käyttöön 2030-luvulla. Kryptografian asiantuntijat ovat jo pitkään tiedostaneet, että nykyiset julkisen avaimen salausmenetelmät menettävät tulevaisuudessa tehonsa, koska salaukset ovat purettavissa kvanttitietokoneiden laskentakapasiteetilla. Kehitteillä on uusia kvantinkestäviä salausmenetelmiä, mutta niiden standardointi ja käyttöönotto vie aikaa. Mikäli kvanttitietokoneiden kehitys voittaa nopeudessa uusien salausmenetelmien kehityksen ja käyttöönoton, niin silloin MyData on kenen tahansa luettavissa.</p>
+<p>Teknologian ja lainsäädännön kehitys yhdessä ja erikseen voivat muuttaa yhteiskuntaa ja toimintaympäristöä hyvinkin radikaalisti. Se, mikä tänään ei ole mahdollista tai laillista, voi tulevaisuudessa olla. Arkisesti näin radikaaleja muutoksia ja niihin liittyviä riskejä ei huomioida teknologian kehityksessä ja käyttöönotossa.</p>
+<p><a></a></p>
+<h3 id="taistelu-valtasormuksesta">4.2.3 Taistelu valtasormuksesta</h3>
+<p>Datataloudessa suurilla on etulyöntiasema teknologian ja käyttäjämassan ansiosta. Ihmiset, pienemmät yritykset ja valtiotkin ovat altavastaajina. MyData luo valinnanvapautta ihmisille ja tasapainottaa kilpailua. Kun data ei ole lukossa, ihmiset valitsevat erilaisia, pieniä tai kotimaisia palveluntuottajia. Jätit eivät luovuta, ne ostavat MyData-startupit pois kuljeksimasta, tekevät käytettävyydeltään ylivertaiset ja ilmaiset operaattoripalvelut, miehittävät standardointifoorumit, miinoittavat kentän teknologiapatenteilla ja lobbaavat lainsäätäjät puolelleen. Lopulta jätit palauttavat vallan itselleen entistä vahvempana. MyData on niille keino saada massoittain korkealaatuista tietoa yksilöistä.</p>
+<p>Professori Lawrence Lessigin sanonta “koodi on laki” (code is law) kuvaa osuvasti digitalisoituvan yhteiskunnan dynamiikkaa. Tätä täydentää lausahdus “arkkitehtuuri on politiikkaa” (architecture is politics), jonka on tehnyt tunnetuksi yksi Electronic Frontier Foundationin perustajista Mitch Kapor. Siinä, missä laki määrittelee, mitä saa ja mitä ei saa tehdä, niin koodi määrittelee, mitä voi ja mitä ei voi tehdä. Jos lainsäätäjä ei uskalla konkretisoida kirjoittamaansa lakimuutosta, niin viime kädessä sen konkretisoi koodari. Vastaavasti jos politiikka ohjaa lainsäädännön kehittämistä, niin arkkitehtuuriratkaisut ohjaavat sitä, millaista koodia ja palveluja loppujen lopuksi tehdään.</p>
+<p>Pystyäkseen hallinnoimaan ja hyödyntämään omaa dataansa ihmiset tarvitsevat palveluja. Jotta MyData-toimintamalli voisi skaalautua, niin palvelut tarvitsevat yhteentoimivuuden infrastruktuuria. Henkilödatan jakamisen ja hallinnan infrastruktuuri määrittelee, millaisten palvelujen tekeminen on mahdollista tai kannattavaa ja palvelut puolestaan määrittelevät, mitä voimme niiden sisällä tehdä. Millaiseen arkkitehtuuriin eli politiikkaan nojautuvan MyData-infrastruktuurin haluamme? Millaisia teknologioita ja standardeja käytetään, miten infrastruktuuria operoidaan, millaiset rakenteet, instituutiot ja säännöt ovat taustalla?</p>
+<p>Riskinä on, että yksittäinen vahva toimija toteuttaa infrastruktuurin riittävän hyvin ja nopeammin kuin muut. Se pystyy tarjoamaan helppoa integroitavuutta sovelluskehittäjille sekä maksuttomuutta ja hyviä käyttöliittymiä ihmisille. Verkostovaikutukset vahvistavat sitä ja se saavuttaa monopoliaseman MyDatan ytimessä. Tällaisen toimijan politiikkana ei välttämättä ole tietosuojan vahvistaminen tai yksilön oikeudet saatikka kilpailun lisääminen.</p>
+<p>Usein markkinat johtavat luonnostaan monopolien syntymiseen. Nyt dominoivassa asemassa olevat datajätit ovat päässeet asemiinsa internetin uusilla markkinoilla kuten esimerkiksi Standard Oil öljyteollisuuden syntyessä tai Bell System sekä valtioiden telemonopolit puhelinalalla. Kilpailulainsäädännön kautta öljyteollisuus ja teleala toimivat nykyisin avoimilla markkinoilla. Eri maiden kilpailuviranomaiset tutkivat jo, ovatko esimerkiksi Google ja Facebook tulkittavissa monopoleiksi, ja tulisiko markkinoita avaaviin toimenpiteisiin ryhtyä kansalaisten hyödyksi.</p>
+<p>Kysymys on siis siitä, onko mahdollista kehittää avoimiin standardeihin nojautuvaa infrastruktuuria, joka johtaisi MyDatan alueella kilpailtuihin markkinoihin ilman monopolin syntymisen ja purkamisen välivaihetta.</p>
+<p><a></a></p>
+<h3 id="datavastuu-lyyhistää-ihmisiä">4.2.4 Datavastuu lyyhistää ihmisiä</h3>
+<p>MyData tuo kauan kaivattuja digitaalisia oikeuksia ja valtaa ihmisille. Samalla lisääntyy yksilön vastuu; hänen on huolehdittava omasta yksityisyydestä ja siitä, mihin dataansa jakaa. Markkinat täyttyvät huijaripalveluista ja datapuoskareista: ensimmäiset kalastelevat henkilötietoja harhalupauksilla ja jälkimmäiset antavat ihmisten dataan pohjautuen valheellisia, vääriä tai jopa haitallisia tulkintoja ja “neuvontaa”. Ihmisten kyvyt ja mahdollisuudet omien data-asioiden hoitoon jakautuvat epätasaisesti: toiset pärjäävät ja toiset eivät. Individualismia korostavassa yhteiskuntakehityksessä jokainen on kuitenkin oman onnensa seppä ja yksin datansa kanssa.</p>
+<p>Omien tietojen hallinta on uusia asia, vaikka se tehdään käytettävyydeltään helpoksi ja tarjolla on apuja, kuten vaikkapa yksityisyysasetuksia vahtiva henkilökohtainen tekoäly-assistentti. Loppujen lopuksi ihmisen pitää kuitenkin vähintään ottaa tällaisia palveluja käyttöön ja tehdä erilaisia valintoja pitkin matkaa. Tämä edellyttää osaamista, viitseliäisyyttä, ajankäyttöä, työkaluja ja mahdollisesti taloudellisia resursseja.</p>
+<p>Paljon on puhuttu ylijakamisen riskistä. Kaikki eivät ole kiinnostuneita tai osaa huolehtia yksityisyydestään. Ihmiset jakavat vahingossa dataansa laajemmin kuin ymmärtävät tai jakavat ymmärtäen, mutta laajemmin kuin olisi tarpeellista tai heille itselleen hyväksi. Datan jakamisen negatiivinen vaikutus saattaa paljastua vasta vuosien päästä, kun esimerkiksi terveystiedoista paljastuu nuoruuden humalahaaveri, joka haittaa vakuutuksen saantia.</p>
+<p>Kokonaan toinen asia on datasta tehtävät tulkinnat ja niiden vaikutus ihmisten elämään. Kuka tulkintoja tekee ja kenen tulisi kantaa vastuu, jos tulkinnat ovat vääriä? Jotkut terveydenhuollon ammattilaiset ovat esittäneet huolensa siitä, että ihmiset alkavat liiaksi itse tulkita omaa terveysdataansa eivätkä hae ammattilaisen apua. Vääriä tulkintoja voi syntyä myös sen takia, että tiedon konteksti katoaa. Esimerkiksi tutkija saattaa “tykätä” Facebookissa natsisivuista tutkimuksen tekemisen tarkoituksessa, mutta kontekstista tietämättä tehty profilointi saattaa johtaa väärään päätelmään.</p>
+<p>Aina oikeakaan tulkinta datasta ei ole välttämättä haluttu. Pitäisikö joissain tilanteissa ihmistä suojella hänestä kerätyltä tiedolta? Omasta datasta saattaa paljastua asioita, joiden käsittelyyn ihminen ei ole valmistautunut. Esimerkiksi geenitiedon pohjalta voidaan arvioida kohonnutta alttiutta sairauksille, joista osaan ei ole parannuskeinoa. Kansalaisen pitäisi itse pystyä päättämään, haluaako hän esimerkiksi tietää, onko hänellä kohonnut riski sairastua johonkin vakavaan tautiin kuten Alzheimeriin.</p>
+<p>Ylipäätään korostunut data- ja yksilökeskeisyyden yhdistelmä teknologiavetoisessa yhteiskuntakehityksessä on huolestuttavaa. Riskinä on, että ihmisnäkökulma kaventuu datanäkökulmaksi, eikä kollektiivisia ja sosiaalisia näkökulmia oteta huomioon lainkaan. Holhoamista ei tarvita, mutta datan välittämisen infrastruktuurin kehittämisen ohella tulisi varmistaa, että ihmisille on tarvittaessa tarjolla tukea tiedon käsittelyssä ja tulkinnassa. Tukea voivat tarjota esimerkiksi valmentajat, opettajat tai vertaiset.</p>
+<p><img src="https://lh4.googleusercontent.com/C1fnMHEursFtA1nPyX1bpqBdPqgOql4pYDnQoJVywlYy05V_r9EAb6ok8_1y2CimLEgmbgNd34mtn-oc8k8Vj1J263Xpo2k8JjVvK948el9t8H-cxh1SSdOCB-kFWO4a_WL3BW5t" alt=""></p>
+<p><a></a></p>
+<h1 id="mydata-suomessa">5. MyData Suomessa</h1>
+<p>Paradigman muutos organisaatiokeskeisestä ihmiskeskeiseen henkilötiedon hallintaan on luonteeltaan globaali ja siksi aiemmissa luvuissa on kuvattu MyDatan mahdollisuuksia ja toteutumisen edellytyksiä ottamatta kantaa erityisesti kansallisiin kysymyksiin. Yksi selvityksen päämääristä on kuitenkin hahmottaa Suomen roolia MyDatan kehittämisessä kansainvälisesti. Tähän viimeiseen lukuun on koottu kansallisia kehityskulkuja, joilla on selkeästi liittymiä MyData-ajatteluun.</p>
+<p>Kotimaisessa kehitystyössä tulee jatkuvasti korostaa, että MyData tarjoaa mahdollisuuksia ratkaista henkilötiedon hallinnan haasteita kansallista tasoa laajemmin. Suomen kokoisessa maassa on houkuttelevaa pyrkiä kehittämään kaikkia suomalaisia palvelevaa kansallista infrastruktuuria. Tällainen infrastruktuuri ei kuitenkaan automaattisesti toimi muissa maissa. Suomi voi kuitenkin toimia yhteentoimivuutta korostavien MyData-sovellusten kokeilumarkkinana. Pienessä, korkeasti koulutetussa maassa yhteisistä käytännöistä on helpompi sopia kuin suuremmissa maissa. Mikäli henkilötiedon hallinnan globaalien haasteiden ratkaisemista ja laajasti skaalautuvaa palvelujen yhteentoimivuutta pidetään tietoisesti tavoitteena, niin Suomessa kokeillut ratkaisut voidaan viedä maailmalle.</p>
+<p>MyData ei ole suomalainen ilmiö, vaan avauksia ihmiskeskeisen datan hallinnan toteuttamisessa on tehty useissa maissa. EU:n tietosuoja-asetus lisää entisestään kiinnostusta uusiin toimintamalleihin ja eurooppalaisten kilpailuvalttien löytämiseen datan käytön saralla. MyData-periaatteiden noudattaminen edesauttaa asetuksen vaatimusten täyttämisessä mm. suostumusten hallinnassa ja datan siirrettävyydessä ja voi siten tuoda kilpailuetua periaatteita noudattaville yrityksille.</p>
+<p>Globalisaatio muuttaa suomalaista yhteiskuntaa ja palveluja myös sellaisilla perinteisillä aloilla, jotka ovat yleensä olleet kotimaisten toimijoiden hallussa. Pelko isojen monikansallisten yritysten liiketaloudellisen vallan kasvamisesta on ajankohtaista ja osin aiheellista. Tietoinfrastruktuurin organisoiminen avoimuuden periaatteilla voi parantaa kotimaisten toimijoiden kilpailukykyä suhteessa kansainvälisiin yrityksiin, joiden kilpailuetu perustuu pääasiassa suljettuihin järjestelmiin ja suuren kokoon. Nyt on aika toimia, jotta suomalaiset pysyvät kärkijoukoissa kehittämässä henkilötiedon hyödyntämisen käytäntöjä. Suomeen on mahdollista rakentaa vahva MyData-osaamisen keskittymä ja sitä kautta tuoda suomalaisille yrityksille kansainvälistä kilpailuetua.</p>
+<p>MyDatan kehittymiseen tarvitaan avoimuutta, yhteistoimintaa ja luottamusta ihmisten ja organisaatioiden välille. Suomalaisesta yhteiskunnasta löytyy näitä ominaisuuksia. Suomessa on vahvat perinteet avoimessa tietoteknisessä kehityksessä esimerkiksi avoimen datan ja avoimen lähdekoodin alueilla. Myös yritysten ja valtion yhteistyöllä on saatu tuloksia. Esimerkiksi GSM-standardin nopea omaksuminen ja sitä seurannut mobiiliteollisuuden kehittyminen on esimerkki siitä, miten Suomi voi olla aktiivisesti mukana kansainvälisesti, yhteiskunnallisesti ja kaupallisesti merkittävän uuden teknologian kypsyttämisessä ja maana hyötyä edelläkävijyydestään. Mobiiliteollisuuden kehittymisessä avainasemassa oli avoimiin standardeihin perustuva verkostomainen toiminta. Verkostotoimintamalli on myös MyData-rakenteiden kehittymisen keskeinen mahdollistaja.</p>
+<p>Henkilötiedon alueella ratkaistavat kysymykset ovat erilaisia, eikä vanhoihin teleoperaattori-maailman esimerkkeihin ja menestystarinoihin pidä tuudittautua liian syvälle. Toiminnan edistämiseksi on syytä luoda rohkea mutta uskottava visio siitä, miten Suomi voi kehittää uusia toimintamalleja. Tämä edellyttää, että yritykset lähtevät varhaisessa vaiheessa mukaan kehittämään uutta liiketoimintaa - soveltuvin osin yhdessä julkisen sektorin kanssa.</p>
+<p><a></a></p>
+<h2 id="mydatan-toteutunut-kehitys-suomessa">5.1 MyDatan toteutunut kehitys Suomessa</h2>
+<p>Tämän selvityksen ensijulkaisun (2014) jälkeen Suomessa on tapahtunut paljon kehitystä MyData-ajattelussa ja myös kansainvälinen huomio on kasvanut. Liiketoimintamallien osalta kehitys on vielä varhaisessa vaiheessa, mutta kansainvälisesti vertailtuna suomalainen MyData-työ on edistyksellistä erityisesti siinä, miten täällä painotetaan toimijoiden välistä yhteentoimivuutta (vastakohtana ns. winner-takes-all-malli). Suomalainen MyData-kehitys on saanut paljon positiivista huomiota maailmalla ja esimerkiksi Euroopan komissio on nostanut sen esille osana datatalous-tiedonannon valmistelutyötä <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/LgG4&amp;sa=D&amp;ust=1530645623602000">(EU 2017)</a>. Kansainvälistä tunnettuutta Suomen MyData-toiminnalle on saatu myös Helsingissä ja Tallinnassa järjestettyjen vuotuisten suurten MyData-konferenssien myötä (<a href="https://www.google.com/url?q=http://mydata2018.org/&amp;sa=D&amp;ust=1530645623602000">mydata2018.org</a>).</p>
+<p>Vuonna 2015 Sipilän hallitus nosti aiheen hallitusohjelmaan seuraavalla linjauksella: “Vahvistetaan kansalaisten oikeutta valvoa ja päättää itseään koskevien tietojen käytöstä” <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/7rA6&amp;sa=D&amp;ust=1530645623603000">(Valtioneuvosto 2015)</a>. Samana vuonna liikenne- ja viestintäministeriö yhdessä Aalto-yliopiston kanssa käynnistivät MyData-palvelupilotteja kehittävien suomalaisten yritysten foorumina toimivan MyData-allianssin. Allianssissa on mukana noin 40 suomalaista organisaatiota: suuria toimijoita kuten kauppaketjuja, pankkeja ja teleoperaattoreita, MyDataan liittyviä startupeja sekä tutkimuslaitoksia ja julkishallintoa (<a href="https://www.google.com/url?q=https://mydata.fi/portfolio/participants&amp;sa=D&amp;ust=1530645623603000">mydata.fi</a>).</p>
+<p>Eräiden MyData-allianssissa mukana olevien yritysten ja tutkimuslaitosten yhteistyössä käynnistettiin syksyllä 2017 yritysten ja Business Finlandin rahoittama TrustNet-hanke (<a href="https://www.google.com/url?q=http://trustnet.fi&amp;sa=D&amp;ust=1530645623603000">trustnet.fi</a>). Hankkeen tavoitteena on luoda Suomessa luotettava hajautetun digitaalisen identiteetin verkosto ja kestävä yhteentoimivuuden malli henkilötiedon hallintaan, joka olisi skaalattavissa muualle. Tekes on rahoittanut myös muita MyDataa edistäviä tutkimus- ja yrityshankkeita kuten Digital Health Revolution (2014-2018) ja Personal Data Management Platforms (2016-2018). Vuonna 2016 Teknologiateollisuus yhdessä jäsenyritysten sekä liikenne- ja viestintäministeriön kanssa järjesti Maankoodauskurssin, jonka aiheena oli MyData-operaattoritoiminnan kiihdyttäminen.</p>
+<p>Hallituksen kärkihankkeista: “Digitaalisen liiketoiminnan kasvuympäristön rakentaminen (Digi2-hanke)” ja “Yhteisen tiedon hallinta (YTI-hanke)” edistävät MyDataan liittyvää kehitystä sekä julkisella että yksityisellä sektorilla. Digi2 toteuttaa valtioneuvoston periaatepäätöstä datan hyödyntämisestä liiketoiminnassa, jossa omadatan toimet on linjattu ja viety toteutukseen verkostotoimintana sekä vaikutettu EU:n datatalouden politiikka-alueella. Liikenne- ja viestintäministeriö on lisäksi sisällyttänyt MyData-periaatteita liikennepalvelulakiin. YTI-hankkeen yksi työpaketti käsittelee omadataa ja sen tavoitteena on toteuttaa Kosken (opintojen tietovaranto) yhteyteen ensimmäinen tuotantoversio suostumustenhallinnasta sekä tuottaa viitearkkitehtuuri, jonka avulla omadata saadaan jatkokehitettyä ja skaalattua laajemmin julkisen hallinnon käyttöön. YTI hanketta ohjaa Valtiovarainministeriö ja sen toteuttaa Väestörekisterikeskus, josta tulee vuoden 2020 alusta julkista hallintoa palveleva Digi ja väestötietovirasto.</p>
+<p>Toteutusvaiheeseen edenneiden hankkeiden lisäksi MyData on huomioitu vahvasti strategisella tasolla valtionhallinnossa ja suurissa kaupungeissa. Työ- ja elinkeinoministeriön tekoälyohjelman julkaisussa <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/FEBMW&amp;sa=D&amp;ust=1530645623604000">(TEM 2017)</a> esitetään omadatan vapauttamista kansalaisten käyttöön sekä dataoperaattoripilotointia keinoina suomalaisten datavarantojen joustavampaa hyödyntämiseen. Tekesin julkaisemassa digitaalisen alustatalouden tiekartastossa <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/VBYPW&amp;sa=D&amp;ust=1530645623604000">(Viitanen et al. 2017)</a> ehdotetaan, että käynnissä oleva MyData-yhteistyö erityisesti julkisella sektorilla hankkeistettaisiin yhdeksi, yhteiseksi MyData-palvelujen kehityshankkeeksi. Päämääränä olisi kehittää suomalainen alusta-arkkitehtuuri ja sen päälle sovellettava liiketoimintakonsepti. Myös Valtioneuvoston kanslia on julkaissut MyData muutosvoimana -vaikutusarvioinnin <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/x07ua&amp;sa=D&amp;ust=1530645623605000">(Knuutila et al. 2017)</a> ja Helsingin kaupunki on sitoutunut noudattamaan MyData-periaatteita palvelujensa uudistamisessa.</p>
+<p>Nämä ovat lupaavia askeleita kohti ihmiskeskeisen tiedonhallinnan toteutumista, mutta kehitys on kuitenkin vielä varhaisessa vaiheessa. Tarvitsemme edelleen tutkimusta ja tuotekehitystä, toimintatapojen ja asenteiden uudistamista sekä ennen kaikkea tiivistä vuorovaikutusta eri tahojen ja sektoreiden välillä. Ratkaisevia ovat innokkaat ihmiset ja organisaatiot, jotka ovat valmiita kokeilemaan ja oppimaan kokeiluista. Nyt on syytä myös katsoa maailmalle ja pyrkiä houkuttelemaan esimerkiksi henkilödatan välittämiseen keskittyneitä kansainvälisiä toimijoita Suomeen, jotta voimme kiihdyttää omaa oppimistamme.</p>
+<p><em>Taulukko 5.1: Nostoja MyData-kehityksestä Suomessa vuosilta 2014-2018.</em></p>
+<p><a></a></p>
+<h2 id="mydata-visio-seuraaville-vuosille">5.2 MyData-visio seuraaville vuosille</h2>
+<p>MyData Allianssin vuoden 2017 viimeisessä kokoontumisessa käynnistettiin visiokeskustelu, jolla pyrittiin hahmottamaan suuntaa seuraaville vuosille. Yhteistä tulevaisuudenkuvaa on sen jälkeen työstetty muun muassa yritysten, Sitran IHAN®-avainalueen ja valtionhallinnon toimijoiden kanssa. Avoimissa verkostoissa tapahtuva visiotyö ei oikeastaan tule koskaan valmiiksi, vaan eri toimijat tulkitsevat ja muokkaavat tulevaisuuden näkemystään jatkuvasti yhdessä ja erikseen. Alla oleva on yksi kiteytys siitä, miten Suomen MyData-kehityksessä aktiiviset toimijat keskustelevat tulevaisuudesta.</p>
+<p><a></a></p>
+<h3 id="toimintasuunnat-vision-toteuttamiseksi">5.2.1 Toimintasuunnat vision toteuttamiseksi</h3>
+<p>Vision toteuttamisen kannalta tärkeitä tunnistettuja toimintasuuntia ovat operaattoritoiminnan kiihdyttäminen, datan jakamisen liiketoimintaverkostojen käynnistäminen, kansainvälinen laajentuminen ja standardointityö. Näitä eri toimintasuuntia kannattaa edistää samanaikaisesti, ne ruokkivat toisiaan, mutta eivät ole toisistaan riippuvaisia.</p>
+<p>Operaattoritoiminta</p>
+<p>Keskeinen pitkän tähtäimen tavoite suomalaisessa MyData-tekemisessä on MyData-palveluinfrastruktuurin synnyttäminen. MyData-operaattoritoiminta ei ole vielä Suomessa käynnistynyt, eikä täällä toimi kovin monia sellaisia yrityksiä, jotka olisivat erikoistuneet toteuttamaan henkilötiedon välittämisen infrastruktuuripalveluja (eng. Personal Information Management Services PIMS). Tämä on vaikuttanut toimintaan toisaalta niin, että mikään yritys ei ole Suomessa dominoinut MyData-kehitystä voimakkaasti ja siten täällä on voitu keskittyä enemmän verkostomaisten ja yhteentoimivuutta korostavien ratkaisujen edistämiseen. Toisaalta MyData-operaattoritoimijat olisivat luonnollisesti veturiyrityksiä, jotka omista liiketoiminnallisista intresseistään johtuen pyrkisivät aktiivisesti vahdittamaan käytännön toimintaan siirtymistä. Tällaisten veturiyritysten vähäinen määrä saattaa hidastaa suomalaisten MyData-toteutusten syntymistä. Esimerkiksi Ranskalainen monivuotinen MyData-hanke MesInfos on rakentunut vahvasti infrastruktuuria tarjoavan Cozy Cloud -yrityksen ympärille ja siellä on Suomeen verrattuna hieman nopeammin siirrytty käytännön kokeiluihin, mutta toisaalta painotus hajautettuihin malleihin ja yhteentoimivuuteen on siellä ollut vähäisempää.</p>
+<p>Liiketoimintaverkostot</p>
+<p>Käytönnöllinen kehitysaskel kohti laajempaa yhteistoimintamallia on käynnistää pienempiä liiketoimintaverkostoja, jotka perustuvat hajautettujen identiteettien ja henkilötiedon jakamisen teknologioihin. Ensimmäiset suomalaiset kokeilut yritysverkostoista on jo lanseerattu. Esimerkiksi Asiakastieto, Nordea, OP ja Tieto ovat yhdessä viranomaisten kanssa kehittäneet lohkoketjuteknologiaan perustuvan liiketoimintaverkoston, jonka avulla osakeyhtiön voi perustaa täysin digitaalisesti. Seuraavaksi on vuorossa laajemmat kokeilut uusilla alueilla.</p>
+<p>Lohkoketjuihin perustuvat hajautetut identiteetti- ja luvitusratkaisut mahdollistavat datan jakamista sekä yritysten ja organisaatioiden välistä yhteistoimintaa uusilla tavoin. Aiemmin yhteiskäyttöisen tiedon luomiseen ja jakamiseen on tarvittu keskitetty rekisteri ja sen ylläpidosta vastaava organisaatio. Hajautetut teknologiat mahdollistavat tavoitteellisten liiketoimintaverkostojen perustamisen joustavammin ilman keskitettyä rekisteriä ja hallinnointiorganisaatiota. Tällaiset hajautetut yritysverkostot voivat kehittyä ja kasvaa nopeammin ja ne sallivat aiempaa suurempia vapauksia verkostojen liiketoimintamalleihin.</p>
+<p>Kansainvälinen laajentuminen</p>
+<p>Kansainvälisten tapaamisten ja MyData-konferenssien ympärille on muodostunut kasvava globaali yhteisö, jolla on paikallistoimintaa jo yli 20:ssä paikallisessa MyData-hubissa (<a href="https://www.google.com/url?q=https://mydata.org&amp;sa=D&amp;ust=1530645623613000">mydata.org</a>). Euroopan ulkopuolella hubeja on mm. Japanissa, Brasiliassa ja Pohjois-Amerikassa. Suurin osa hubeista on toistaiseksi vielä pieniä ja vapaamuotoisia paikallisyhteisöjä, mutta esimerkiksi Hollannissa, Ranskassa ja Tanskassa toiminta on tavoitteellista ja säännöllistä ja mukana on paikallisia yrityksiä vastaavasti kuin suomalaisessa MyData-allianssissa. Kansainvälinen verkoston tavoitteena on perustaa MyDatan edistämiseen ja yhteistoiminnan rakenteita kehittämään MyData Foundation, jonka kotipaikaksi on tulossa Suomi.</p>
+<p>Suomella on hyvä mahdollisuus asemoitua kansainväliseksi ajatusjohtajaksi henkilötiedon hallinnan ja ihmiskeskeisen datatalouden alueilla. Tämä edellyttää aktiivista verkostoitumista ja kansainvälistymistä esimerkiksi EU-tason yhteistyöhankkeissa ja kansainvälisillä standardointi- ja teknologiafoorumeilla. Esimerkiksi Sitran IHAN®-hankkeessa on otettu lähtökohdaksi EU:n alue ja käynnistetään standardointityö CEN-CENELEC:ssä.</p>
+<p>Standardien valinta, käyttöönotto ja kehittäminen</p>
+<p>Suomeen on syntynyt ja ja syntyy jatkossakin erilaisia käytännön toteutuksia, jotka pyrkivät noudattamaan MyData-periaatteita. Nämä voivat olla yksittäisten yritysten tai organisaatioiden omia projekteja, laajempia toimialakohtaisia liiketoimintaverkostoja, julkishallinnon hankkeita, tutkimusprojekteja tai näiden yhdistelmiä. Eri toimijoiden toteutukset on rahoitettu ja organisoitu eri tavoin. Vaikka kaikki pyrkisivätkin noudattamaan samoja korkean tason periaatteita ihmiskeskeisestä henkilötiedon hallinnasta, niin toteutusten välistä yhteentoimivuutta ei synny ilman erityistä panostusta. Toisaalta taas yhteentoimivuuteen keskittyminen on työlästä ja saattaa eri MyData-toteutuksien tekijöiden näkökulmasta näyttäytyä ylimääräisenä tekemisenä.</p>
+<p>Kevyt ja mahdollisimman paljon käytännön toteutuksia tukeva malli yhteentoimivuuden kehittämiseen on eri MyData-toteutusten yhteinen suosituksia antava toimielin. Toimielin antaisi teknisiä suosituksia, joita MyData-toteutuksia tekevät tahot asteittain sitoutuvat noudattamaan, ja suosituksia tarkennettaisiin saatujen käytännön kokemusten myötä. Toteuttajilla on kuitenkin osin samoja teknologiavalintoihin liittyviä haasteita ratkottavanaan ja kaikki hyötyisivät siitä, jos eri aihepiireistä olisi laadittu selkeitä perusteltuja suosituksia, joihin voisi nojautua.</p>
+<p><img src="https://lh4.googleusercontent.com/SehN7TLgYTIAsUY2-_ONIFrMWD32WyIhJbOH7CcXpdbbbafXf9fTX_ckc5h3ewcNPTf1MxMjXyEMq_di6IjPwj1eFhZIBDKiw5SXIG7RO0wxNkz00cQmA9x2gVNUa6LiEeEN4fjS" alt=""></p>
+<p><em>Kuva 5.1: Kevyt ja mahdollisimman paljon käytännön toteutuksia tukeva malli yhteentoimivuuden kehittämiseen. Toisistaan riippumattomien MyData-toteutusten edustajat muodostavat toimielimen, joka antaa teknisiä suosituksia, joiden noudattamiseen eri toteutusten tekijät asteittain sitoutuvat.</em></p>
+<p><a></a></p>
+<h3 id="suomesta-mydatan-kokeilumarkkina">5.2.2 Suomesta MyDatan kokeilumarkkina</h3>
+<p>Mikä kannustaa nykyisin dataa kerääviä organisaatioita avaamaan henkilötietoa ihmisille itselleen MyDataksi ja mitä oikeuksia on datan alkuperäisellä tuottajaorganisaatiolla? Miten MyData-rajapinnat toteutetaan turvallisesti? Mitkä ovat ensimmäiset menestyvät liiketoimintamallit MyDatassa? Mikä on julkishallinnon rooli? Miten nykyiset datajätit kuten Google ja Facebook reagoivat uuteen kehitykseen? Miten tietosuoja-asetuksen vaatima datan siirrettävyys toteutetaan? Millaisia palveluja ja palveluntarjoajia henkilötiedon hallinnointiin syntyy ja mikä on tällaisten toimijoiden liiketoiminnan ydin? Miten ratkaistaan datan semanttinen yhteentoimivuus? Miten koneoppiminen ja analytiikka toteutetaan MyData-maailmassa? Miten henkilötietoa saa tutkimuskäyttöön? Miten ihmisten arkiset dataan liittyvät toimintatavat muuttuvat? Miten datan hallinta voidaan tehdä ymmärrettäväksi ja käytettäväksi? Miten vältetään se, etteivät ihmiset vain salli kaikkea mahdollista datan käyttöä, kuten nykyisin, käyttöehtoja lukematta? Miten digitaalinen identiteetti toteutetaan niin, että se tukee hajautettua MyData-mallia?</p>
+<p>MyData on monitahoinen kokonaisuus yhteiskunnallisia, teknisiä, juridisia ja liiketaloudellisia kysymyksiä. Kenttä on haastava, mutta samalla se tarjoaa valtavasti mahdollisuuksia uusille innovaatioille. Yritykset ja organisaatiot ympäri maailmaa kehittävät ja esittävät omia ratkaisujaan ja näkemyksiään yllä lueteltuihin ja muihin vastaaviin kysymyksiin kiihtyvällä tahdilla. Vaikka kehitys on nopeaa, niin etenkin infrastruktuuritason, hallinnon ja sääntelyn innovaatiot kypsyvät luonnostaan hitaammin, joten samassa ajassa teknologian ja liiketoiminnan kehityksessä ehditään tehdä useita kokeilukierroksia. Nyt ja lähivuosina emme vielä tiedä, mitkä ratkaisut tulevat jäädäkseen, mikä toimii ja mikä ei.</p>
+<p>Vaikka digitaaliset markkinat ovat kansainväliset, niin innovaatioiden kehittämisessä saman alan toimijoiden fyysisestä läheisyydestä ja keskittymisestä on kuitenkin mittavaa etua ja se on monesti jopa välttämätöntä. Tällä hetkellä MyDataan liittyvän teknologian ja liiketoiminnan kehitys on hajautunut ympäri maailmaa. Eurooppa on selkeä veturi ja hyvä markkina-alue tietosuojaa korostavan ja yhtenäistyvän sääntely-ympäristön takia, mutta innovaatiokeskittymäksi Eurooppa on liian laaja. Yhdessä oppimisen ja yhteistoimintamallien syntymisen kannalta ei ole mitään iloa siitä, että yhdellä start-upilla on Reykjavikissa terveysdatapilotti ja toisella Pariisissa vakuutusalan kokeilu ja kolmas kehittää energiadatan alustaa Amsterdamissa.</p>
+<p>Viime vuosien aikana Suomi on profiloitunut maana, jossa ymmärretään ja määrätietoisesti viedään eteenpäin ihmiskeskeistä henkilötiedon mallia kokonaisvaltaisesti. Kansainvälisessä kehityksessä Suomen rooli voisi olla tarjota houkutteleva alusta uusien MyData-palvelujen kokeiluille ja tuotekehitykselle - kuten Suomi oli vuosituhannen alussa kokeilumarkkina monille mobiilialan innovaatioille. Aiemmin mainittu TrustNet-hanke on esimerkki siitä, miten kansainvälinen uutta hajautetun identiteetin teknologiaa kehittävä Sovrin-säätiö (<a href="https://www.google.com/url?q=https://sovrin.org/&amp;sa=D&amp;ust=1530645623615000">sovrin.org</a>) on hankkeen puitteissa tuotu yhteistyöhön suomalaisten yritysten ja tutkimuslaitosten kanssa. Vastaavia esimerkkejä tarvitaan lisää.</p>
+<p>Samalla kun kansainvälisiä toimijoita houkutellaan Suomeen, tulee huolehtia siitä, että oma visiomme avoimiin standardeihin pohjautuvasta yhteentoimivasta infrastruktuurista säilyy kirkkaana. Muutoin riskinä on päätyä lisensoimaan kansainvälisten toimijoiden kautta sellaisia teknologioita, jotka hämärtävät yhteentoimivuutta ja muodostavat suljettuja henkilötiedon hallinnan saarekkeita.</p>
+<p><a></a></p>
+<h2 id="mydataan-liittyvää-toimintaa-suomessa">5.3 MyDataan liittyvää toimintaa Suomessa</h2>
+<p>Tähän osioon on koottu nostoja Suomen julkisen hallinnon ja välillisen julkisen hallinnon käynnissä olevista toimista, jotka tukevat MyData-kehitystä Suomessa.</p>
+<p><strong>Eettistä tietopolitiikkaa tekoälyn aikakaudella</strong></p>
+<p>Suomessa on valmisteltu loppusyksystä 2018 eduskunnalle annettavaa selontekoa työotsikolla “Eettistä tietopolitiikkaa tekoälyn aikakaudella”. Selontekoon sisällytettävät toimet koskevat esimerkiksi tietoturvallisuutta ja tietosuojaa sekä tiedon keräämistä, yhdistämistä, avaamista ja säilyttämistä. MyData-periaatteet ovat erittäin hyvin linjassa eettisen tietopolitiikan tavoitteiden kanssa. Tekoäly ja MyData kytkeytyvät toisiinsa sitä kautta, että erilaisten koneoppimisen sovellusten kehittäminen edellyttää pääsyä laadukkaisiin data-aineistoihin. MyData-infrastruktuurin avulla tekoälyä kehittävät yritykset ja tutkimuslaitokset voivat saada pääsyn tarkkaan ja rikkaaseen ihmisten dataan ihmisten omalla suostumuksella. Tämä ei takaa samanlaisia massadatan apajia, joita esimerkiksi suurilla sosiaalisen median palveluilla on, mutta vastaavasti MyDatana luvitettu tieto on tarkempaa ja voisi tukea esimerkiksi henkilökohtaisten tekoälysovellusten kehittämistä.</p>
+<p><strong>Palveluväylä</strong></p>
+<p>Valtiovarainministeriön johdolla rakennettava palveluväylä on keskeinen kansallinen tietoarkkitehtuurin kehittämishanke. Sen on tarkoitus tarjota yhtenäiset keinot tunnistautumiseen ja tiedon siirtämiseen julkisten tietovarantojen ja tiedon käyttäjien välillä, samalla tehostaen myös henkilötiedon käyttöä. Julkishallinnolle on säädetty velvollisuus liittää merkittävimmät ihmisiä koskevat tietovarantonsa palveluväylään. Suomi.fi-verkkopalvelussa on kehitteillä kansalaisen palvelunäkymä, josta kansalaisen on helppo nähdä omat tietonsa lukuisista eri rekistereistä.</p>
+<p>Palveluväylä sisältää siis useita niistä komponenteista, joita toimiva MyDatan hyödyntämisen järjestelmä edellyttäisi. Väestörekisterikeskus ryhtyi vuonna 2017 valmistelemaan sitä, että valikoidut tiedot palveluväylästä olisivat yksilöille tarjolla siirrettäväksi muihin palveluihin avoimien rajapintojen ja käyttäjän valinnan pohjalta. Suomen julkinen sektori on siis hyvissä asemissa tullakseen yhdeksi mallikkaaksi MyData-toimijaksi. Sen kannattaa erilaisten kokeilujen myötä oppia lisää siitä, minkä kaltaisilla järjestelyillä merkittävät julkiset tietovarannot voidaan saada hyödynnettäviksi, mikä tukee henkilötiedon ekosysteemin syntymistä.</p>
+<p><strong>Tietoja kysytään kansalaiselta ja yritykseltä vain kerran</strong></p>
+<p>Suomen julkishallinnon digitalisoinnin periaatteissa on linjattu: “Asiakkaalta ei kysytä sellaista tietoa, joka julkisella hallinnolla on jo tiedossaan. Palveluiden tuottama tieto on yhteentoimivaa muiden palveluiden kanssa, jolloin palvelut voivat vaihtaa tietoja keskenään ilman tarvetta kysyä tietoa uudelleen ihmisiltä tai yrityksiltä. Mikäli asiakkaalta tarvitaan tietoja, joita meillä ei vielä ole, nämä tiedot selvitetään asiakkaan kannalta mahdollisimman sujuvasti ja vaivattomasti.” Linjaus ohjaa julkisen sektorin toimijoita yhdenmukaistamaan tiedon hallinnon käytäntöjään. Tiedon parempi järjestäminen ja kokonaisvaltainen johtaminen tukee MyDatan kehittymistä ja tehostaa samalla koko julkisen hallinnon toimintaa.</p>
+<p><strong>Massadataan ja tekoälyyn liittyvä tutkimus ja kehitys</strong></p>
+<p>Viime aikoina massadatan (big data), tekoälyn ja erilaisten data-alustojen kehitys ovat olleet suosittuja tutkimus- ja tuotekehitysteemoja ja saaneet runsaasti rahoitusta ja huomiota niin kansallisesti kuin Euroopan tasollakin. Suomessa näihin teemoihin liittyvää rahoitusta myönnetään niin Business Finlandin, Suomen Akatemian kuin valtioneuvoston strategisten linjausten ja ministeriöiden toimesta. Koska MyDatalla, tekoälyllä ja massadatalla on yhteys esimerkiksi anonymisointirakenteiden kautta, voidaan osa tutkimukseen ja kehitykseen kanavoidusta rahoituksesta ohjata MyData-infrastruktuurin kehittämiseen. Tekoälyn ja massadatan tutkimuksen kannalta MyData voidaan nähdä ratkaisuna yksityisyys- ja suostumuskysymyksiin, jotka ovat useassa yhteydessä nousseet massadatan ja tekoälyn hyödyntämisen keskeisiksi haasteiksi. MyData onkin nostettu esille yhtenä massadataa täydentävä osa-alueena valtioneuvoston strategisessa tutkimuksessa <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/z4mZ&amp;sa=D&amp;ust=1530645623618000">(Antikainen et al. 2016)</a>.</p>
+<p><strong>Koski ja Kanta: Toimialojen ratkaisut</strong></p>
+<p>Suomen julkishallinto on kehittämässä toimialakohtaisia järjestelmiä, joiden on tarkoitus helpottaa tiedon välitystä alan toimijoiden kesken. Kansallinen Terveysarkisto KanTa on valtakunnallinen järjestelmä, johon voi tallentaa mm. potilastietoja ja reseptejä siirtymään helposti terveyspalvelujen tarjoajalta toiselle. Omakanta, sähköinen terveystietojen ja reseptien hallinnan palvelu, tarjoaa mahdollisuuden omien tietojen tarkasteluun ja niiden siirron luvitukseen. Kehitteillä on myös Omatietovaranto, johon asiakkaat voivat tallentaa itse tuottamiaan terveys- ja hyvinvointitietoja. Uusi laki sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä (asiakastietolaki) on paraikaa valmisteilla. Tällä hetkellä käyttäjillä ei kuitenkaan ole mahdollisuutta ladata tietoja omaan käyttöönsä tai itse valita, mitkä palvelut pääsevät niitä käyttämään. Terveydenhuollon MyDataan liittyvät myös käynnissä olevat potilastietojärjestelmähankkeet kuten Apotti ja Una.</p>
+<p>Vastaavasti Koski-palvelu on opetushallituksen opintotietojen hallintaa selkeyttävä hanke. Sen tavoite on saada kansalaisten opintoja koskevat tiedot yhteen järjestelmään nykyisten, päällekkäisten rekisterien sijasta. Koskeen tallennettuja tietoja käyttävät alan ammattilaiset koulutuksen suunnitteluun, mutta myös opiskelijat voivat itse käyttää tietoja esimerkiksi opintojensa suunnitteluun ja työnhakuun. Järjestelmään onkin suunnitteilla keinot, joilla omia tietoja voi joustavasti siirtää eteenpäin muiden käyttöön.</p>
+<p>Henkilötiedon käyttöön liittyvät ratkaisut voivat monissa tapauksissa syntyä ensin konkreettisten, yksittäisiä aloja koskevien tarpeiden ympärille. Samalla toimialakohtaiset järjestelmätkin tulisi rakentaa avoimilla standardeilla ja muut mahdolliset sovellukset mielessä, niin että järjestelmien laajempi yhteentoimivuus voidaan saavuttaa. Erilaiset keskitetyt rekisterit tehostavat toimintaa, mutta myös lisäävät tietovuotojen ja väärinkäytösten riskiä. Luottamuksen lisäämiseksi ne pitäisi suunnitella niin, että ihmiset itse voivat nähdä ja hallita omien tietojensa käyttöä sekä hyötyä itseään koskevasta tiedosta</p>
+<p><strong>Sitran Ihmislähtöinen datatalous IHAN®-hanke</strong></p>
+<p>Sitra rakentaa ekosysteemiä reiluun datatalouteen yhdessä kansalaisten ja eri toimijoiden kanssa. Hankkeessa laaditaan EU-tasoinen tiekartta reilulle datataloudelle. Tiedonvaihdannalle luodaan yhteiset pelisäännöt ja konsepti, kehitetään tekninen alusta sekä määritellään yhteiset standardit, periaatteet ja hallintamalli. Tekninen alusta perustuu avoimeen lähdekoodiin ja on sisällytettävissä erilaisiin teknisiin toteutuksiin. “IHAN®-numero” yksilöi henkilöön liittyvän tiedon internetissä.</p>
+<hr>
+<p><a></a></p>
+<blockquote>
+<h4 id="infobox-digital-health-revolution--hanke">INFOBOX: Digital Health Revolution -hanke</h4>
+<p>Kun Digital Health Revolution (DHR) -hankkeen valmistelu alkoi vuonna<br>
+2013, henkilötiedoilla oli vähäinen asema terveyspolitiikkaa<br>
+koskevissa keskusteluissa. Viime vuosina henkilötietojen käsittelyyn,<br>
+hallintaan ja käytettävyyteen on kiinnitetty huomattavasti enemmän<br>
+huomiota kansallisissa ja EU-tason keskusteluissa. DHR-hanke<br>
+(2014-2018) on ollut edelläkävijä ihmiskeskeisen tiedonhallinnan<br>
+tutkimuksessa ja uudentyyppisten ennaltaehkäisevien ja ennakoivien<br>
+terveyspalvelujen kehityksessä.</p>
+<p>DHR oli Tekesin rahoittama strateginen tutkimusavaus, jossa oli mukana<br>
+monitieteinen joukko seitsemästä korkeakoulusta ja<br>
+tutkimuslaitoksesta. Hanke tarjosi MyData-arkkitehtuurin kautta<br>
+työkaluja kehittäjille, tutkimusta ihmiskeskeisistä<br>
+liiketoimintamalleista ja niiden mahdollisuuksista terveydenhuollossa,<br>
+ymmärrystä asiakas- ja käyttäjäkokemuksista sekä tietoa henkilötiedon<br>
+hyödyntämisen juridisista ja eettisistä kysymyksistä. Lisäksi<br>
+DHR-pilotissa kokeiltiin käytännössä, miten yksilökeskeinen ja<br>
+dataintensiivinen terveyspalvelu voi luoda näkymää henkilön<br>
+terveydentilaan.</p>
+<p>Hanke edesauttoi MyDatan integroitumista valtakunnantason<br>
+toimenpiteisiin ja oli osaltaan tukemassa kehitystä, jonka ansiosta<br>
+Suomi tunnistetaan kansainvälisissä verkostoissa MyDatan ja<br>
+yksilökeskeisen datan hallinnan edelläkävijänä. On selvää, että<br>
+kehittämistoimia on jatkettava edelleen ja tavoiteltava kestävää<br>
+yhteistoiminnan mallia henkilötiedon hallintaan ja jakamiseen Suomessa<br>
+ja EU:ssa. Kehittäminen vaatii organisaatiorajat ylittävää ja<br>
+vuoropuhelua ja luottamuksen rakentamista.</p>
+<p>DHR:n tuloksia voidaan hyödyntää monissa muissa hankkeissa ja<br>
+verkostoissa. Esimerkiksi keväällä 2018 Sitra on avannut uuden<br>
+IHAN®-avainalueen, jolla pyritään vastaamaan henkilökohtaisen tiedon<br>
+siirrettävyyden haasteeseen ja Business Finland on lanseerannut<br>
+Personalized Health -ohjelman.</p>
+<p><img src="https://lh3.googleusercontent.com/2WlRQ-Kc4wy7oj5kZ9X267J46CeunaYXOCV6z0C0qoMlw0Cmcui9KggTiZSwX7sv2Mw0jHuCezYE158c4SVaruedTOKu5sFNXVi044pvupZwErWqc8em6-VMb_zjXXvUjRFO-LRz" alt=""></p>
+<p><em>Kuva 5.2: Digital Health Revolution -hankkeen loppuraportti on ladattavissa osoitteesta<br>
+<a href="https://www.google.com/url?q=http://www.digitalhealthrevolution.fi&amp;sa=D&amp;ust=1530645623621000">digitalhealthrevolution.fi</a></em></p>
+</blockquote>
+<hr>
+<h1 id="lähteet">Lähteet</h1>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tycDk&amp;sa=D&amp;ust=1530645623622000">Antikainen, Janne, Jarmo Eskelinen, Marc de Vries, Heli Koski, Tommi Niemi, Mika Pajarinen, and Pyykkönen Sinikukka. 2016. “Massadatasta Liiketoimintaa Ja Tehokkaita Julkisia Palveluja.” </a><a href="https://www.google.com/url?q=http://tietokayttoon.fi/julkaisu?pubid%3D10701&amp;sa=D&amp;ust=1530645623622000">http://tietokayttoon.fi/julkaisu?pubid=10701</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tycDk&amp;sa=D&amp;ust=1530645623623000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1WJ33&amp;sa=D&amp;ust=1530645623623000">EU. 2016. “EU:n Tietosuoja-Asetus.” 2016/679. </a><a href="https://www.google.com/url?q=https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri%3DCELEX:32016R0679%26from%3DFI&amp;sa=D&amp;ust=1530645623624000">https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=CELEX:32016R0679</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1WJ33&amp;sa=D&amp;ust=1530645623624000">.</a></p>
+<p>EU<a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/JuM2L&amp;sa=D&amp;ust=1530645623624000">. 2017. “Staff Working Document on the Free Flow of Data and Emerging Issues of the European Data Economy.” </a><a href="https://www.google.com/url?q=https://ec.europa.eu/digital-single-market/en/news/staff-working-document-free-flow-data-and-emerging-issues-european-data-economy&amp;sa=D&amp;ust=1530645623625000">https://ec.europa.eu/digital-single-market/en/news/staff-working-document-free-flow-data-and-emerging-issues-european-data-economy</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/JuM2L&amp;sa=D&amp;ust=1530645623625000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/SFPJN&amp;sa=D&amp;ust=1530645623626000">European Commission. 2017. “Guidelines on the Right to Data Portability - Article 29 Data Protection Working Party.” </a><a href="https://www.google.com/url?q=https://ec.europa.eu/newsroom/document.cfm?doc_id%3D44099&amp;sa=D&amp;ust=1530645623626000">https://ec.europa.eu/newsroom/document.cfm?doc_id=44099</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/SFPJN&amp;sa=D&amp;ust=1530645623626000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/AhaSf&amp;sa=D&amp;ust=1530645623627000">FTC. 2014. “FTC Recommends Congress Require the Data Broker Industry to Be More Transparent and Give Consumers Greater Control Over Their Personal Information.” </a><a href="https://www.google.com/url?q=http://www.ftc.gov/news-events/press-releases/2014/05/ftc-recommends-congress-require-data-broker-industry-be-more&amp;sa=D&amp;ust=1530645623627000">http://www.ftc.gov/news-events/press-releases/2014/05/ftc-recommends-congress-require-data-broker-industry-be-more</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/AhaSf&amp;sa=D&amp;ust=1530645623627000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/W4vLz&amp;sa=D&amp;ust=1530645623628000">Goode, Lauren. 2017. “Carnegie Mellon Researchers Want to Fix App Permissions Once and for All.” The Verge. The Verge. </a><a href="https://www.google.com/url?q=https://www.theverge.com/2017/2/10/14562514/cmu-privacy-assistant-app-mobile-app-permission&amp;sa=D&amp;ust=1530645623628000">https://www.theverge.com/2017/2/10/14562514/cmu-privacy-assistant-app-mobile-app-permission</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/W4vLz&amp;sa=D&amp;ust=1530645623629000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/e9C1U&amp;sa=D&amp;ust=1530645623629000">Kantara. 2017. “Consent Receipt Specification - WG - Consent &amp; Information Sharing - Kantara Initiative.”</a> <a href="https://www.google.com/url?q=https://kantarainitiative.org/confluence/display/infosharing/Consent%2BReceipt%2BSpecification&amp;sa=D&amp;ust=1530645623631000">https://kantarainitiative.org/confluence/display/infosharing/Consent+Receipt+Specification</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/e9C1U&amp;sa=D&amp;ust=1530645623632000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1qZag&amp;sa=D&amp;ust=1530645623633000">Knuutila, Aleksi, Vesa Kokkonen, Heikki Sundquist, Ossi Kuittinen, and Salla Thure. 2017. “MyData Muutosvoimana: Julkishallinnon Henkilötiedon Ihmiskeskeisen Hyödyntämisen Mallit Ja Vaikutukset.” Valtioneuvoston kanslia. </a><a href="https://www.google.com/url?q=http://urn.fi/URN:ISBN:978-952-287-446-7&amp;sa=D&amp;ust=1530645623634000">http://urn.fi/URN:ISBN:978-952-287-446-7</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1qZag&amp;sa=D&amp;ust=1530645623634000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/ty1Of&amp;sa=D&amp;ust=1530645623635000">Newman, Nathan. 2013. “Taking on Google’s Monopoly Means Regulating Its Control of User Data.”</a> <a href="https://www.google.com/url?q=http://www.huffingtonpost.com/nathan-newman/taking-on-googles-monopol_b_3980799.html&amp;sa=D&amp;ust=1530645623637000">http://www.huffingtonpost.com/nathan-newman/taking-on-googles-monopol_b_3980799.html</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/ty1Of&amp;sa=D&amp;ust=1530645623638000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/XpeYe&amp;sa=D&amp;ust=1530645623638000">Pitkänen, Jyrki. 2018. “Itsehallittavan Identiteetin Sääntely EUn Yleisessä Tietosuoja-Asetuksessa.” Lapin yliopisto, Oikeustieteellinen tiedekunta.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/BdtPm&amp;sa=D&amp;ust=1530645623639000">Pitkänen, Olli. 2014. “Sinun Tietosi Eivät Ole Sinun: Rekisteröidyn Oikeus Hyödyntää Omia Henkilötietojaan.” </a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/BdtPm&amp;sa=D&amp;ust=1530645623640000">Oikeus</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/BdtPm&amp;sa=D&amp;ust=1530645623641000">, no. 2/2014: 202-14.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tea9t&amp;sa=D&amp;ust=1530645623641000">Poikola, Antti, Kai Kuikkaniemi, and Ossi Kuittinen. 2014. “My Data - Johdatus Ihmiskeskeiseen Henkilötiedon Hyödyntämiseen.” Ministry of Transport and Communications. </a><a href="https://www.google.com/url?q=http://urn.fi/URN:ISBN:978-952-243-418-0&amp;sa=D&amp;ust=1530645623642000">http://urn.fi/URN:ISBN:978-952-243-418-0</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tea9t&amp;sa=D&amp;ust=1530645623643000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/qnY4m&amp;sa=D&amp;ust=1530645623644000">Searls, Doc. 2012. </a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/qnY4m&amp;sa=D&amp;ust=1530645623644000">The Intention Economy: When Customers Take Charge</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/qnY4m&amp;sa=D&amp;ust=1530645623645000">. Harvard Business Press.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/qJB9q&amp;sa=D&amp;ust=1530645623646000">Sirkkunen, E., and P. Haara. 2017. “Yksityisyys Ja Notkea Valvonta: Yksityisyys Ja Anonymiteetti Verkkoviestinnässä-Projektin Loppuraportti.” tampub.uta.fi. </a><a href="https://www.google.com/url?q=http://tampub.uta.fi/handle/10024/100510&amp;sa=D&amp;ust=1530645623647000">http://tampub.uta.fi/handle/10024/100510</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/qJB9q&amp;sa=D&amp;ust=1530645623648000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/OqIhl&amp;sa=D&amp;ust=1530645623649000">TEM. 2017. “Suomen Tekoälyaika - Suomi Tekoälyn Soveltamisen Kärkimaaksi: Tavoite Ja Toimenpidesuositukset.” 41. Työ- ja elinkeinoministeriö. </a><a href="https://www.google.com/url?q=http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/80849/TEMrap_41_2017_Suomen_tekoalyaika.pdf&amp;sa=D&amp;ust=1530645623650000">http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/80849/TEMrap_41_2017_Suomen_tekoalyaika.pdf</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/OqIhl&amp;sa=D&amp;ust=1530645623651000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/x8OZY&amp;sa=D&amp;ust=1530645623652000">Valtioneuvosto. 2015. “Ratkaisujen Suomi - Pääministeri Juha Sipilän Hallituksen Strateginen Ohjelma 29.5.2015.” </a><a href="https://www.google.com/url?q=http://valtioneuvosto.fi/documents/10184/1427398/Ratkaisujen%2BSuomi_FI_YHDISTETTY_netti.pdf&amp;sa=D&amp;ust=1530645623653000">http://valtioneuvosto.fi/documents/10184/1427398/Ratkaisujen+Suomi_FI_YHDISTETTY_netti.pdf</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/x8OZY&amp;sa=D&amp;ust=1530645623654000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/8B2R&amp;sa=D&amp;ust=1530645623655000">Viitanen, Jukka, Reijo Paajanen, Valto Loikkanen, and Aki Koivistoinen. 2017. “Digitaalisen Alustatalouden Tiekartasto.” Tekes. </a><a href="https://www.google.com/url?q=https://www.tekes.fi/globalassets/global/ohjelmat-ja-palvelut/kampanjat/alustatalous/alustatalouden_tiekartasto_web_x.pdf&amp;sa=D&amp;ust=1530645623656000">https://www.tekes.fi/globalassets/global/ohjelmat-ja-palvelut/kampanjat/alustatalous/alustatalouden_tiekartasto_web_x.pdf</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/8B2R&amp;sa=D&amp;ust=1530645623657000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/kvWKP&amp;sa=D&amp;ust=1530645623658000">World Economic Forum. 2013. “Unlocking the Value of Personal Data.” </a><a href="https://www.google.com/url?q=http://www.weforum.org/reports/unlocking-value-personal-data-collection-usage&amp;sa=D&amp;ust=1530645623659000">http://www.weforum.org/reports/unlocking-value-personal-data-collection-usage</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/kvWKP&amp;sa=D&amp;ust=1530645623660000">.</a></p>
+<p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/aabxF&amp;sa=D&amp;ust=1530645623661000">Ympäristöministeriö. 2014. “Sähköisen Asunto-Osakerekisterin Toimintamalli.” </a><a href="https://www.google.com/url?q=http://www.ym.fi/download/noname/%257B76F44244-DE60-4B65-95F2-634D6A857096%257D/99026&amp;sa=D&amp;ust=1530645623662000">http://www.ym.fi/download/noname/%7B76F44244-DE60-4B65-95F2-634D6A857096%7D/99026</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/aabxF&amp;sa=D&amp;ust=1530645623663000">.</a></p>
+<h1 id="avoimesti-lisensoitu-opas">Avoimesti lisensoitu opas</h1>
+<p><img src="https://lh3.googleusercontent.com/BBQR4gTVGLN0t04znJuAi0pn0ytjYXfrit7BoaN4AACasSHt7UZxg-JtL4Nh8voAWMZSrQP2ubfB3loVyJjh3IJKgczuJfQMN3q6QxTJIXZbx6PTqeU00KXL9cmZSiKw7TxCyAu7" alt=""></p>
+<p>Tämä selvitys on julkaistu uudelleenkäytön sallivalla Creative Commons Nimeä 4.0 lisenssillä. <a href="https://www.google.com/url?q=http://creativecommons.org/licenses/by/4.0/&amp;sa=D&amp;ust=1530645623665000">http://creativecommons.org/licenses/by/4.0</a></p>
+<p>Uudelleenkäytön yhteydessä on mainittava kirjoittajat Antti Poikola, Kai Kuikkaniemi, Ossi Kuittinen ja Aleksi Knuutila (Open Knowledge Finland) sekä julkaisija (Liikenne- ja viestintäministeriö).</p>
+<p>Alkuperäisen selvitystyön ja sen englanninkielisen tiivistelmän <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/uOrO%2BTu6J&amp;sa=D&amp;ust=1530645623666000">(Poikola, Kuikkaniemi, &amp; Honko, 2015; Poikola et al., 2014)</a>, sekä tämän päivitetyn suomenkielisen version (2017) on toteuttanut Open Knowledge Finland ry:n MyData-työryhmä. Alkuperäisen selvitystyön rahoitti liikenne- ja viestintäministeriö. Päivitystyön rahoitti TEKESin strateginen avaus Digital Health Revolution, jonka puitteissa työhön on osallistunut tutkijoita Aalto-yliopistosta, Tampereen teknillisestä yliopistosta ja Oulun yliopistosta.</p>
+<p>Ulkoasu: Kirmo Kivelä</p>
+<p>Toinen uudistettu painos.</p>
+<p>ISBN 978-952-243-553-8 : MyData - johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen Erillisjulkaisu (painotuote)</p>
+<p>ISBN 978-952-243-554-5 : MyData - johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen Erillisjulkaisu (verkkojulkaisu)</p>
+<p>Painopaikka Markprint</p>
+<p>Lahti 2018</p>
+<p><img src="https://lh4.googleusercontent.com/pwGhRBRlux3nUBiYVNl5UtQDJq0CyPPOfmfxn7C9ckEcpJt1pZkQ-T7K3HtGqFaa0YBnF0K_BOSpbEoKcbJjfOgJDjZVHA4p1futDQs1jEvmxSf6PSOw2DXtt5W3i8VY3JnCFE_D" alt=""></p>
+<hr>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref1">[1]</a> <a href="https://www.google.com/url?q=https://mydata.org/declaration&amp;sa=D&amp;ust=1530645623684000">https://mydata.org/declaration</a> Tämän selvityksen ensimmäisessä painoksessa (2014) MyData-periaatteet esitettiin hieman eri muodossa, mutta samat ajatukset sisältyvät myös kansainväliseen julkilausumaan.</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref2">[2]</a> Taltio ja RTECO hankkeet <a href="https://www.google.com/url?q=https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152&amp;sa=D&amp;ust=1530645623680000">https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref3">[3]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf&amp;sa=D&amp;ust=1530645623681000">http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref4">[4]</a> <a href="https://www.google.com/url?q=http://energy.gov/data/green-button&amp;sa=D&amp;ust=1530645623682000">http://energy.gov/data/green-button</a> ja <a href="https://www.google.com/url?q=http://www.healthit.gov/bluebutton&amp;sa=D&amp;ust=1530645623683000">http://www.healthit.gov/bluebutton</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref5">[5]</a> Unhosted <a href="https://unhosted.org">https://unhosted.org</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref6">[6]</a> <a href="https://cozy.io">https://cozy.io</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref7">[7]</a> <a href="https://www.google.com/url?q=http://www.biopankki.fi&amp;sa=D&amp;ust=1530645623677000">http://www.biopankki.fi</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref8">[8]</a> <a href="https://www.google.com/url?q=https://midata.coop&amp;sa=D&amp;ust=1530645623678000">https://midata.coop</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref9">[9]</a> Digitaalisen liiketoiminnan kasvuympäristön rakentaminen - <a href="https://www.google.com/url?q=https://www.lvm.fi/digitalisaatio&amp;sa=D&amp;ust=1530645623668000">https://www.lvm.fi/digitalisaatio</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref10">[10]</a> YTI Yhteisen tiedon hallinta -hanke - <a href="https://www.google.com/url?q=http://vm.fi/yhteinen-tiedon-hallinta&amp;sa=D&amp;ust=1530645623670000">http://vm.fi/yhteinen-tiedon-hallinta</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref11">[11]</a> Valtioneuvoston periaatepäätös: Datan hyödyntäminen liiketoiminnassa <a href="https://www.google.com/url?q=https://valtioneuvosto.fi/paatokset/paatos?decisionId%3D0900908f804c23c7&amp;sa=D&amp;ust=1530645623671000">https://valtioneuvosto.fi/paatokset/paatos?decisionId=0900908f804c23c7</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref12">[12]</a> <a href="https://www.google.com/url?q=https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa&amp;sa=D&amp;ust=1530645623672000">https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref13">[13]</a> Sitra ihmislähtöinen datatalous - <a href="https://www.google.com/url?q=https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous&amp;sa=D&amp;ust=1530645623673000">https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref14">[14]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/english&amp;sa=D&amp;ust=1530645623674000">http://mesinfos.fing.org/english</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref15">[15]</a> Tieto, Lohkoketju mahdollistaa täysin digitaalisen identiteetin uusille yrityksille (15.5.2018) -</p>
+<p><a href="https://www.google.com/url?q=https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille&amp;sa=D&amp;ust=1530645623676000">https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille</a></p>
+<p>Published by <a href="https://docs.google.com/" title="Learn more about Google Drive">Google Drive</a>-<a href="https://docs.google.com/abuse?id=e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV">Report Abuse</a>-Updated automatically every 5 minutes</p>
+
