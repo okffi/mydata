@@ -16,18 +16,98 @@
 <table>
 <thead>
 <tr>
-<th align="left"><strong>Kuva</strong></th>
-<th align="left"></th>
+<th align="left">____________________________</th>
+<th align="left">____________________________________________________________________________</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong><a href="#kuva01">Johdanto / Kuva 0.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva01.png" width="400px"></td>
+<td align="left"><strong><a href="#kuva01">Johdanto / Kuva 0.1</a></strong><img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva01.png" width="400px"></td>
 <td align="left">Termillä MyData viitataan ensinnäkin ilmiöön ja ajattelutavan muutokseen, jossa henkilötiedon hallintaa ja käsittelyä pyritään viemään nykyisestä organisaaatiokeskeisestä mallista ihmiskeskeiseksi. Toisaalta MyDatalla viitataan henkilötietoon resurssina, jota ihmiset voivat itse hyödyntää. Mikäli ihmisellä ei ole mahdollisuutta hyödyntää itse jonkun muun hänestä keräämää henkilötietoa, niin sitä ei voida kutsua MyDataksi.</td>
 </tr>
 <tr>
 <td align="left"><strong><a href="#kuva02">Johdanto / Kuva 0.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva02.png" width="400px"></td>
 <td align="left">MyData-ajattelu tuo datan hyödyntämisnäkökulman tasavertaisena yksityisyydensuojan rinnalle niin, että hyödyt maksimoidaan ja yksityisyydensuojan heikkeneminen minimoidaan. Tähän pyritään tarjoamalla ihmisille mahdollisuuksia hyödyntää itse omaa dataansa sekä keinoja hallita, kuinka dataa kerätään, jalostetaan, hyödynnetään ja jaetaan edelleen.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva11">Luku 1. / Kuva 1.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva11.png" width="400px"></td>
+<td align="left">MyData on henkilötiedon osajoukko. Kaikki MyData on henkilötietoa, mutta kaikki henkilötieto ei ole MyDataa. Oikeudet ja hallinnan taso, jotka ihmisillä on omiin tietoihinsa, voivat vaihdella eri tilanteissa. MyDatasta voidaan puhua silloin, kun ihmisillä on oikeus ja käytännön mahdollisuus saada omat tietonsa itselleen, käyttää niitä vapaasti ja siirtää halutessaan kolmansille osapuolille.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva12">Luku 1. / Kuva 1.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva12.png" width="400px"></td>
+<td align="left">EU:n tietosuoja-asetuksen (EU General Data Protection Regulation, GDPR) ja MyDatan tavoitteet ovat osin yhteneviä. MyData-käytännöillä pyritään siihen, että ihmisten oikeuksista tulee käytännössä helppoja ja hyödyllisiä ja että määräysten toteuttaminen on joustavaa ja helppoa organisaatioille.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva13">Luku 1. / Kuva 1.3</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva13.png" width="400px"></td>
+<td align="left">Tietosuoja-asetuksen 20. artikla tuo ihmisille uuden oikeuden ladata omia tietojaan joko itselleen tai siirtää suoraan palvelujen välillä. Tällä oikeudella pyritään varmistamaan, ettei datan keruusta tule palvelujen välistä kilpailua rajoittava tekijä, vaan että ihmisillä on mahdollisuus vapaasti valita kilpailevien palveluntarjoajien välillä ja siirtää myös tietonsa mukanaan, mikäli päättävät vaihtaa palvelua.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva14">Luku 1. / Kuva 1.4</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva14.png" width="400px"></td>
+<td align="left">Merkittävä seuraus MyData-periaatteiden toteuttamisesta on henkilötiedon arvoketjujen pilkkoutuminen ja tiedon hallinnan keskittyminen sen ihmisen ympärille, jonka tiedoista on kysymys. Tämä avaa mahdollisuuksia uusille toimijoille ja rikkoo perinteisiä sektoreiden ja toimialojen rajoja. Avoimissa arvoverkostoissa eri vaiheisiin voi syntyä erikoistuneita toimijoita.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva21">Luku 2. / Kuva 2.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva21.png" width="400px"></td>
+<td align="left">MyDatassa ei ole kyse yksittäisestä teknologiasta vaan kokonaisvaltaisesta viitekehyksestä, joka koostuu toisiaan täydentävistä ja tukevista kerroksista. Eri kerroksilla on kullakin itsenäinen arvo ja niitä kehitetään joka tapauksessa MyData -infrastruktuurista riippumatta.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva22">Luku 2. / Kuva 2.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva22.png" width="400px"></td>
+<td align="left">Nykykehitys on vienyt niin sanotun API-ekosysteemin suuntaan. Toisaalla taas on syntynyt alustoja, joissa yksittäinen toimija kerää ja harmonisoi dataa useasta lähteestä ja jakelee sitä eteenpäin. MyData-mallissa henkilötiedon hallinnan palveluja tarjoavat toimijat ovat keskenään kilpailevia, mutta muodostavat yhteentoimivan verkoston ja yhdessä tarjoavat infrastruktuurin henkilötiedon välittämiseen.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva23">Luku 2. / Kuva 2.3</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva23.png" width="400px"></td>
+<td align="left">Henkilötiedon jakamisen ekosysteemissä on neljä roolia: ihminen, datan lähde, dataa käyttävä palvelu sekä operaattori. Toimijat voivat samanaikaisesti olla monessa roolissa. Esimerkiksi yritykset ovat tyypillisesti sekä datan lähteitä että dataa hyödyntävien palvelujen tarjoajia. Muissa rooleissa olevat toimijat voivat lisäksi ottaa operaattorin roolin.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva24">Luku 2. / Kuva 2.4</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva24.png" width="400px"></td>
+<td align="left">Sekä ihmisillä, datan lähteillä että dataa hyödyntävillä palveluilla tulee olla tiedonvaihdannan verkostoon kytketty digitaalinen identiteetti, jotta tiedon välittäminen eri toimijoiden välillä on mahdollista. Digitaalisia identiteettejä hallinnoidaan MyData-tilien kautta. Tili on metaforana tuttu pankkitileistä, sähköpostitileistä ja asiakastileistä. MyData-tilit tarjoavat keskitetyn näkymän omiin tietoihin sekä siihen, kuka näitä tietoja tällä hetkellä käyttää.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva25">Luku 2. / Kuva 2.5</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva25.png" width="400px"></td>
+<td align="left">Operaattorimallissa ihmiset [1] voivat hallinnoida yksityisyysasetuksiaan, sopimussuhteitaan ja tiedon käyttölupia etänä MyData-operaattorikäytööliittymän [2] kautta. Tapa, jolla tieto käyttöluvista liikkuu verkostossa, on erillään itse datan siirrosta: kun lupa datan luovuttamiseen [3a] ja hyödyntämiseen [3b] on varmennettu, niin data voi virrata [4] datan lähteiden [5a] ja dataa käyttävien palvelujen [5b] välillä suoraan (ei operaattorin kautta).</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva26">Luku 2. / Kuva 2.6</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva26.png" width="400px"></td>
+<td align="left">Jotta palvelujen käyttäjien olisi helppo ymmärtää henkilötiedon jakamiseen liittyviä ehtoja, niiden pitäisi olla mahdollisimman selkeät ja rakenteeltaan yhtenäiset eri palveluissa. Jatkossa voisimme kehittää yhtenäisiä standardeja rakenteisessa muodossa julkaistaville käyttöehdoille. Vakiomuotoiset käyttöehdot voitaisiin visualisoida vaihtoehtoja kuvaavilla ikoneilla.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva31">Luku 3. / Kuva 3.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva31.png" width="400px"></td>
+<td align="left">Markkinat toimivat, jos datan lähteillä, dataa hyödyntävillä palveluilla, ihmisillä itsellään ja infrastruktuurin tarjoajilla (operaattorit) on kullakin pitkässä juoksussa omia kustannuksiaan suuremmat hyödyt. Mikäli jokin osapuoli ei ole mukana, ei data liiku eikä kukaan hyödy. Jos kannustimet saadaan kohdalleen ja ekosysteemi syntyy, niin verkostovaikutukset voivat kiihdyttää sen kasvua nopeastikin.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva32">Luku 3. / Kuva 3.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva32.png" width="400px"></td>
+<td align="left">Ihmisille MyData lupaa muun muassa parempaa käyttökokemusta digitaalisissa palveluissa. Samoja tietoja ei tarvitse syöttää ja päivittää moneen paikkaan, palvelut ovat automaattisempia ja yksilöidympiä jne. Tämä riippuu toteutuksien käytettävyydestä. Ei ole vaikea kuvitella päinvastaista skenaariota, missä MyData ei toisi helppoutta, vaan vaatisi ihmisiltä nykyistä enemmän ajankäyttöä ja viitseliäisyyttä oman datansa hallinnoinnissa.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva33">Luku 3. / Kuva 3.3</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva33.png" width="400px"></td>
+<td align="left">Ihmisen itse hallitsema profiilitieto mahdollistaisi tiedon koostamisen useista lähteistä ja saman profiilin hyödyntämisen eri palveluissa. Esimerkiksi liikkumisprofiili voisi olla jaettu niin sanottujen liikkuminen palveluna (Mobility as a Service, MaaS) tarjoajien kanssa ja terveysprofiili helpottaisi vuorovaikutusta erilaisten terveyden ja hyvinvoinnin palveluntarjoajien kanssa. Muita mahdollisia omia profiileja olisivat esimerkiksi kontaktiprofiili ja yksityisyysasetusten profiili.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva34">Luku 3. / Kuva 3.4</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva34.png" width="400px"></td>
+<td align="left">Esimerkiksi tulevaisuuden rekrytointipalvelut ja työnantajien henkilöstöhallinnon palvelut voisivat toimia ihmisten MyDatana välittämien osaamisprofiilien avulla. Osaamisprofiilia on luontevaa ajatella uudenlaisena digitaalisena CV:nä, jossa oma osaaminen on paitsi kuvattu koneluettavassa muodossa niin myös opinto- ja tutkintotiedot sekä muut pätevyydet olisi mahdollista tarvittaessa varmistaa sähköisesti.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva35">Luku 3. / Kuva 3.5</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva35.png" width="400px"></td>
+<td align="left">Käyttäjän suostumuksella yritykset voivat saada käyttäjästä rikasta profiilitietoa, jonka pohjalta ja vastineeksi yritys pystyy tuottamaan käyttäjälle parempaa palvelua ja palveluun liittyvää viestintää.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva36">Luku 3. / Kuva 3.6</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva36.png" width="400px"></td>
+<td align="left">Yhteiskunnallisesti merkittävä tutkimus edellyttää usein tietojen keräämistä suuresta joukosta ihmisiä ja usein myös monesta tietolähteestä. Suomen lainsäädäntö on verrattain salliva sen suhteen, että julkisia rekistereitä on saatavilla tutkimuskäyttöön. Keinot tiedon hankkimiseen ovat kuitenkin tarkkaan säädeltyjä. Tulevaisuudessa tutkimus ja muu yhteisten ongelmien ratkaiseminen vaatii uudenlaisia keinoja tiedonkeruuseen. Esimerkissä ihmiset ovat aktiivisia biopankkinäytteen luovuttajia ja henkilökohtainen terveystili toimii tiedon hallinnan alustana ja mahdollistaa analysoidun tiedon palauttamisen luovuttajalle.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva37">Luku 3. / Kuva 3.7</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva37.png" width="400px"></td>
+<td align="left">Perinteisesti data on organisaatioiden taustajärjestelmissä, jonka vuoksi asiakkaan ja asiakaspalvelijan näkymät tietoihin poikkeavat toisistaan. Tiedon määrän ja näkyvyyden epäsymmetrisyyden takia asiakkaan voi olla hankala ymmärtää häntä koskevia päätöksiä ja niiden perusteita (esim. pankin lainapäätös). MyData-lähestymisessä data on osa henkilön ja organisaation välistä vuorovaikutusta. Ihmisellä on yhtäläinen pääsy häntä koskeviin tietoihin kuin organisaatiollakin.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva41">Luku 4. / Kuva 4.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva41.png" width="400px"></td>
+<td align="left">Helsingissä järjestetyn MyData-konferenssin ja sittemmin kansainvälisen MyData-verkoston slogan “make it happen make it right” (toteutetaan se ja tehdään se oikein) kuvaa kehityksen kahta puolta. Yhtäältä pitää huolehtia, että kehityssykli kohti todellista ja toimivaa MyDataa pysyy vauhdissa eikä kuihdu kasaan. Toisaalta pitää ymmärtää, että kehitys voi eri toimijoiden ja toiminnan tuloksena muuttaa suuntaa ja pahimmillaan lukittua joltain osin ei toivottuun tilaan.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva51">Luku 5. / Kuva 5.1</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva51.png" width="400px"></td>
+<td align="left">Vaikka erilaiset MyData-toteutukset pyrkisivätkin noudattamaan samoja korkean tason periaatteita ihmiskeskeisestä henkilötiedon hallinnasta, niin toteutusten välistä yhteentoimivuutta ei synny ilman erityistä panostusta. Kevyt ja mahdollisimman paljon käytännön toteutuksia tukeva malli yhteentoimivuuden kehittämiseen on eri MyData-toteutusten yhteinen suosituksia antava toimielin. Toimielin antaisi teknisiä suosituksia, joita MyData-toteutuksia tekevät tahot asteittain sitoutuvat noudattamaan, ja suosituksia tarkennettaisiin saatujen käytännön kokemusten myötä.</td>
+</tr>
+<tr>
+<td align="left"><strong><a href="#kuva52">Luku 5. / Kuva 5.2</a></strong> <img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kuva52.png" width="400px"></td>
+<td align="left">Tekesin strateginen avaus Digital Health Revolution (2014-2018) oli edelläkävijä ihmiskeskeisen tiedonhallinnan tutkimuksessa. Hanke edesauttoi MyDatan integroitumista valtakunnantason toimenpiteisiin ja oli osaltaan tukemassa kehitystä, jonka ansiosta Suomi tunnistetaan kansainvälisissä verkostoissa MyDatan ja yksilökeskeisen datan hallinnan edelläkävijänä. Hanke on tukenut myös tämän suomenkielisen MyData-selvityksen päivitystyötä.</td>
 </tr>
 </tbody>
 </table><p><a></a></p>
