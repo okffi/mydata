@@ -1138,21 +1138,82 @@ ratkaisut, jotka palvelevat muutakin kuin henkilötiedon jakamista.</p>
 <p>Toteutusvaiheeseen edenneiden hankkeiden lisäksi MyData on huomioitu vahvasti strategisella tasolla valtionhallinnossa ja suurissa kaupungeissa. Työ- ja elinkeinoministeriön tekoälyohjelman julkaisussa <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/FEBMW&amp;sa=D&amp;ust=1530645623604000">(TEM 2017)</a> esitetään omadatan vapauttamista kansalaisten käyttöön sekä dataoperaattoripilotointia keinoina suomalaisten datavarantojen joustavampaa hyödyntämiseen. Tekesin julkaisemassa digitaalisen alustatalouden tiekartastossa <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/VBYPW&amp;sa=D&amp;ust=1530645623604000">(Viitanen et al. 2017)</a> ehdotetaan, että käynnissä oleva MyData-yhteistyö erityisesti julkisella sektorilla hankkeistettaisiin yhdeksi, yhteiseksi MyData-palvelujen kehityshankkeeksi. Päämääränä olisi kehittää suomalainen alusta-arkkitehtuuri ja sen päälle sovellettava liiketoimintakonsepti. Myös Valtioneuvoston kanslia on julkaissut MyData muutosvoimana -vaikutusarvioinnin <a href="https://www.google.com/url?q=https://paperpile.com/c/8xAovu/x07ua&amp;sa=D&amp;ust=1530645623605000">(Knuutila et al. 2017)</a> ja Helsingin kaupunki on sitoutunut noudattamaan MyData-periaatteita palvelujensa uudistamisessa.</p>
 <p>Nämä ovat lupaavia askeleita kohti ihmiskeskeisen tiedonhallinnan toteutumista, mutta kehitys on kuitenkin vielä varhaisessa vaiheessa. Tarvitsemme edelleen tutkimusta ja tuotekehitystä, toimintatapojen ja asenteiden uudistamista sekä ennen kaikkea tiivistä vuorovaikutusta eri tahojen ja sektoreiden välillä. Ratkaisevia ovat innokkaat ihmiset ja organisaatiot, jotka ovat valmiita kokeilemaan ja oppimaan kokeiluista. Nyt on syytä myös katsoa maailmalle ja pyrkiä houkuttelemaan esimerkiksi henkilödatan välittämiseen keskittyneitä kansainvälisiä toimijoita Suomeen, jotta voimme kiihdyttää omaa oppimistamme.</p>
 <p><em>Taulukko 5.1: Nostoja MyData-kehityksestä Suomessa vuosilta 2014-2018.</em></p>
-<p><a></a></p>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>2014</strong></td>
+<td align="left"><strong>Yhteisen näkemyksen muodostuminen:</strong> Kehitysvisio hajautetusta, mutta yhteentoimivasta henkilötiedon hallinnan infrastruktuurista kiteytyi useiden yritysten, julkishallinnon toimijoiden, tutkijoiden ja kansalaisaktiivien yhteistyönä, ja tuloksena syntyi MyData-selvityksen ensimmäinen versio.</td>
+</tr>
+<tr>
+<td align="left"><strong>2015</strong></td>
+<td align="left"><strong>Kansallinen sitoutuminen ja kansainvälisten yhteyksien luominen:</strong> Hallitusohjelman linjaus toi Suomessa selkänojan jatkotyölle, joka konkretisoitui MyData Allianssin perustamiseen yhteistoimintamallin kehittämisen foorumiksi. MyData-selvityksen englanninkielisen version julkaiseminen toi kansainvälisiä yhteyksiä ja kytki suomalaisen MyData-kehitystyön kansainväliseen toimintaan.</td>
+</tr>
+<tr>
+<td align="left"><strong>2016</strong></td>
+<td align="left"><strong>Kansainvälinen profiloituminen:</strong>  Julkishallinnon kärkihankkeet ja ensimmäinen kansainvälinen MyData-konferenssi</td>
+</tr>
+<tr>
+<td align="left"><strong>2017</strong></td>
+<td align="left"><strong>Toimintamallin leviäminen ja periaatteiden kirkastuminen:</strong> Kansainvälisessä yhteistyössä kirjoitetaan MyData julistus (<a href="http://mydata.org/declaration">mydata.org/declaration</a>), joka kirkastaa yhteiset ihmiskeskeisen henkilötiedon hallinnan periaatteet. Suomessa MyData-toimintamalli huomioidaan strategisella tasolla esimerkiksi valtionhallinnossa, suurissa kaupungeissa ja joissain yrityksissä. (Valtioneuvoston kanslian ja Helsingin kaupungin omat MyData-esiselvitykset, Alustatalouden tiekartasto ja Tekoälystrategia)</td>
+</tr>
+<tr>
+<td align="left"><strong>2018</strong></td>
+<td align="left"><strong>Käytännön toteutukset pilottihankkeissa:</strong> MyData-mallia demonstroidaan yksittäisissä kaupallisissa ja julkishallinnon piloteissa (YTI MyData-pilotit ja TrustNet-hanke). Pilottihankkeissa on mukana myös kansainvälisiä toimijoita.</td>
+</tr>
+</tbody>
+</table><p><a></a></p>
 <h2 id="mydata-visio-seuraaville-vuosille">5.2 MyData-visio seuraaville vuosille</h2>
 <p>MyData Allianssin vuoden 2017 viimeisessä kokoontumisessa käynnistettiin visiokeskustelu, jolla pyrittiin hahmottamaan suuntaa seuraaville vuosille. Yhteistä tulevaisuudenkuvaa on sen jälkeen työstetty muun muassa yritysten, Sitran IHAN®-avainalueen ja valtionhallinnon toimijoiden kanssa. Avoimissa verkostoissa tapahtuva visiotyö ei oikeastaan tule koskaan valmiiksi, vaan eri toimijat tulkitsevat ja muokkaavat tulevaisuuden näkemystään jatkuvasti yhdessä ja erikseen. Alla oleva on yksi kiteytys siitä, miten Suomen MyData-kehityksessä aktiiviset toimijat keskustelevat tulevaisuudesta.</p>
+<blockquote>
+<p>MyData-kehittämisen lähtökohtina ovat EU:n arvopohja, avoin kilpailu<br>
+ja tiukka tietosuoja. MyData-infrastruktuuri luo toimintaedellytyksiä<br>
+ihmislähtöiselle datataloudelle, jossa ihmisillä ja yrityksillä on<br>
+oikeudet ja käytännön mahdollisuudet itseään koskevien tietojensa<br>
+hallintaan, jakamiseen ja uusiokäyttöön. Tietoja voidaan hallitusti ja<br>
+joustavasti yhdistää organisaatiorajojen yli ja siten olennaisesti<br>
+parantaa palveluja ja tuottavuutta sekä edistää uudenlaisten<br>
+liiketoimintamallien syntymistä. Tavoitteena ovat saumattomat arkea<br>
+helpottavat ja kustannustehokkaat digitaaliset palvelut, jotka<br>
+toteutetaan läpinäkyvästi ja turvallisesti niin, että ihminen voi itse<br>
+hallita omaa digitaalista maailmaansa.</p>
+<p><strong>Sujuvat palvelut:</strong> Suomessa noudatetaan laajasti MyData-periaatteita henkilötiedon käsittelyssä digitaalisissa<br>
+palveluissa. Ihmisten päivittäinen elämä on helpottunut uusien<br>
+MyData-periaatteita noudattavien palvelujen yleistyttyä.<br>
+Henkilötietojen käytön läpinäkyvyys ja turvallinen henkilötiedon<br>
+jakaminen ovat luonnollisia toimintoja käyttäjille.</p>
+<p><strong>Kokeilumarkkina suomalaisille ja kansainvälisille toimijoille:</strong> Toimiva ja joustava toimintaympäristö mm. julkishallinnon ja yritysten<br>
+yhteistyön, tutkimustoiminnan, investointien, rahoituksen ja<br>
+paikallisen sääntelyn osalta edesauttaa uusien henkilötietoon<br>
+pohjautuvien tuotteiden, palvelujen ja ketterien sovellusten syntyä.<br>
+Tämä on houkutellut lukuisia kansainvälisiä yrityksiä ja muita<br>
+toimijoita sijoittumaan Suomeen ja liittymään kumppaniksi suomalaisten<br>
+organisaatioiden kanssa toteutettaviin MyData-kehitysprojekteihin.</p>
+<p><strong>Yhteistoimintamalli:</strong> Toimijoiden ja projektien välillä on tiivistä paikallista vuorovaikutusta, joka kerryttää yhteistä jaettua osaamista<br>
+Suomeen ja samalla kiihdyttää MyDatan kehitystä kansainvälisesti,<br>
+koska mukana on myös kansainvälisiä toimijoita. Vahva osaaminen<br>
+tuottaa kansainvälistä liiketoimintaa suomalaisyrityksille ja<br>
+suomalaisasiantuntijoita kutsutaan neuvonantajiksi kansainvälisiin<br>
+hankkeisiin.</p>
+</blockquote>
 <p><a></a></p>
 <h3 id="toimintasuunnat-vision-toteuttamiseksi">5.2.1 Toimintasuunnat vision toteuttamiseksi</h3>
 <p>Vision toteuttamisen kannalta tärkeitä tunnistettuja toimintasuuntia ovat operaattoritoiminnan kiihdyttäminen, datan jakamisen liiketoimintaverkostojen käynnistäminen, kansainvälinen laajentuminen ja standardointityö. Näitä eri toimintasuuntia kannattaa edistää samanaikaisesti, ne ruokkivat toisiaan, mutta eivät ole toisistaan riippuvaisia.</p>
-<p>Operaattoritoiminta</p>
+<p><strong>Operaattoritoiminta</strong></p>
 <p>Keskeinen pitkän tähtäimen tavoite suomalaisessa MyData-tekemisessä on MyData-palveluinfrastruktuurin synnyttäminen. MyData-operaattoritoiminta ei ole vielä Suomessa käynnistynyt, eikä täällä toimi kovin monia sellaisia yrityksiä, jotka olisivat erikoistuneet toteuttamaan henkilötiedon välittämisen infrastruktuuripalveluja (eng. Personal Information Management Services PIMS). Tämä on vaikuttanut toimintaan toisaalta niin, että mikään yritys ei ole Suomessa dominoinut MyData-kehitystä voimakkaasti ja siten täällä on voitu keskittyä enemmän verkostomaisten ja yhteentoimivuutta korostavien ratkaisujen edistämiseen. Toisaalta MyData-operaattoritoimijat olisivat luonnollisesti veturiyrityksiä, jotka omista liiketoiminnallisista intresseistään johtuen pyrkisivät aktiivisesti vahdittamaan käytännön toimintaan siirtymistä. Tällaisten veturiyritysten vähäinen määrä saattaa hidastaa suomalaisten MyData-toteutusten syntymistä. Esimerkiksi Ranskalainen monivuotinen MyData-hanke MesInfos on rakentunut vahvasti infrastruktuuria tarjoavan Cozy Cloud -yrityksen ympärille ja siellä on Suomeen verrattuna hieman nopeammin siirrytty käytännön kokeiluihin, mutta toisaalta painotus hajautettuihin malleihin ja yhteentoimivuuteen on siellä ollut vähäisempää.</p>
-<p>Liiketoimintaverkostot</p>
+<p><strong>Liiketoimintaverkostot</strong></p>
 <p>Käytönnöllinen kehitysaskel kohti laajempaa yhteistoimintamallia on käynnistää pienempiä liiketoimintaverkostoja, jotka perustuvat hajautettujen identiteettien ja henkilötiedon jakamisen teknologioihin. Ensimmäiset suomalaiset kokeilut yritysverkostoista on jo lanseerattu. Esimerkiksi Asiakastieto, Nordea, OP ja Tieto ovat yhdessä viranomaisten kanssa kehittäneet lohkoketjuteknologiaan perustuvan liiketoimintaverkoston, jonka avulla osakeyhtiön voi perustaa täysin digitaalisesti. Seuraavaksi on vuorossa laajemmat kokeilut uusilla alueilla.</p>
 <p>Lohkoketjuihin perustuvat hajautetut identiteetti- ja luvitusratkaisut mahdollistavat datan jakamista sekä yritysten ja organisaatioiden välistä yhteistoimintaa uusilla tavoin. Aiemmin yhteiskäyttöisen tiedon luomiseen ja jakamiseen on tarvittu keskitetty rekisteri ja sen ylläpidosta vastaava organisaatio. Hajautetut teknologiat mahdollistavat tavoitteellisten liiketoimintaverkostojen perustamisen joustavammin ilman keskitettyä rekisteriä ja hallinnointiorganisaatiota. Tällaiset hajautetut yritysverkostot voivat kehittyä ja kasvaa nopeammin ja ne sallivat aiempaa suurempia vapauksia verkostojen liiketoimintamalleihin.</p>
-<p>Kansainvälinen laajentuminen</p>
+<p><strong>Kansainvälinen laajentuminen</strong></p>
 <p>Kansainvälisten tapaamisten ja MyData-konferenssien ympärille on muodostunut kasvava globaali yhteisö, jolla on paikallistoimintaa jo yli 20:ssä paikallisessa MyData-hubissa (<a href="https://www.google.com/url?q=https://mydata.org&amp;sa=D&amp;ust=1530645623613000">mydata.org</a>). Euroopan ulkopuolella hubeja on mm. Japanissa, Brasiliassa ja Pohjois-Amerikassa. Suurin osa hubeista on toistaiseksi vielä pieniä ja vapaamuotoisia paikallisyhteisöjä, mutta esimerkiksi Hollannissa, Ranskassa ja Tanskassa toiminta on tavoitteellista ja säännöllistä ja mukana on paikallisia yrityksiä vastaavasti kuin suomalaisessa MyData-allianssissa. Kansainvälinen verkoston tavoitteena on perustaa MyDatan edistämiseen ja yhteistoiminnan rakenteita kehittämään MyData Foundation, jonka kotipaikaksi on tulossa Suomi.</p>
 <p>Suomella on hyvä mahdollisuus asemoitua kansainväliseksi ajatusjohtajaksi henkilötiedon hallinnan ja ihmiskeskeisen datatalouden alueilla. Tämä edellyttää aktiivista verkostoitumista ja kansainvälistymistä esimerkiksi EU-tason yhteistyöhankkeissa ja kansainvälisillä standardointi- ja teknologiafoorumeilla. Esimerkiksi Sitran IHAN®-hankkeessa on otettu lähtökohdaksi EU:n alue ja käynnistetään standardointityö CEN-CENELEC:ssä.</p>
-<p>Standardien valinta, käyttöönotto ja kehittäminen</p>
+<p><strong>Standardien valinta, käyttöönotto ja kehittäminen</strong></p>
 <p>Suomeen on syntynyt ja ja syntyy jatkossakin erilaisia käytännön toteutuksia, jotka pyrkivät noudattamaan MyData-periaatteita. Nämä voivat olla yksittäisten yritysten tai organisaatioiden omia projekteja, laajempia toimialakohtaisia liiketoimintaverkostoja, julkishallinnon hankkeita, tutkimusprojekteja tai näiden yhdistelmiä. Eri toimijoiden toteutukset on rahoitettu ja organisoitu eri tavoin. Vaikka kaikki pyrkisivätkin noudattamaan samoja korkean tason periaatteita ihmiskeskeisestä henkilötiedon hallinnasta, niin toteutusten välistä yhteentoimivuutta ei synny ilman erityistä panostusta. Toisaalta taas yhteentoimivuuteen keskittyminen on työlästä ja saattaa eri MyData-toteutuksien tekijöiden näkökulmasta näyttäytyä ylimääräisenä tekemisenä.</p>
 <p>Kevyt ja mahdollisimman paljon käytännön toteutuksia tukeva malli yhteentoimivuuden kehittämiseen on eri MyData-toteutusten yhteinen suosituksia antava toimielin. Toimielin antaisi teknisiä suosituksia, joita MyData-toteutuksia tekevät tahot asteittain sitoutuvat noudattamaan, ja suosituksia tarkennettaisiin saatujen käytännön kokemusten myötä. Toteuttajilla on kuitenkin osin samoja teknologiavalintoihin liittyviä haasteita ratkottavanaan ja kaikki hyötyisivät siitä, jos eri aihepiireistä olisi laadittu selkeitä perusteltuja suosituksia, joihin voisi nojautua.</p>
 <p><a></a><br>
@@ -1223,6 +1284,23 @@ Personalized Health -ohjelman.</p>
 <a href="https://www.google.com/url?q=http://www.digitalhealthrevolution.fi&amp;sa=D&amp;ust=1530645623621000">digitalhealthrevolution.fi</a></em></p>
 </blockquote>
 <hr>
+<h1 id="alaviitteet">Alaviitteet</h1>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref1">[1]</a> <a href="https://www.google.com/url?q=https://mydata.org/declaration&amp;sa=D&amp;ust=1530645623684000">https://mydata.org/declaration</a> Tämän selvityksen ensimmäisessä painoksessa (2014) MyData-periaatteet esitettiin hieman eri muodossa, mutta samat ajatukset sisältyvät myös kansainväliseen julkilausumaan.</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref2">[2]</a> Taltio ja RTECO hankkeet <a href="https://www.google.com/url?q=https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152&amp;sa=D&amp;ust=1530645623680000">https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref3">[3]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf&amp;sa=D&amp;ust=1530645623681000">http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref4">[4]</a> <a href="https://www.google.com/url?q=http://energy.gov/data/green-button&amp;sa=D&amp;ust=1530645623682000">http://energy.gov/data/green-button</a> ja <a href="https://www.google.com/url?q=http://www.healthit.gov/bluebutton&amp;sa=D&amp;ust=1530645623683000">http://www.healthit.gov/bluebutton</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref5">[5]</a> Unhosted <a href="https://unhosted.org">https://unhosted.org</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref6">[6]</a> <a href="https://cozy.io">https://cozy.io</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref7">[7]</a> <a href="https://www.google.com/url?q=http://www.biopankki.fi&amp;sa=D&amp;ust=1530645623677000">http://www.biopankki.fi</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref8">[8]</a> <a href="https://www.google.com/url?q=https://midata.coop&amp;sa=D&amp;ust=1530645623678000">https://midata.coop</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref9">[9]</a> Digitaalisen liiketoiminnan kasvuympäristön rakentaminen - <a href="https://www.google.com/url?q=https://www.lvm.fi/digitalisaatio&amp;sa=D&amp;ust=1530645623668000">https://www.lvm.fi/digitalisaatio</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref10">[10]</a> YTI Yhteisen tiedon hallinta -hanke - <a href="https://www.google.com/url?q=http://vm.fi/yhteinen-tiedon-hallinta&amp;sa=D&amp;ust=1530645623670000">http://vm.fi/yhteinen-tiedon-hallinta</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref11">[11]</a> Valtioneuvoston periaatepäätös: Datan hyödyntäminen liiketoiminnassa <a href="https://www.google.com/url?q=https://valtioneuvosto.fi/paatokset/paatos?decisionId%3D0900908f804c23c7&amp;sa=D&amp;ust=1530645623671000">https://valtioneuvosto.fi/paatokset/paatos?decisionId=0900908f804c23c7</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref12">[12]</a> <a href="https://www.google.com/url?q=https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa&amp;sa=D&amp;ust=1530645623672000">https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref13">[13]</a> Sitra ihmislähtöinen datatalous - <a href="https://www.google.com/url?q=https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous&amp;sa=D&amp;ust=1530645623673000">https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref14">[14]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/english&amp;sa=D&amp;ust=1530645623674000">http://mesinfos.fing.org/english</a></p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref15">[15]</a> Tieto, Lohkoketju mahdollistaa täysin digitaalisen identiteetin uusille yrityksille (15.5.2018) -<br>
+<a href="https://www.google.com/url?q=https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille&amp;sa=D&amp;ust=1530645623676000">https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille</a></p>
 <h1 id="lähteet">Lähteet</h1>
 <p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tycDk&amp;sa=D&amp;ust=1530645623622000">Antikainen, Janne, Jarmo Eskelinen, Marc de Vries, Heli Koski, Tommi Niemi, Mika Pajarinen, and Pyykkönen Sinikukka. 2016. “Massadatasta Liiketoimintaa Ja Tehokkaita Julkisia Palveluja.” </a><a href="https://www.google.com/url?q=http://tietokayttoon.fi/julkaisu?pubid%3D10701&amp;sa=D&amp;ust=1530645623622000">http://tietokayttoon.fi/julkaisu?pubid=10701</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/tycDk&amp;sa=D&amp;ust=1530645623623000">.</a></p>
 <p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1WJ33&amp;sa=D&amp;ust=1530645623623000">EU. 2016. “EU:n Tietosuoja-Asetus.” 2016/679. </a><a href="https://www.google.com/url?q=https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri%3DCELEX:32016R0679%26from%3DFI&amp;sa=D&amp;ust=1530645623624000">https://eur-lex.europa.eu/legal-content/FI/TXT/HTML/?uri=CELEX:32016R0679</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/1WJ33&amp;sa=D&amp;ust=1530645623624000">.</a></p>
@@ -1243,34 +1321,16 @@ Personalized Health -ohjelman.</p>
 <p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/8B2R&amp;sa=D&amp;ust=1530645623655000">Viitanen, Jukka, Reijo Paajanen, Valto Loikkanen, and Aki Koivistoinen. 2017. “Digitaalisen Alustatalouden Tiekartasto.” Tekes. </a><a href="https://www.google.com/url?q=https://www.tekes.fi/globalassets/global/ohjelmat-ja-palvelut/kampanjat/alustatalous/alustatalouden_tiekartasto_web_x.pdf&amp;sa=D&amp;ust=1530645623656000">https://www.tekes.fi/globalassets/global/ohjelmat-ja-palvelut/kampanjat/alustatalous/alustatalouden_tiekartasto_web_x.pdf</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/8B2R&amp;sa=D&amp;ust=1530645623657000">.</a></p>
 <p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/kvWKP&amp;sa=D&amp;ust=1530645623658000">World Economic Forum. 2013. “Unlocking the Value of Personal Data.” </a><a href="https://www.google.com/url?q=http://www.weforum.org/reports/unlocking-value-personal-data-collection-usage&amp;sa=D&amp;ust=1530645623659000">http://www.weforum.org/reports/unlocking-value-personal-data-collection-usage</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/kvWKP&amp;sa=D&amp;ust=1530645623660000">.</a></p>
 <p><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/aabxF&amp;sa=D&amp;ust=1530645623661000">Ympäristöministeriö. 2014. “Sähköisen Asunto-Osakerekisterin Toimintamalli.” </a><a href="https://www.google.com/url?q=http://www.ym.fi/download/noname/%257B76F44244-DE60-4B65-95F2-634D6A857096%257D/99026&amp;sa=D&amp;ust=1530645623662000">http://www.ym.fi/download/noname/%7B76F44244-DE60-4B65-95F2-634D6A857096%7D/99026</a><a href="https://www.google.com/url?q=http://paperpile.com/b/t6t6OS/aabxF&amp;sa=D&amp;ust=1530645623663000">.</a></p>
+<p><img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kansi_taka.png" alt=""></p>
 <h1 id="avoimesti-lisensoitu-opas">Avoimesti lisensoitu opas</h1>
 <p><img src="https://lh3.googleusercontent.com/BBQR4gTVGLN0t04znJuAi0pn0ytjYXfrit7BoaN4AACasSHt7UZxg-JtL4Nh8voAWMZSrQP2ubfB3loVyJjh3IJKgczuJfQMN3q6QxTJIXZbx6PTqeU00KXL9cmZSiKw7TxCyAu7" alt=""></p>
 <p>Tämä selvitys on julkaistu uudelleenkäytön sallivalla Creative Commons Nimeä 4.0 lisenssillä. <a href="https://www.google.com/url?q=http://creativecommons.org/licenses/by/4.0/&amp;sa=D&amp;ust=1530645623665000">http://creativecommons.org/licenses/by/4.0</a></p>
-<p>Uudelleenkäytön yhteydessä on mainittava kirjoittajat Antti Poikola, Kai Kuikkaniemi, Ossi Kuittinen ja Aleksi Knuutila (Open Knowledge Finland) sekä julkaisija (Liikenne- ja viestintäministeriö).</p>
+<p>Uudelleenkäytön yhteydessä on mainittava kirjoittajat Antti Poikola, Kai Kuikkaniemi, Ossi Kuittinen, Harri Honko ja Aleksi Knuutila (Open Knowledge Finland) sekä julkaisija (Liikenne- ja viestintäministeriö).</p>
 <p>Alkuperäisen selvitystyön ja sen englanninkielisen tiivistelmän <a href="https://www.google.com/url?q=https://paperpile.com/c/B6Iw3l/uOrO%2BTu6J&amp;sa=D&amp;ust=1530645623666000">(Poikola, Kuikkaniemi, &amp; Honko, 2015; Poikola et al., 2014)</a>, sekä tämän päivitetyn suomenkielisen version (2017) on toteuttanut Open Knowledge Finland ry:n MyData-työryhmä. Alkuperäisen selvitystyön rahoitti liikenne- ja viestintäministeriö. Päivitystyön rahoitti TEKESin strateginen avaus Digital Health Revolution, jonka puitteissa työhön on osallistunut tutkijoita Aalto-yliopistosta, Tampereen teknillisestä yliopistosta ja Oulun yliopistosta.</p>
 <p>Ulkoasu: Kirmo Kivelä</p>
 <p>Toinen uudistettu painos.</p>
 <p>ISBN 978-952-243-553-8 : MyData - johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen Erillisjulkaisu (painotuote)</p>
 <p>ISBN 978-952-243-554-5 : MyData - johdatus ihmiskeskeiseen henkilötiedon hyödyntämiseen Erillisjulkaisu (verkkojulkaisu)</p>
-<p>Painopaikka Markprint</p>
-<p>Lahti 2018</p>
-<p><img src="https://github.com/okffi/mydata/raw/gh-pages/fi_2018/images/MyData-kansi_taka.png" alt=""></p>
-<hr>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref1">[1]</a> <a href="https://www.google.com/url?q=https://mydata.org/declaration&amp;sa=D&amp;ust=1530645623684000">https://mydata.org/declaration</a> Tämän selvityksen ensimmäisessä painoksessa (2014) MyData-periaatteet esitettiin hieman eri muodossa, mutta samat ajatukset sisältyvät myös kansainväliseen julkilausumaan.</p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref2">[2]</a> Taltio ja RTECO hankkeet <a href="https://www.google.com/url?q=https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152&amp;sa=D&amp;ust=1530645623680000">https://www.lvm.fi/-/talousdatasta-yhteen-toimivia-ja-parempia-digitaalisia-palveluja-956152</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref3">[3]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf&amp;sa=D&amp;ust=1530645623681000">http://mesinfos.fing.org/wp-content/uploads/2018/03/PrezDataccess_EN_V1.21.pdf</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref4">[4]</a> <a href="https://www.google.com/url?q=http://energy.gov/data/green-button&amp;sa=D&amp;ust=1530645623682000">http://energy.gov/data/green-button</a> ja <a href="https://www.google.com/url?q=http://www.healthit.gov/bluebutton&amp;sa=D&amp;ust=1530645623683000">http://www.healthit.gov/bluebutton</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref5">[5]</a> Unhosted <a href="https://unhosted.org">https://unhosted.org</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref6">[6]</a> <a href="https://cozy.io">https://cozy.io</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref7">[7]</a> <a href="https://www.google.com/url?q=http://www.biopankki.fi&amp;sa=D&amp;ust=1530645623677000">http://www.biopankki.fi</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref8">[8]</a> <a href="https://www.google.com/url?q=https://midata.coop&amp;sa=D&amp;ust=1530645623678000">https://midata.coop</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref9">[9]</a> Digitaalisen liiketoiminnan kasvuympäristön rakentaminen - <a href="https://www.google.com/url?q=https://www.lvm.fi/digitalisaatio&amp;sa=D&amp;ust=1530645623668000">https://www.lvm.fi/digitalisaatio</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref10">[10]</a> YTI Yhteisen tiedon hallinta -hanke - <a href="https://www.google.com/url?q=http://vm.fi/yhteinen-tiedon-hallinta&amp;sa=D&amp;ust=1530645623670000">http://vm.fi/yhteinen-tiedon-hallinta</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref11">[11]</a> Valtioneuvoston periaatepäätös: Datan hyödyntäminen liiketoiminnassa <a href="https://www.google.com/url?q=https://valtioneuvosto.fi/paatokset/paatos?decisionId%3D0900908f804c23c7&amp;sa=D&amp;ust=1530645623671000">https://valtioneuvosto.fi/paatokset/paatos?decisionId=0900908f804c23c7</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref12">[12]</a> <a href="https://www.google.com/url?q=https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa&amp;sa=D&amp;ust=1530645623672000">https://www.hel.fi/uutiset/fi/kaupunginkanslia/helsinki-sitoutuu-edistamaan-mydataa</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref13">[13]</a> Sitra ihmislähtöinen datatalous - <a href="https://www.google.com/url?q=https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous&amp;sa=D&amp;ust=1530645623673000">https://www.sitra.fi/aiheet/ihmislahtoinen-datatalous</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref14">[14]</a> <a href="https://www.google.com/url?q=http://mesinfos.fing.org/english&amp;sa=D&amp;ust=1530645623674000">http://mesinfos.fing.org/english</a></p>
-<p><a href="https://docs.google.com/document/d/e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV/pub#ftnt_ref15">[15]</a> Tieto, Lohkoketju mahdollistaa täysin digitaalisen identiteetin uusille yrityksille (15.5.2018) -</p>
-<p><a href="https://www.google.com/url?q=https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille&amp;sa=D&amp;ust=1530645623676000">https://www.tieto.fi/uutiset/lohkoketju-mahdollistaa-taysin-digitaalisen-identiteetin-uusille-yrityksille</a></p>
-<p>Published by <a href="https://docs.google.com/" title="Learn more about Google Drive">Google Drive</a>-<a href="https://docs.google.com/abuse?id=e/2PACX-1vRMNBJ8k61z_LO-wGvGc6_bGtrvMejrtYkxUfy5zZ9s_dHaLHK8mZxa3LGP018vHYdFgqt87dPsSGaV">Report Abuse</a>-Updated automatically every 5 minutes</p>
+<p>Painopaikka Markprint<br>
+Lahti 2018</p>
 
